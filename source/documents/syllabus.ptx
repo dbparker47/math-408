@@ -98,7 +98,7 @@
       <subsubsection xml:id="prerequisite">
         <title>Prerequisite</title>
         <p>
-          (MTH 203 and one of the following (MTH 315, MTH 331, MTH 350, or MTH 431) or (MTH 210 and permission of instructor).
+          MTH 203 and one of the following (MTH 315, MTH 331, MTH 350, or MTH 431) or (MTH 210 and permission of instructor).
         </p>
       </subsubsection>
       <subsubsection>
@@ -168,7 +168,7 @@
       <subsubsection xml:id="grading">
         <title>Grading</title>
         <p>
-          You will be graded on activity quizzes, homework, a portfolio project, three midterm exams, and a final exam.
+          You will be graded on class activity quizzes, homework, a portfolio project, three midterm exams, and a final exam.
         </p>
           <tabular>
             <row>
@@ -192,13 +192,13 @@
         </p>
       </subsubsection>
       <subsubsection xml:id="coding-assignments">
-        <title>Activity Quizzes</title>
+        <title>Class Activity Quizzes</title>
         <p>
-          For each section of the textbook, there is a quiz (sometimes more) for the content covered. Once we complete a section of the textbook, I will bring copies of that quiz to class for you to take. Here are the ground rules on quizzes.
+          For each topic (which generally corresponds to one or two sections of the textbook), there is a quiz for the content covered. Once we complete a topic, I will bring copies of that quiz to class for you to take. Here are the ground rules on quizzes.
           <ul>
             <li>
               <p>
-                You may choose which day to take each quiz. It may either be taken after announcements during any class or in person at my office during office hours or an office appointment.
+                You may choose which day to take each quiz. It may either be taken after announcements &amp; questions during class or in person during office hours or an office appointment.
               </p>
             </li>
             <li>
@@ -242,12 +242,12 @@
           <ul>
             <li>
               <p>
-                On each homework assignment, one of the problems will be a <q>Portfolio Report</q>, where you document your attempts for at least one of the problems.  I will give you feedback on these attempts.
+                On each homework assignment, one of the problems will be a <q>Portfolio Report</q>, where you document your attempts for at least one of the portfolio problems.  I will give you feedback on these attempts.
               </p>
             </li>
             <li>
               <p>
-                You may submit one preliminary draft of your theorem statement and proof for each problem.  I will give you detailed feedback on your submission.
+                You may submit one formal preliminary draft of your theorem statement and proof for each problem.  I will give you detailed feedback on your submission.
               </p>
             </li>
             <li>
@@ -261,24 +261,24 @@
       <subsubsection xml:id="exams">
         <title>Exams</title>
         <p>
-          There will be three exams and a final exam. All problems come from your homework assignments (except for the final exam). No notes or technology are allowed during any exams except a non-networked calculator (not your phone or computer). Each exam (except the final exam) will be given during two class periods. In the first class period, you make as much progress as you can, and then you turn in the exam to me. Five days later, I will return your exam to you in class so that you can finish the exam. Between the first and second parts of the exam, the exam problems will be available to you so that you can study them and ask questions.
+          There will be three exams and a final exam. All exam problems come from your homework assignments (except for the final exam). No notes are allowed during any exams. <alert>Each exam (except the final exam) will be given during two class periods. In the first class period, you make as much progress as you can, and then you turn in the exam to me. Five days later, I will return your exam to you in class so that you can finish the exam. Between the first and second parts of the exam, the exam problems will be available to you so that you can study them and ask questions.</alert>
           <dl>
             <li>
               <title>Exam 1</title>
               <p>
-                Friday 9/26 and Wednesday 10/1
+                Thursday 10/1
               </p>
             </li>
             <li>
               <title>Exam 2</title>
               <p>
-                Friday 10/24 and Wednesday 10/29
+                Thursday 10/29
               </p>
             </li>
             <li>
               <title>Exam 3</title>
               <p>
-                Wednesday 11/19 and Monday 11/24
+                Thursday 12/3
               </p>
             </li>
           </dl>
@@ -305,7 +305,7 @@
       <subsubsection xml:id="class-format">
         <title>Class Format</title>
         <p>
-          Our class meets three times each week. You will need to spend a significant amount of time preparing for each class. All preparation materials are found on the <term>Class Preparation Resources and Course Links</term> course module on Blackboard. There you will find a folder for every week of class, and each weekly folder has a document of course resources for each class meeting. There are also links to homework assignments, coding assignments, quiz problems, and information &amp; resources for exams that week. The document for each class meeting has the following.
+          Our class meets twice each week. You will need to spend a significant amount of time preparing for each class. All preparation materials are found on the <term>Class Preparation Resources and Course Links</term> course module on Blackboard. There you will find a folder for every week of class, and each weekly folder has a document of course resources for each class meeting. There are also links to homework assignments, quiz problems, and information &amp; resources for exams that week. The document for each class meeting has the following.
           <ul>
             <li>
               <p>
@@ -354,7 +354,7 @@
           <ul>
             <li>
               <p>
-                <alert>Absences:</alert> You are expected to attend class regularly unless you are ill or have some other emergency. You are responsible for being aware of any material covered and announcements made in class. The FigJam boards that have our notes from class will be available to you, as well as any videos and class activities. I will be happy to help you on Zoom. Also, you may make an office appointment with me to make up any missed work.
+                <alert>Absences:</alert> You are expected to attend class regularly unless you are ill or have some other emergency. You are responsible for being aware of any material covered and announcements made in class. The FigJam boards that have our notes from class will be available to you (links are on Blackboard), as well as any videos and class activities. I will be happy to help you on Zoom. Also, you may make an office appointment with me to make up any missed work.
               </p>
             </li>
             <li>
@@ -369,7 +369,7 @@
             </li>
             <li>
               <p>
-                <alert>University Course Policies:</alert> For information on policies that apply to all GVSU courses, please go to <url href="https://www.gvsu.edu/coursepolicies/">https://www.gvsu.edu/coursepolicies</url>.
+                <alert>University Course Policies:</alert> For information on policies that apply to all GVSU courses, please go to <url href="https://www.gvsu.edu/coursepolicies/">GVSU Course Policies Page</url>.
               </p>
             </li>
             <li>
@@ -421,11 +421,6 @@
                   </li>
                   <li>
                     <p>
-                      Showing you the syntax for something you need for your code in Python (e.g. syntax for creating a dictionary).
-                    </p>
-                  </li>
-                  <li>
-                    <p>
                       Identifying errors in your computations or logic (but not correcting them).
                     </p>
                   </li>
@@ -442,16 +437,6 @@
                       Writing explanations for your computations or proofs on an assignment.
                     </p>
                   </li>
-                  <li>
-                    <p>
-                      Generating code for a coding assignment.
-                    </p>
-                  </li>
-                  <li>
-                    <p>
-                      Documenting your code in a coding assignment.
-                    </p>
-                  </li>
                 </ul>
                 Violations of these rules may result in failure of the assignment or failure of the course.
               </p>
@@ -466,47 +451,52 @@
           <ul>
             <li>
               <p>
-                January 11: Classes begin
+                August 31: Classes begin
               </p>
             </li>
             <li>
               <p>
-                January 15: 100% tuition refund deadline; last day to add a class (5:00 pm)
+                September 4: 100% tuition refund deadline; last day to add a class (5:00 pm)
               </p>
             </li>
             <li>
               <p>
-                January 18: Martin Luther King Jr. Day (no classes)
+                September 7: Labor Day (no classes)
               </p>
             </li>
             <li>
               <p>
-                February 5: 75% tuition refund deadline; last day for CR/NC changes (5:00 pm)
+                September 25: 75% tuition refund deadline; last day for CR/NC changes (5:00 pm)
               </p>
             </li>
             <li>
               <p>
-                March 6-14: Spring Break (no classes)
+                October 26-27: Fall Break (no classes)
               </p>
             </li>
             <li>
               <p>
-                March 26: Deadline for withdrawing from a class (5:00 pm)
+                November 13: Deadline for withdrawing from a class (5:00 pm)
               </p>
             </li>
             <li>
               <p>
-                April 23: Classes end
+                November 25-29: Thanksgiving Break (no classes)
               </p>
             </li>
             <li>
               <p>
-                April 24 - May 1: Exam Week
+                December 11: Classes end
               </p>
             </li>
             <li>
               <p>
-                May 6: Grades available to students
+                December 12-19: Exam Week
+              </p>
+            </li>
+            <li>
+              <p>
+                December 24: Grades available to students
               </p>
             </li>
           </ul>
