@@ -17,37 +17,12 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the definition of a <em>rational number</em>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
+                            Prove that a given number is irrational.
                         </p>
                     </li>
                 </ul>
@@ -61,32 +36,17 @@
                 <ul>
                     <li>
                         <p>
-
+                            Explain the fundamental properties of the real numbers, including the <em>field</em> and <em>order</em> properties.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use the properties of real numbers to prove theorems about real numbers.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                             
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
+                            Use intuitive understandings of real numbers, including models like the number line, to help you solve problems involving real numbers.
                         </p>
                     </li>
                 </ul>
@@ -100,7 +60,32 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            State the definition of the <em>absolute value function</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the role the absolute value function plays in defining distance between two real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use properties of the absolute value function, including the triangle inequality and the fact that <m>|x| &lt; M</m> if and only if <m>-M &lt; x &lt; M</m> to prove theorems involving absolute value.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the formal definition of \emph{intervals} to prove theorems about intervals, including proving that a given set of real numbers is an interval.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Connect the formal definition of intervals with your informal understanding of what an interval is.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use some of the tricks we use to prove inequalities, including using the fact that a square of a real number is always nonnegative and <m>x &lt; y</m> if and only if <m>y-x &gt; 0</m>.
                         </p>
                     </li>
                 </ul>
@@ -114,27 +99,17 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Given a set <m>S</m> of real numbers, explain both what it means for a real number to be an <em>upper bound</em> of <m>S</m> and what it means for a real number <em>not to be an upper bound</em> of <m>S</m>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Given a set <m>S</m> of real numbers, explain both what it means to be a <em>lower bound</em> of <m>S</m> and <em>not a lower bound</em> of <m>S</m>.
                         </p>
                     </li>
                     <li>
                         <p>
-                             
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
+                             Prove theorems involving upper and lower bounds.
                         </p>
                     </li>
                 </ul>
@@ -148,7 +123,37 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the definitions of <em>supremum</em> and <em>infimum</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Be aware of the dual nature of suprema and infima.  In other words, understand the supremum as being an upper bound of a set and that every smaller number is not an upper bound.  Similarly, understand the infimum as being a lower bound of a set and that every larger number is not a lower bound of the set.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the statement of the <em>completeness axiom</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the axiomatic definition of the real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Recognize that the axiomatic definition of the real numbers does not automatically imply that a set of real numbers exists, nor does it automatically imply that there is a unique set of real numbers satisfying the definition.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the completeness axiom to construct real numbers.  For example, <m>\sqrt{2}</m> can be shown to be the supremum of <m>\{ x \in \mathbb{Q} : x^2 &lt; 2\}</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the completeness axiom to prove theorems about real numbers.
                         </p>
                     </li>
                 </ul>
@@ -162,7 +167,12 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the link between the completeness axiom and the <em>Archimedian Property</em> of real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the Archimedian Property to prove theorems about real numbers.
                         </p>
                     </li>
                 </ul>
@@ -176,7 +186,7 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Use the Archimedian Property to prove that between any two distinct real numbers, there is both a rational and an irrational number.
                         </p>
                     </li>
                 </ul>
@@ -190,7 +200,17 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the definition of a <em>real-valued function</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain definitions related to real-valued functions, such as <em>increasing functions</em>, <em>decreasing functions</em>, <em>monotone functions</em>, <em>bounded above functions</em>, <em>bounded below functions</em>, <em>maximum and minimum values of functions</em>, <em>relative maxima</em>, <em>relative minima</em>, and <em>relative extrema</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove theorems that involve these concepts.
                         </p>
                     </li>
                 </ul>
@@ -207,17 +227,27 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain what it means for two sets to have the same <em>cardinality</em>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Construct one-to-one, onto functions between two sets that have the same cardinality.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Explain the definition of <em>countable sets</em>, <em>countably infinite sets</em>, and <em>uncountable sets</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove a given set is countable.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the proof that the set of real numbers is uncountable.
                         </p>
                     </li>
                 </ul>
@@ -231,22 +261,17 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain what it means for a sequence <m>\{ x_n \}</m> to converge to a real number <m>L</m>.  This means both knowing the precise mathematical definition for use in proving theorems about the limits of sequences, as well as being able to connect the formal definition of convergence with our intuitive understanding of the limit of a sequence.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Given a sequence <m>\{ x_n \}</m>, use your intuition or other methods to guess the limit.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            
+                            Given a sequence <m>\{ x_n \}</m> and a guess at its limit, use the formal definition of convergence to verify the limit.
                         </p>
                     </li>
                 </ul>
@@ -260,7 +285,22 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Use tools like the triangle inequality to prove theorems about the convergence of sequences.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given <m>\epsilon > 0</m>, think flexibly about quantities like <m>\frac{\epsilon}{2}</m> or <m>\frac{\epsilon}{3}</m>, being able to see these numbers as playing the role of <q><m>\epsilon</m></q> in the definition of convergence. 
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the flexibility described in the previous objective to prove theorems about the convergence of sequences.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use theorems about limits of sequences to prove theorems about limits of sequences.
                         </p>
                     </li>
                 </ul>
@@ -268,13 +308,28 @@
         </subsubsection>
 
         <subsubsection xml:id="section-28">
-            <title>Squeeze Theorem (Section 2.8)</title>
+            <title>Squeeze Theorem &amp; Monotone Convergence Theorem (Sections 2.8 &amp; 2.9)</title>
             <p>
                 You should be able to do the following:
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain what it means for a sequence to be <em>monotone</em> and what it means for a sequence to be <em>bounded</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that a given sequence is monotone and/or bounded.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that a <em>monotone bounded sequence</em> converges. and that the limit of a bounded increasing (resp. decreasing) sequence converges to its supremum (resp. infimum).
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the <em>Squeeze Theorem</em> to prove theorems about limits of sequences.
                         </p>
                     </li>
                 </ul>
@@ -288,7 +343,17 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Have an intuitive understanding of what a <em>subsequence</em> of a given sequence is.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Connect your intuitive understanding of subsequences to the formal definition of a subsequence.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove why every sequence has a monotone subsequence and use this fact to prove that every bounded sequence has a convergent subsequence (i.e. <em>Bolzano-Weierstrauss Theorem</em>).
                         </p>
                     </li>
                 </ul>
@@ -296,13 +361,43 @@
         </subsubsection>
 
         <subsubsection xml:id="section-212">
-            <title>Cauchy Sequences (Section 2.12)</title>
+            <title>Cauchy Sequences, Limit Inferior, &amp; Limit Superior (Sections 2.12 &amp; 2.13)</title>
             <p>
                 You should be able to do the following:
                 <ul>
                     <li>
                         <p>
-                            
+                            Prove that a given sequence is a <em>Cauchy sequence</em> using the definition.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain how Cauchy sequences characterize convergent sequences without requiring us to know what the limit is.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the fact that a sequence converges if and only if it is Cauchy to prove theorems about sequences and real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            \item Given a sequence <m>\{ x_n \}</m>, explain where the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m>, where <m>a_n = \inf\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> and <m>b_n= \sup\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> are used.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that <m>\{ a_n \}</m> is an increasing sequence and <m>\{ b_n \}</m> is a decreasing sequence.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the definition of <em><m>\lim_{x \rightarrow \infty}</m> inf <m>x_n</m></em> and <em><m>\lim_{x \rightarrow \infty}</m> sup <m>x_n</m></em>. 
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that a sequence converges if and only if <m>\lim_{x \rightarrow \infty}</m> inf <m>x_n= \lim_{x \rightarrow \infty}</m> sup <m>x_n</m>.
                         </p>
                     </li>
                 </ul>
