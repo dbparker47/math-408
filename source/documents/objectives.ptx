@@ -25,6 +25,11 @@
                             Prove that a given number is irrational.
                         </p>
                     </li>
+                    <li>
+                        <p>
+                            Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+                        </p>
+                    </li>
                 </ul>
             </p>
         </subsubsection>
@@ -46,7 +51,7 @@
                     </li>
                     <li>
                         <p>
-                            Use intuitive understandings of real numbers, including models like the number line, to help you solve problems involving real numbers.
+                            Use intuitive understandings of real numbers, including models like displacement and the number line, to help you solve problems involving real numbers.
                         </p>
                     </li>
                 </ul>
@@ -75,7 +80,7 @@
                     </li>
                     <li>
                         <p>
-                            Use the formal definition of \emph{intervals} to prove theorems about intervals, including proving that a given set of real numbers is an interval.
+                            Use the formal definition of <em>intervals</em> to prove theorems about intervals, including proving that a given set of real numbers is an interval.
                         </p>
                     </li>
                     <li>
@@ -85,7 +90,7 @@
                     </li>
                     <li>
                         <p>
-                            Use some of the tricks we use to prove inequalities, including using the fact that a square of a real number is always nonnegative and <m>x &lt; y</m> if and only if <m>y-x &gt; 0</m>.
+                            Use some of the tricks we use to prove inequalities, including using the facts that a square of a real number is always nonnegative and <m>x &lt; y</m> if and only if <m>y-x &gt; 0</m>.
                         </p>
                     </li>
                 </ul>
@@ -167,12 +172,12 @@
                 <ul>
                     <li>
                         <p>
-                            Explain the link between the completeness axiom and the <em>Archimedian Property</em> of real numbers.
+                            Explain the link between the completeness axiom and the <em>Archimedean Property</em> of real numbers.
                         </p>
                     </li>
                     <li>
                         <p>
-                            Use the Archimedian Property to prove theorems about real numbers.
+                            Use the Archimedean Property to prove theorems about real numbers.
                         </p>
                     </li>
                 </ul>
@@ -186,7 +191,7 @@
                 <ul>
                     <li>
                         <p>
-                            Use the Archimedian Property to prove that between any two distinct real numbers, there is both a rational and an irrational number.
+                            Use the Archimedean Property to prove that between any two distinct real numbers, there is both a rational and an irrational number.
                         </p>
                     </li>
                 </ul>
@@ -237,7 +242,7 @@
                     </li>
                     <li>
                         <p>
-                            Explain the definition of <em>countable sets</em>, <em>countably infinite sets</em>, and <em>uncountable sets</em>.
+                            Explain the definitions of <em>countable sets</em>, <em>countably infinite sets</em>, and <em>uncountable sets</em>.
                         </p>
                     </li>
                     <li>
@@ -353,7 +358,7 @@
                     </li>
                     <li>
                         <p>
-                            Prove why every sequence has a monotone subsequence and use this fact to prove that every bounded sequence has a convergent subsequence (i.e. <em>Bolzano-Weierstrauss Theorem</em>).
+                            Prove why every sequence has a monotone subsequence, and use this fact to prove that every bounded sequence has a convergent subsequence (i.e. the <em>Bolzano-Weierstrauss Theorem</em>).
                         </p>
                     </li>
                 </ul>
@@ -382,7 +387,7 @@
                     </li>
                     <li>
                         <p>
-                            \item Given a sequence <m>\{ x_n \}</m>, explain where the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m>, where <m>a_n = \inf\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> and <m>b_n= \sup\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> are used.
+                            Given a sequence <m>\{ x_n \}</m>, explain where the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> are used, where <m>a_n = \inf\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> and <m>b_n= \sup\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m>.
                         </p>
                     </li>
                     <li>
@@ -392,26 +397,12 @@
                     </li>
                     <li>
                         <p>
-                            Explain the definition of <em><m>\lim_{x \rightarrow \infty}</m> inf <m>x_n</m></em> and <em><m>\lim_{x \rightarrow \infty}</m> sup <m>x_n</m></em>. 
+                            Explain the definitions of <m>\lim_{x \rightarrow \infty}</m> inf <m>x_n</m> and <m>\lim_{x \rightarrow \infty}</m> sup <m>x_n</m>. 
                         </p>
                     </li>
                     <li>
                         <p>
                             Prove that a sequence converges if and only if <m>\lim_{x \rightarrow \infty}</m> inf <m>x_n= \lim_{x \rightarrow \infty}</m> sup <m>x_n</m>.
-                        </p>
-                    </li>
-                </ul>
-            </p>
-        </subsubsection>
-
-        <subsubsection xml:id="section-213">
-            <title>Limit Inferior &amp; Limit Superior (Section 2.13)</title>
-            <p>
-                You should be able to do the following:
-                <ul>
-                    <li>
-                        <p>
-                            
                         </p>
                     </li>
                 </ul>
@@ -428,7 +419,7 @@
                 <ul>
                     <li>
                         <p>
-                            Explain basic principles of using one number system to construct another number system.
+                            Explain basic principles of using a known number system to construct another number system.
                         </p>
                     </li>
                     <li>
@@ -491,7 +482,7 @@
                 <ul>
                     <li>
                         <p>
-                            Explain the definition of addition and multiplication of real numbers, where the real numbers are equivalence classes.
+                            Explain the definition of addition and multiplication of real numbers, where the real numbers are equivalence classes of Cauchy sequences.
                         </p>
                     </li>
                     <li>
@@ -525,7 +516,7 @@
                 <ul>
                     <li>
                         <p>
-                            Explain the definition of the relation <m>&lt;</m> on the set of real numbers, where the real numbers are equivalence classes.
+                            Explain the definition of the relation <m>&lt;</m> on the set of real numbers, where the real numbers are equivalence classes of Cauchy sequences.
                         </p>
                     </li>
                     <li>
@@ -581,27 +572,42 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Have a good intuitive understanding of what it means for <m>\lim_{x \rightarrow c} f(x) = L</m>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Connect your intuitive understanding of limit to the formal definition of <em>limit</em>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Guess the limit of a given function.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Verify the guess of the limit of a function using the definition of limit.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use theorems about limits to solve problems about limits without using the definition.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            State precisely what it means for a limit not to exist.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that a given limit does not exist.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use sequences to prove a limit either exists or does not exist.
                         </p>
                     </li>
                 </ul>
@@ -615,22 +621,22 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            State the definition of a <em>continuous function</em>.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use the definition of a continuous function to prove that a function is continuous.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use theorems proved in class to prove a function is continuous.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use theorems proved in class to prove a function is <em>not</em> continuous.
                         </p>
                     </li>
                 </ul>
@@ -644,22 +650,32 @@
                 <ul>
                     <li>
                         <p>
-                             
+                             Explain the definition of a <em>uniformly continuous function</em>.
                         </p>
                     </li>
                     <li>
                         <p>
-                             
+                             Be aware that the definition of a uniformly continuous function can be understood as treating the <q><m>c</m></q> in the definition of continuous functions as a variable.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Be aware that because the <q><m>c</m></q> is treated as a variable, uniform continuity is a property of a function on an interval, not at a point.
                         </p>
                     </li>
                     <li>
                         <p>
-                            
+                            Use the definition of a uniformly continuous function to prove a given function is uniformly continuous on a given interval.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the definition of a uniformly continuous function to prove that a given function is not uniformly continuous on a given interval.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain why any continuous function is always uniformly continuous <em>on a closed interval</em>.
                         </p>
                     </li>
                 </ul>
@@ -673,7 +689,22 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the statement of the <em>Extreme Value Theorem</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain the maximum and minimum values of the range of a function in terms of the infimum and supremum of the range.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain how infima and/or suprema are used to prove the Extreme Value Theorem, and thus how this theorem is firmly connected to the Completeness Axiom.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the Extreme Value Theorem to prove theorems about continuous functions.
                         </p>
                     </li>
                 </ul>
@@ -687,7 +718,17 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the statement of the <em>Intermediate Value Theorem</em>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain how infima and/or suprema are used to prove the Intermediate Value Theorem, and thus how this theorems is firmly connected to the Completeness Axiom.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the Intermediate Value Theorem to prove theorems about continuous functions.
                         </p>
                     </li>
                 </ul>
