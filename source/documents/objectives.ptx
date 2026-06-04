@@ -428,7 +428,22 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain basic principles of using one number system to construct another number system.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain what number a given Cauchy sequence of rational numbers represents.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given a real number, determine a Cauchy sequence of rational numbers that represents the real number.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Recognize decimal representations of real numbers as Cauchy sequences that represent the number.
                         </p>
                     </li>
                 </ul>
@@ -442,7 +457,27 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the relation that determines when two Cauchy sequences of rational numbers represent the same real number.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Use the definition of the above relation to determine whether or not two given Cauchy sequences of rational numbers represent the same real number.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain what an <em>equivalence relation</em> is.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that the relation determining when two Cauchy sequences of rational numbers represent the same real number is an equivalence relation.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Recognize that the equivalence classes of this equivalence relation are the real numbers.
                         </p>
                     </li>
                 </ul>
@@ -456,7 +491,27 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the definition of addition and multiplication of real numbers, where the real numbers are equivalence classes.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain potential ambiguities in the definitions of addition and multiplication of real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that addition and multiplication of real numbers is well defined.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given two real numbers, find the sum or product of the numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove the field axioms of real numbers.
                         </p>
                     </li>
                 </ul>
@@ -470,7 +525,27 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the definition of the relation <m>&lt;</m> on the set of real numbers, where the real numbers are equivalence classes.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Explain potential ambiguities in the definitions of the relation <m>&lt;</m> on the set of real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that the relation <m>&lt;</m> is well defined on the set of real numbers.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Given two real numbers <m>a</m> and <m>b</m>, determine whether <m>a &lt; b</m>, <m>b &lt; a</m>, or <m>a=b</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove the ordered field axioms of real numbers.
                         </p>
                     </li>
                 </ul>
@@ -484,7 +559,12 @@
                 <ul>
                     <li>
                         <p>
-                            
+                            Explain the Completeness Axiom.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Prove that our construction of the real numbers as equivalence classes of Cauchy sequences of rational numbers satisfies the Completeness Axiom.
                         </p>
                     </li>
                 </ul>
