@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="ordered-fields">
+  <title>Ordered Fields</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Let <m>F</m> be an ordered field with <m>x,y,z \in F</m>. For the following, use only the ordered field axioms.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Prove that <m>-(x+y) = -x-y</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Prove that <m>x(-z)=-xz</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Prove that <m>x &gt; 0</m> if and only if <m>-x &lt; 0</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Prove that <m>x &lt; 0</m> if and only if <m>-x &gt; 0</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If <m>w &lt; x</m> and  <m>y &lt; z</m>, prove that <m>w+y &lt; x+z</m>. 
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Prove that <m>(-x) \cdot (-y) = xy</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) If <m>x &lt; y</m> and <m>z &lt; 0</m>, prove that <m>xz &gt; yz</m>.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
