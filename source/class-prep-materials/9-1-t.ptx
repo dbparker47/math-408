@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="notes-week-01">
+  <title>Class Preparation for Tuesday, 9/1 (Number Systems - Section 1.2)</title>
+
+  <objectives>
+    <introduction>
+      <p>For the content of this class, you will be expected to be able to do the following:</p>
+    </introduction>
+    <ul>
+      <li>
+        <p>
+          Explain the definition of a <em>rational number</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a given number is irrational.
+        </p>
+      </li>
+      <li>
+        <p>
+          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+        </p>
+      </li>
+    </ul>
+  </objectives>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+  <convention>
+    <title>Number Systems</title>
+    <p>
+        Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      </p>
+    
+    <figure xml:id="video-number-systems">
+      <caption>Videos for Number Systems</caption>
+      <sidebyside>
+        <figure xml:id="youtube-number-systems">
+          <caption>YouTube Video</caption>
+          <video youtube="G44ntA-phnY" />
+        </figure>
+        <figure xml:id="google-number-systems">
+          <caption>Google Drive Video</caption>
+          <video href="https://drive.google.com/file/d/1w_N_VHxzfVG_W-n_GCI6pXVyuZP3Wx5W/view?usp=drive_link" />
+        </figure>
+      </sidebyside>
+    </figure>
+
+    <list>
+      <title></title>
+      <ol>
+        <li>
+          <p>
+            Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
+            <ol>
+              <li>
+                <p>
+                  Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that each of the above numbers is an irrational number.
+                </p>
+              </li>
+            </ol>
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+          </p>
+        </li>
+        <li>
+          <p>
+            (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+          </p>
+        </li>
+      </ol>
+    </list>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </convention>
+
+  <insight>
+    <title></title>
+    <p>
+      Section 1.2: pp. 2-5
+    </p>
+  </insight>
+</section>

@@ -32,8 +32,8 @@
         </p>
       </introduction>
 
-      <xi:include href="./notes/week01.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
+      <!-- <xi:include href="./notes/week01.ptx"/> -->
+      <!-- <xi:include href="./notes/week02.ptx"/> -->
       <!-- etc. -->
 
     </chapter>
@@ -52,6 +52,11 @@
       <xi:include href="./activities/01-intro-activity.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
+    </chapter>
+
+    <chapter xml:id="class-prep">
+      <title>Class Preparation Materials</title>
+      <xi:include href="./class-prep-materials/9-1-t.ptx" />
     </chapter>
 
     <chapter xml:id="in-class-11-12">
