@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="intervals">
+  <title>Intervals</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Solve the following interval problems.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Determine whether or not each of the following is an interval.  Prove it.
+      </p>
+      <ol>
+        <li>
+            <p>
+                <m>\{ x \in {\mathbb R} : x &lt; 0</m> and <m>x^2 &lt; 6 \}</m>.
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>\{ x \in {\mathbb R} : |x| \leq 2</m> or <m>|x-2| &gt; 1 \}</m>
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>I</m> and <m>J</m> be intervals.
+      </p>
+      <ol>
+        <li>
+            <p>
+                Find <m>I</m> and <m>J</m> such that <m>I \cap J</m> is not an interval.
+            </p>
+        </li>
+        <li>
+            <p>
+                If <m>I \cap J</m> has at least two elements, prove that <m>I \cap J</m> is an interval.
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+</worksheet>
