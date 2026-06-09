@@ -1,29 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="uncountable-reals">
+  <title>Uncountability of the Real Numbers</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following is an outline of the proof that the interval <m>[0,1]</m> is uncountable.  Fill in the details of the proof.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Consider the interval <m>I= [0,1]</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Find a closed interval inside <m>I</m> that does not contain <m>\frac{3}{8}</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Find a closed interval inside <m>I</m> that doesn't contain <m>1</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>x \in I</m>.  Prove there is a closed interval inside <m>I</m> that does not contain <m>x</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>J=[a,b]</m>, and let <m>x \in J</m>.  Prove there is a closed interval inside <m>J</m> that does not contain <m>x</m>.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        
+        Suppose <m>[a_2,b_2] \subseteq [a_1,b_1]</m>, <m>[a_3,b_3] \subseteq [a_2,b_2]</m>, etc. In general <m>[a_{n+1},b_{n+1}] \subseteq [a_n,b_n]</m> for all <m>n \geq 1</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Which is bigger: <m>a_1</m> or <m>a_2</m>? <m>a_n</m> or <m>a_{n+1}</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Which is bigger: <m>b_1</m> or <m>b_2</m>? <m>b_n</m> or <m>b_{n+1}</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>A = \{ a_1,a_2,a_3, \ldots \}</m> and <m>B = \{b_1,b_2,b_3, \ldots \}</m>.  Are <m>A</m> and <m>B</m> bounded?
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>a= \sup(A)</m>, <m>b=\inf(B)</m>.  Which is bigger?
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Assume that <m>f: \mathbb{N} \rightarrow \mathbb{R}</m> is onto.  Let <m>I_0 = \mathbb{R}</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            Is there a finite closed interval <m>I_1 \subseteq I_0</m> such that <m>f(1) \notin I_1</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Is there an interval <m>I_2 \subseteq I_1</m> such that <m>f(1),f(2) \notin I_2</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Continue defining <m>I_n</m> for <m>n \in \mathbb{N}</m> as above, and use them to prove a contradiction.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 

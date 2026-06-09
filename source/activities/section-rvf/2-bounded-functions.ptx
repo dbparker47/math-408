@@ -19,17 +19,17 @@
       <ol>
         <li>
           <p>
-            $f: \mathbb{R} \rightarrow \mathbb{R}$, $f(x) = \sin(x)$.
+            <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x) = \sin(x)</m>.
           </p>
         </li>
         <li>
           <p>
-            $f: {\mathbb R} \rightarrow {\mathbb R}$, $f(x)=x^2-6x+5$.  Hint:  Complete the square.
+            <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x)=x^2-6x+5</m>.  Hint:  Complete the square.
           </p>
         </li>
         <li>
           <p>
-            $f: {\mathbb R} \rightarrow {\mathbb R}$, $f(x)=\frac{1}{x^2+1}$.
+            <m>f: {\mathbb R} \rightarrow \mathbb{R}</m>, <m>f(x)=\frac{1}{x^2+1}</m>.
           </p>
         </li>
       </ol>
@@ -39,7 +39,7 @@
   <exercise>
     <statement>
       <p>
-        Let $f: I \rightarrow {\mathbb R}$ be a function, and let $S$ be the range of $f$.  Prove that $f$ has a maximum value if and only if sup$(S) \in S$.  What is the maximum value of $f$ in this case?
+        Let <m>f: I \rightarrow \mathbb{R}</m> be a function, and let <m>S</m> be the range of <m>f</m>.  Prove that <m>f</m> has a maximum value if and only if sup<m>(S) \in S</m>.  What is the maximum value of <m>f</m> in this case?
       </p>
     </statement>
   </exercise>
