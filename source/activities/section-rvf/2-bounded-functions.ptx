@@ -1,28 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="bounded">
+  <title>Bounded Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on bounded functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value.  You may use calculus reasoning to justify your answers.
       </p>
+      <ol>
+        <li>
+          <p>
+            $f: \mathbb{R} \rightarrow \mathbb{R}$, $f(x) = \sin(x)$.
+          </p>
+        </li>
+        <li>
+          <p>
+            $f: {\mathbb R} \rightarrow {\mathbb R}$, $f(x)=x^2-6x+5$.  Hint:  Complete the square.
+          </p>
+        </li>
+        <li>
+          <p>
+            $f: {\mathbb R} \rightarrow {\mathbb R}$, $f(x)=\frac{1}{x^2+1}$.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        
+        Let $f: I \rightarrow {\mathbb R}$ be a function, and let $S$ be the range of $f$.  Prove that $f$ has a maximum value if and only if sup$(S) \in S$.  What is the maximum value of $f$ in this case?
       </p>
     </statement>
   </exercise>

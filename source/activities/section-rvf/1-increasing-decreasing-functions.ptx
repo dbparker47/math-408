@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="increasing-decreasing">
+  <title>Increasing &amp; Decreasing Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on increasing and decreasing functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Define <m>f: (0,\infty) \rightarrow \mathbb{R}</m> by <m>f(x) = \frac{1}{x^2}</m>.  Prove that <m>f</m> is decreasing.
       </p>
     </statement>
   </exercise>
@@ -22,8 +22,38 @@
   <exercise>
     <statement>
       <p>
-        
+        Define <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> by <m>f(x)=x^3</m>.  Prove that <m>f</m> is increasing.  Hint:  When you compare <m>f(x)</m> and <m>f(y)</m>, you will want to consider what the signs of <m>x</m> and <m>y</m> are.
       </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        For <m>f</m> a real-valued function, prove the following.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>f</m> is increasing <m>\Rightarrow g=-f</m> is decreasing.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>f</m> is decreasing <m>\Rightarrow g=-f</m> is increasing.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>f</m> is increasing <m>\Rightarrow g(x)=f(-x)</m> is decreasing.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>f</m> is decreasing <m>\Rightarrow g(x)=f(-x)</m> is increasing.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
