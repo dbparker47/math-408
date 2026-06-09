@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="infimum-supremum">
+  <title>Infima &amp; Suprema</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Solve the following problems on infima and suprema of sets.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions.  You may use the fact (which we will prove shortly) that for every real number <m>y &gt; 0</m>, there exists some <m>n \in \mathbb{N}</m> such that <m>\frac{1}{n} &lt; y</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>(-2,5)</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>S=\{ x \in \mathbb{Q} : x = \left( \frac{1}{2} \right)^n</m> for some <m>n \in \mathbb{N} \}</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>S</m> be a set of integers with a supremum <m>x</m>.  Prove that <m>x \in S</m>. Hint: Consider what must be true about both <m>x</m> and <m>x-1</m>.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

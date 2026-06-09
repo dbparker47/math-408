@@ -57,12 +57,110 @@
       <xi:include href="./activities/section-13-14/2-inequalities.ptx" />
     </chapter>
 
+    <chapter xml:id="in-class-110">
+      <title>In-Class Activities: Section 1.10</title>
+      <xi:include href="./activities/section-110/1-absolute-value.ptx" />
+    </chapter>
+
     <chapter xml:id="in-class-15">
       <title>In-Class Activities: Section 1.5</title>
       <xi:include href="./activities/section-15/1-intervals.ptx" />
+      <xi:include href="./activities/section-15/2-upper-lower-bounds.ptx" />
     </chapter>
 
-    <!-- Include additional chapters for other categories -->
+    <chapter xml:id="in-class-16">
+      <title>In-Class Activities: Section 1.6</title>
+      <xi:include href="./activities/section-16/1-infimum-and-supremum.ptx" />
+      <xi:include href="./activities/section-16/2-completeness-axiom.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-17">
+      <title>In-Class Activities: Section 1.7</title>
+      <xi:include href="./activities/section-17/1-archimedean-property.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-19">
+      <title>In-Class Activities: Section 1.9</title>
+      
+    </chapter>
+
+    <chapter xml:id="in-class-rvf">
+      <title>In-Class Activities: Real-Valued Functions</title>
+      <xi:include href="./activities/section-rvf/1-increasing-decreasing-functions.ptx" />
+      <xi:include href="./activities/section-rvf/2-bounded-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-23">
+      <title>In-Class Activities: Section 2.3</title>
+      <xi:include href="./activities/section-23/1-cardinality.ptx" />
+      <xi:include href="./activities/section-23/2-uncountability-of-reals.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-24">
+      <title>In-Class Activities: Section 2.4</title>
+      <xi:include href="./activities/section-24/1-introduction-to-sequences.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-26-27">
+      <title>In-Class Activities: Sections 2.6 &amp; 2.7</title>
+      <xi:include href="./activities/section-26-27/1-general-sequence-theorems.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-28">
+      <title>In-Class Activities: Section 2.8</title>
+      <xi:include href="./activities/section-28/1-squeeze-theorem.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-211">
+      <title>In-Class Activities: Section 2.11</title>
+      <xi:include href="./activities/section-211/1-introduction-to-subsequences.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-212">
+      <title>In-Class Activities: Section 2.12</title>
+      <xi:include href="./activities/section-212/1-introduction-to-cauchy-sequences.ptx" />
+      <xi:include href="./activities/section-212/2-cauchy-sequences-converge.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-213">
+      <title>In-Class Activities: Section 2.13</title>
+      <xi:include href="./activities/section-213/1-limit-inferior-superior.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-crn">
+      <title>In-Class Activities: Constructing the Real Numbers</title>
+      <xi:include href="./activities/section-crn/1-representing-real-numbers.ptx" />
+      <xi:include href="./activities/section-crn/2-equivalent-cauchy-sequences.ptx" />
+      <xi:include href="./activities/section-crn/3-arithmetic-operations.ptx" />
+      <xi:include href="./activities/section-crn/4-order-relation.ptx" />
+      <xi:include href="./activities/section-crn/5-completeness-axiom.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-51-52">
+      <title>In-Class Activities: Section 5.1 &amp; 5.2</title>
+      <xi:include href="./activities/section-51-52/1-introduction-to-limits.ptx" />
+      <xi:include href="./activities/section-51-52/2-using-sequences-for-finding-limits.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-54-55">
+      <title>In-Class Activities: Sections 5.4 &amp; 5.5</title>
+      <xi:include href="./activities/section-54-55/1-continuous-functions.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-56">
+      <title>In-Class Activities: Section 5.6</title>
+      <xi:include href="./activities/section-56/1-uniform-continuity.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-57">
+      <title>In-Class Activities: Section 5.7</title>
+      <xi:include href="./activities/section-57/1-extreme-value-theorem.ptx" />
+    </chapter>
+
+    <chapter xml:id="in-class-58">
+      <title>In-Class Activities: Section 5.8</title>
+      <xi:include href="./activities/section-58/1-intermediate-value-theorem.ptx" />
+    </chapter>
 
     </book>
   </pretext>

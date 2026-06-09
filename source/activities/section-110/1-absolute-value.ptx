@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="absolute-value">
+  <title>Absolute Value</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Solve the following absolute value problems.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Prove the following.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>-|a| \leq a \leq |a|</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>|ab|=|a| \cdot |b|</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>|-a|=|a|</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>|a| &lt; c</m> if and only if <m>-c &lt; a &lt; c</m>.
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>a \in \mathbb{R}</m> and that <m>|a| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.  What can $a$ be?  Prove it.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Under what circumstances is <m>|a+b|=|a|+|b|</m>?  What is <m>|a+b|</m> in the other cases?
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

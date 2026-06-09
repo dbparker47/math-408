@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="">
+  <title></title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

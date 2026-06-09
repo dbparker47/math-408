@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="completeness-16">
+  <title>Completeness Axiom</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Solve the following Completeness Axiom problems.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>x \in \mathbb{R}</m>.  Prove that there exists an integer <m>n</m> such that <m>n \leq x &lt; n+1</m>.  Hint:  Let <m>S= \{ m \in {\mathbb Z} : m \leq x \}</m>.  Can <m>S=\emptyset</m>?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>S</m> be a set of real numbers that is bounded below.
+      </p>
+      <ol>
+        <li>
+          <p>
+            Prove that the set <m>T = \{ x \in \mathbb{R} : -x \in S \}</m> is bounded above.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the Completeness Axiom on <m>T</m> as well as your number smarts to prove that <m>S</m> has an infimum.
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If <m>a,b \in \mathbb{R}</m> with <m>a,b &gt; 0</m>, let <m>A=\{ a, 2a, 3a, 4a, \ldots \}</m>. Use the completeness axiom to prove that there is some <m>n \in \mathbb{N}</m> such that <m>na &gt; b</m>.  Hint:  If <m>na &lt; b</m> for all <m>n \in \mathbb{N}</m>, what does that say about the set <m>A</m> defined above?
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

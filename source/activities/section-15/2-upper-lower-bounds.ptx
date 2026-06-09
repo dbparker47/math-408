@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="bounds">
+  <title>Upper &amp; Lower Bounds</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Solve these problems on upper and lower bounds.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Consider the set <m>(3,5) = \{ x \in \mathbb{R} : 3 &lt; x &lt; 5 \}</m>.
+      </p>
+      <ol>
+        <li>
+            <p>
+                Find three upper bounds of <m>(3,5)</m>.
+            </p>
+        </li>
+        <li>
+            <p>
+                Find three lower bounds of <m>(3,5)</m>.
+            </p>
+        </li>
+        <li>
+            <p>
+                How many upper bounds does <m>(3,5)</m> have?  How many lower bounds?
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that a set <m>S \subseteq \mathbb{R}</m>.
+      </p>
+      <ol>
+        <li>
+            <p>
+                Prove that if <m>S</m> is bounded, then there exists <m>B \in \mathbb{R}</m> such that <m>|x| \leq B</m> for all <m>x \in S</m>.  Hint: Consider the cases <m>x \ge 0</m> and <m>x &lt; 0</m> separately.
+            </p>
+        </li>
+        <li>
+            <p>
+                Prove that if there exists <m>B \in \mathbb{R}</m> such that <m>|x| \leq B</m> for all <m>x \in S</m>, then <m>S</m> is bounded.
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+</worksheet>

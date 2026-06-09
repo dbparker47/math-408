@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="archimedean">
+  <title>Archimedean Property</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Use the Archimedean Property to prove each of the following.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>\mathbb{Z}</m> is neither bounded above nor bounded below.   In other words, for each real number <m>x</m>, there is an integer that is greater than <m>x</m> and another integer that is smaller than <m>x</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>x &gt; 0</m>.  Then there exists <m>n \in \mathbb{N}</m> such that <m>\frac{1}{n} &lt; x</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>x,y,z \in \mathbb{R}</m> with <m>x &lt; y</m>, and <m>z &gt; 0</m>.  Prove there is an integer <m>n</m> such that <m>x+\frac{z}{n} &lt; y</m>.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
