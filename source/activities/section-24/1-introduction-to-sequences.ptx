@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="intro-sequences">
+  <title>Introduction to Sequences</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on sequences.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Determine what the following converge to, if anything.  Prove your result.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>\left\{ \frac{2n}{3n+2} \right\}</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\left\{ \frac{n^2}{n^2+2} \right\}</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>\{ x_n \}</m> is a bounded increasing sequence.  Must the sequence converge? If so, to what?  What about bounded decreasing sequences?
       </p>
     </statement>
   </exercise>
@@ -22,8 +42,30 @@
   <exercise>
     <statement>
       <p>
-        
+        Define the sequence <m>\{ a_n \}</m> by <m>a_1=\frac12</m>, and <m>a_{n+1}=\sqrt{a_n}</m> for all <m>n \geq 2</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Prove that <m>a_n &lt; 1</m> for all <m>n \geq 1</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ a_n \}</m> is monotone.
+          </p>
+        </li>
+        <li>
+          <p>
+            What can you conclude?
+          </p>
+        </li>
+        <li>
+          <p>
+            (Not on quiz) Can you find a sneaky way to find the limit of the sequence?
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
