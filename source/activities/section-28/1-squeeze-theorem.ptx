@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="squeeze-sequence">
+  <title>Squeeze Theorem</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Use the Squeeze Theorem to prove the following.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Prove that the sequence <m>\left\{ \frac{4^n}{n!} \right\}</m> converges to zero.  Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,32 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>S</m> be a set of real numbers that is bounded above.
+      </p>
+      <ol>
+        <li>
+          <p>
+            Explain why <m>S</m> has a supremum <m>\beta</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            For each <m>n \in \mathbb{N}</m>, prove that there is a number <m>a_n \in S</m> that is bigger than <m>\beta - \frac{1}{n}</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ a_n \}</m> converges to <m>\beta</m>.
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>S</m> be a set of real numbers that is bounded below and has infimum <m>\alpha</m>.  Prove that there is a sequence in <m>S</m> that converges to <m>\alpha</m>.
       </p>
     </statement>
   </exercise>

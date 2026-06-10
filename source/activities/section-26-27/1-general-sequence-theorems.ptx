@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="general-sequence">
+  <title>General Sequence Theorems</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Assume <m>\{a_n\}</m> converges to <m>a</m> and <m>\{ b_n \}</m> converges to <m>b</m>.  Determine what the following converge to and prove your result.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        <m>\{ a_n -b_n \}</m>
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,31 @@
   <exercise>
     <statement>
       <p>
-        
+        <m>\{ ca_n \}</m>, where <m>c \in \mathbb{R}</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>\{ a_nb_n \}</m>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>\{ \frac{1}{b_n} \}</m>, where each <m>b_n \ne 0</m> and <m>b \ne 0</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        <m>\{ \frac{a_n}{b_n} \}</m>, where each <m>b_n \ne 0</m> and <m>b \ne 0</m>. Hint:  Don't use the definition.  Use #3 and #4 above.
       </p>
     </statement>
   </exercise>
