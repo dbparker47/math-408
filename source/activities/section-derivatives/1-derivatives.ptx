@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="derivatives">
+  <title>Derivatives</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Compute <m>f'(a)</m> from the limit definition.
+      </p>
+      <ol>
+        <li>
+            <p>
+                <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x) = x^2+2x</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>f: (0,\infty) \rightarrow \mathbb{R}</m>, <m>f(x) = \frac{1}{x}</m>
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>f'(a)</m> exists.  Prove that <m>f</m> is continuous at <m>x=a</m>.  Hint:  Prove that <m>\displaystyle \lim_{x \rightarrow a} [f(x) - f(a)] = 0</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose we know <m>f'(a)</m> and <m>g'(a)</m>.  Find <m>h'(a)</m>, where
+      </p>
+      <ol>
+        <li>
+            <p>
+                <m>h(x) = k f(x)</m>, <m>k</m> a constant.
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>h(x) = f(x)+g(x)</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>h(x) = \frac{1}{g(x)}</m>
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>h(x) = f(x)g(x)</m>.  Suppose you know <m>f'(a)</m> and <m>g'(a)</m>.
+      </p>
+      <ol>
+        <li>
+            <p>
+                What are the dimensions of a rectangle with area <m>h(x)</m>?  What about <m>h(a)</m>?
+            </p>
+        </li>
+        <li>
+            <p>
+                Carefully draw one of the above rectangles inside the other and find a formula for <m>h(x)-h(a)</m>.  Verify the formula algebraically.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use your result in (b) to find <m>h'(a)</m>.
+            </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>h(x) = \frac{f(x)}{g(x)}</m>, and suppose you know <m>f'(a)</m> and <m>g'(a)</m>.  Compute <m>h'(a)</m>.  Hint: Use #3(c) and #4.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

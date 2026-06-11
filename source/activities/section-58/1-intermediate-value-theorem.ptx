@@ -1,29 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="intermediate-value">
+  <title>Intermediate Value Theorem</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following is to help you understand and prove the Intermediate Value Theorem.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>c \in \mathbb{R}</m> with <m>f(a) &lt; c &lt; f(b)</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Draw a picture of this situation, along with some possible graphs for <m>f</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>t</m> be the first value of <m>x</m> where <m>f(x)=c</m> and <m>s</m> be the last value of <m>x</m> where <m>f(x)=c</m>.  What is true about <m>f</m> on <m>[a,t)</m>?  What about on <m>(s,b]</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Define <m>S = \{ x \in [a,b] : f(x) \leq c \}</m> and <m>T = \{ x \in [a,b] : f(x) \geq c \}</m>. What is <m>\sup(S)</m> in your pictures?  What is <m>\inf(T)</m> in your pictures?
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f</m>, <m>S</m>, and <m>T</m> be as above.  Define <m>s = \sup(S)</m>, and <m>t= \inf(T)</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Prove that <m>S</m> and <m>T</m> are bounded.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that there are sequences <m>\{ s_n \}</m> and <m>\{ t_n \}</m> with each <m>s_n \in S</m> and each <m>t_n \in T</m> such that <m>s_n \rightarrow s</m> and <m>t_n \rightarrow t</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            To what do <m>\{ f(s_n) \}</m> and <m>\{ f(t_n) \}</m> converge?
+          </p>
+        </li>
+        <li>
+          <p>
+            What is the largest possible value of <m>f(s)</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            What is the smallest possible value of <m>f(t)</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            What is true about all elements of <m>(s,b]</m>?  What about <m>[a,t)</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Use what you found above to determine <m>f(s)</m> and <m>f(t)</m>.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 

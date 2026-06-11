@@ -162,5 +162,10 @@
       <xi:include href="./activities/section-58/1-intermediate-value-theorem.ptx" />
     </chapter>
 
+    <chapter xml:id="in-class-derivatives">
+      <title>In-Class Activities: Derivatives</title>
+      <xi:include href="./activities/section-derivatives/1-derivatives.ptx" />
+    </chapter>
+
     </book>
   </pretext>
