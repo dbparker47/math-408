@@ -1,29 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="cauchy-converge">
+  <title>Cauchy Sequences are Convergent Sequences (and Vice-Versa)</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      The following are some problems leading to the result that being convergent and being Cauchy are equivalent.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>A,B \subseteq \mathbb{R}</m> with <m>A \subseteq B</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            If <m>B</m> is bounded above, which is bigger, sup<m>(A)</m> or sup<m>(B)</m>? Prove.
+          </p>
+        </li>
+        <li>
+          <p>
+            If <m>B</m> is bounded below, which is bigger, inf<m>(A)</m> or inf<m>(B)</m>? Prove.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>\{ x_n \}</m> be a bounded sequence, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>.  Define <m>a_n =</m> inf<m>(S_n)</m> and <m>b_n =</m> sup<m>(S_n)</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Prove that <m>\{ a_n \}</m> is an increasing sequence.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ b_n \}</m> is a decreasing sequence.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ a_n \}</m> and <m>\{ b_n \}</m> are bounded.
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>\{ x_n \}</m> be a Cauchy sequence, and let <m>\{ a_n \}</m> and <m>\{ b_n \}</m> be as in #2.  Let <m>\epsilon &gt; 0</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            Prove that <m>\{ a_n \}</m> converges to some number <m>a</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ b_n \}</m> converges to some number <m>b</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - a_N \right|  &lt; \epsilon</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - b_N \right|  &lt; \epsilon</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ x_n \}</m> converges to <m>a</m> or prove that <m>\{ x_n \}</m> converges to <m>b</m> (your choice). Hint: Use the facts that <m>\{ x_n \}</m> is Cauchy; that either <m>\{ a_n \}</m> converges to <m>a</m> or <m>\{ b_n \}</m> converges to <m>b</m>; either (c) or (d); and some triangle inequality magic.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 

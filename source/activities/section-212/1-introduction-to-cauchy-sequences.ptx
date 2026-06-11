@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="intro-cauchy-sequences">
+  <title>Introduction to Cauchy Sequences</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following Cauchy Sequence problems.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Prove that <m>\left\{ \frac{1}{n} \right\}</m> is a Cauchy sequence using the definition.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,23 @@
   <exercise>
     <statement>
       <p>
-        
+        Suppose that <m>\{ a_n \}</m> and <m>\{ b_n \}</m> are Cauchy sequences. Prove that <m>\{ a_n+b_n \}</m> is a Cauchy sequence.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>\{ a_n \}</m> converges to the limit <m>L</m>.  Prove that <m>\{ a_n \}</m> is a Cauchy sequence.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>\{ a_n \}</m> is a Cauchy sequence.  Prove that <m>\{ a_n \}</m> is bounded. Hint:  When you apply the definition of Cauchy sequence to an <m>\epsilon</m> of your choice and set up <m>|x_m - x_n| &lt; \epsilon</m>, fix <m>n = N+1</m> and see where <m>x_m</m> must lie.
       </p>
     </statement>
   </exercise>

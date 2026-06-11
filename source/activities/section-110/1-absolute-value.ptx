@@ -44,7 +44,7 @@
   <exercise>
     <statement>
       <p>
-        Suppose that <m>a \in \mathbb{R}</m> and that <m>|a| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.  What can $a$ be?  Prove it.
+        Suppose that <m>a \in \mathbb{R}</m> and that <m>|a| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.  What can <m>a</m> be?  Prove it.
       </p>
     </statement>
   </exercise>

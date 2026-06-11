@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="limits-sequences">
+  <title>Using Sequences to Determine Limits</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Use our result on using sequences to determine limits to solve the following.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Suppose <m>\displaystyle \lim_{x \rightarrow a} f(x)=L_1</m> and <m>\displaystyle \lim_{x \rightarrow a} g(x) =L_2</m>.  Determine the following and prove your guess.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>\displaystyle \lim_{x \rightarrow a} (f(x)+g(x))</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\displaystyle \lim_{x \rightarrow a} (f(x)-g(x))</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\displaystyle \lim_{x \rightarrow a} f(x)g(x)</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\displaystyle \lim_{x \rightarrow a} \frac{f(x)}{g(x)}</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <md>f(x) = \begin{cases} 2x+4, \amp x \leq 1 \\ -3x+5, \amp x &gt; 1 \end{cases}</md> Prove that <m>\displaystyle \lim_{x \rightarrow 1} f(x)</m> does not exist without using the definition.  Hint:  Look at sequences approaching 1 from the left and from the right.
       </p>
     </statement>
   </exercise>
@@ -22,7 +52,7 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f</m>, <m>g</m>, and <m>h</m> be functions defined on an open interval <m>I</m>, and let <m>a \in I</m>.  Suppose also that <m>\displaystyle \lim_{x \rightarrow a} g(x)=L</m>, <m>\displaystyle \lim_{x \rightarrow a} h(x)=L</m>, and <m>g(x) \leq f(x) \leq h(x)</m> for all <m>x \in I</m>.  Prove that <m>\displaystyle \lim_{x \rightarrow a} f(x)=L</m>.
       </p>
     </statement>
   </exercise>

@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="subsequences">
+  <title>Subsequences</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      For a sequence <m>\{ x_n \}</m>, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>, <m>a_n = \inf(S_n)</m>, and <m>b_n= \sup(S_n)</m>.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Find all possible limits of subsequences for the following.  This may include <m>\infty</m> or <m>-\infty</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\left\{ 2^{n(-1)^n} \right\}</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If <m>a_n=x_n</m> for all <m>n \in \mathbb{N}</m>, what kind of sequence is <m>\{ x_n \}</m>?
       </p>
     </statement>
   </exercise>
@@ -22,7 +47,23 @@
   <exercise>
     <statement>
       <p>
-        
+        If <m>b_n=x_n</m> for all <m>n \in \mathbb{N}</m>, what kind of sequence is <m>\{ x_n \}</m>?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If <m>a_n \neq x_n</m> for all <m>n \in \mathbb{N}</m>, describe how to construct a decreasing subsequence of <m>\{ x_n \}</m>.  Hint: Start with <m>x_1</m>, and convince yourself that <m>x_1</m> is not a lower bound for <m>S_1</m>.  Keep going.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        If <m>b_n \neq x_n</m> for all <m>n \in \mathbb{N}</m>, describe how to construct an increasing subsequence of <m>\{ x_n \}</m>.
       </p>
     </statement>
   </exercise>

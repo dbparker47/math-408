@@ -1,29 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="completeness-real">
+  <title>Proving the Completeness Axiom</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Let <m>S</m> be a set of real numbers that is bounded above by a real number <m>B = [ \{ b_1,b_2,b_3, \ldots \}]</m>.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let's get familiar with how we construct the supremum of <m>S</m>.
       </p>
+      <ol>
+        <li>
+          <p>
+            Use the Well-Ordering Principle to prove that there is a smallest integer <m>x_1</m> that is an upper bound of <m>S</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>x_1-1</m> is not an upper bound of <m>S</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            When should we choose <m>x_2=x_1-\frac12</m> and when should be choose <m>x_2=x_1</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove <m>x_2-\frac12</m> is not an upper bound of <m>S</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            How should be choose <m>x_3</m> from among <m>x_2-\frac13</m> and <m>x_2</m>?  Prove that <m>x_3-\frac13</m> is not an upper bound of <m>S</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Do the same as above for <m>x_4</m> and <m>x_5</m> and, in general <m>x_n</m>. You will probably define <m>x_n</m> recursively.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove that <m>\{ x_1,x_2,x_3,x_4, \ldots \}</m> is decreasing and bounded.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 
   <exercise>
     <statement>
       <p>
-        
+        Here is a sliver of proving that every ordered field that contains <m>\mathbb{Q}</m> and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences.  Let <m>\mathbb{R}</m> be <q>our</q> real numbers, and let <m>F</m> be an ordered field that contains <m>\mathbb{Q}</m> and satisfies the Completeness Axiom.  We seek to find a function <m>g: F \rightarrow \mathbb{R}</m> that takes each number in <m>F</m> to the number in <m>\mathbb{R}</m> that plays the same role.
       </p>
+      <ol>
+        <li>
+          <p>
+            Let <m>x</m> be in <m>F</m>.  Find a set of rational numbers that <m>x</m> is the supremum of.  Prove your result.
+          </p>
+        </li>
+        <li>
+          <p>
+            In the set you found above, can you find a sequence of rational numbers that converges to <m>x</m>?  You will probably need to define it recursively.
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove your sequence in (b) is Cauchy.
+          </p>
+        </li>
+        <li>
+          <p>
+            Determine what <m>g(x)</m> is based on your work in (a)--(c).
+          </p>
+        </li>
+        <li>
+          <p>
+            Prove <m>g</m> is well defined.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="represent-real">
+  <title>Representing Real Numbers with Cauchy Sequences of Rational Numbers</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      We say that a Cauchy sequence of rational numbers <m>\{ a_n \}</m> <em>represents</em> the real number <m>r</m> if <m>\displaystyle \lim_{n \rightarrow \infty} a_n = r</m>.  For the following problems, do not worry about proofs.  Use these exercises to develop your intuition.  But be able to explain why you make the choices you make.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        For each of the real numbers <m>47</m> and <m>\frac29</m>, find three Cauchy sequences of rational numbers that represent the number.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,31 @@
   <exercise>
     <statement>
       <p>
-        
+        If <m>\{ a_n \}</m> is a sequence of rational numbers that represents the real number <m>r</m>, find two other rational sequences that represent <m>r</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        For each of <m>\pi</m> and <m>e</m>, use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number.  Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents <m>e</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        For each real number <m>r</m>, use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing <m>r</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Describe a test for whether or not the rational Cauchy sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> represent the same real number.  This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).
       </p>
     </statement>
   </exercise>

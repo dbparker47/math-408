@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="order-real">
+  <title>Ordering the Real Numbers</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\mathbb{R}</m> be the set of equivalence classes of <m>A</m> under the equivalence relation we defined previously.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Consider the real numbers <m>X = \left[ \left\{ 5-\frac{11}{n} \right\} \right]</m> and <m>Y = \left[ \left\{ 1+\frac{3}{n^2} \right\} \right]</m>.  Determine whether <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m>.  Then prove it.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,15 @@
   <exercise>
     <statement>
       <p>
-        
+        (Not on quiz) Explain what you must assume and what you must prove in order for <m>&lt;</m> to be well defined.  Then try proving that <m>&lt;</m> is well defined.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for <m>\mathbb{R}</m>.  You may use the fact that <m>\mathbb{Q}</m> is an ordered field.
       </p>
     </statement>
   </exercise>

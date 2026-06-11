@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="intro-limits">
+  <title>Introduction to Limits</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Solve the following problems on limits of real-valued functions.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        For each of the following, guess <m>\displaystyle L = \lim_{x \rightarrow a} f(x)</m>, and for <m>\epsilon &gt; 0</m>,  determine inequalities involving <m>|x-a|</m> for which <m>\left| f(x) - L \right| &lt; \epsilon</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>a = 2</m>, <m>f(x) = 3x+4</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>a=5</m>, <m>f(x) = \frac{2x}{x+3}</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>a</m> arbitrary, <m>f(x) = mx+b</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>a=3</m>, <m>f(x)=x^2</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding <m>\delta \leq 1</m>.
       </p>
     </statement>
   </exercise>
@@ -22,7 +52,42 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <md> f(x) = \begin{cases} 2x+4, \amp x \leq 1 \\ -3x+5, \amp x &gt; 1 \end{cases}</md> and assume <m>\displaystyle \lim_{x \rightarrow 1} f(x) = L</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            If <m>\delta &gt; 0</m>, prove that there is some <m>0 \le x &lt; 1</m> such that <m>0 &lt; |x-1| &lt; \delta</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the above with <m>\epsilon=1</m> to prove that <m>L &gt; 3</m>.  Hint: Use <m>|f(x)-L| &lt; \epsilon</m> to solve for <m>L</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            If <m>\delta &gt; 0</m>, prove that there is some <m>1 &lt; x \le 2</m> such that <m>0 &lt; |x-1| &lt; \delta</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the above with <m>\epsilon=1</m> to prove that <m>L &lt; 3</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            What does this say about <m>\displaystyle \lim_{x \rightarrow 1}  f(x)</m>?
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        State precisely what it means for <m>\displaystyle \lim_{x \rightarrow a} f(x)</m> not to exist.
       </p>
     </statement>
   </exercise>

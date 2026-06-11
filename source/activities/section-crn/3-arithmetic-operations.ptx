@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="arithmetic-real">
+  <title>Real Number Arithmetic</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\mathbb{R}</m> be the set of equivalence classes of <m>A</m> under the equivalence relation we defined previously.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Let <m>X,Y \in \mathbb{R}</m> (so <m>X</m> and <m>Y</m> are equivalence classes whose elements are Cauchy sequences of rational numbers).  How would you define <m>X+Y</m>?  Describe it as a process, and make sure that your answer is in <m>\mathbb{R}</m> as defined above.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,51 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>X,Y \in \mathbb{R}</m>.  How would you define <m>X \cdot Y</m>?  Describe it as a process, and make sure that your answer is in <m>\mathbb{R}</m> as defined above.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>\{a_n\}</m> and <m>\{ b_n \}</m> are Cauchy sequences such that <m>[\{ a_n \}] = [\{2,2,2,2, \ldots \}]</m> and <m>[\{ b_n \}] = [\{ 3,3,3,3, \ldots \}]</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            What is your guess for <m>[\{2,2,2,2, \ldots \}] \cdot [\{ 3,3,3,3, \ldots \}]</m>?
+          </p>
+        </li>
+        <li>
+          <p>
+            Suppose you use the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> as representatives of <m>[\{2,2,2,2, \ldots \}]</m> and <m>[\{ 3,3,3,3, \ldots \}]</m>.  Prove that <m>[\{ a_n \}] \cdot [\{ b_n \}]</m> is the same as in part (a).
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Explain what you must assume and what you must prove in order for addition in <m>\mathbb{R}</m> to be well defined.  Then try proving that addition is well defined.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Prove as many of the field axioms as you can for <m>\mathbb{R}</m> with addition and multiplication defined above.  You may use the fact that <m>\mathbb{Q}</m> is a field.
       </p>
     </statement>
   </exercise>
