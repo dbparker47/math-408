@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="continuous">
+  <title>Continuous Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Use the definition of continuous functions to solve the following.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Prove that the following functions are continuous at <m>x=a</m>, where <m>a</m> is any real number.
+      </p>
+      <ol>
+        <li>
+          <p>
+            <m>f(x) = mx+b</m>, where <m>m</m> and <m>b</m> are constants.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>f(x) = x^2</m>
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Assume that <m>\displaystyle \lim_{x \rightarrow a} \frac{f(x) - f(a)}{x-a}</m> exists.  Prove that <m>f(x)</m> is continuous at <m>x=a</m>.
       </p>
     </statement>
   </exercise>
@@ -22,8 +42,25 @@
   <exercise>
     <statement>
       <p>
-        
+        Let <m>f(x)</m> and <m>g(x)</m> be continuous at <m>x=a</m>.  Prove
       </p>
+      <ol>
+        <li>
+          <p>
+            <m>h(x) = f(x)+g(x)</m> is continuous at <m>x=a</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>h(x) = f(x)g(x)</m> is continuous at <m>x=a</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <m>h(x)=f(g(x))</m> is continuous at <m>x=a</m>.
+          </p>
+        </li>
+      </ol>
     </statement>
   </exercise>
 

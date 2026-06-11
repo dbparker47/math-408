@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="">
-  <title></title>
+<worksheet xml:id="uniform-cont">
+  <title>Uniformly Continuous Functions</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      
+      Use the definition of uniformly continuous functions to solve the following.
     </p>
   </introduction>
 
   <exercise>
     <statement>
       <p>
-        
+        Prove that <m>f: [2,7] \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is uniformly continuous.  Hint:  The 2 and the 7 are important here.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,35 @@
   <exercise>
     <statement>
       <p>
-        
+        We now seek to prove that <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is not uniformly continuous.  Let <m>\epsilon &gt; 0</m>.
+      </p>
+      <ol>
+        <li>
+          <p>
+            Suppose you have a <m>\delta &gt; 0</m> such that for all <m>x,c \in \mathbb{R}</m>, if <m>|x-c| &lt;\delta</m>, then <m>|f(x)-f(c)| &lt; \epsilon</m>.  For each <m>c \in \mathbb{R}</m>, find an <m>x</m> that satisfies <m>|x-c| &lt; \delta</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            For the <m>x</m> you found above, how big must <m>c</m> be in order for <m>|f(x)-f(c)| \geq \epsilon</m>?  What can you conclude?
+          </p>
+        </li>
+      </ol>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Let <m>f: [0,\infty) \rightarrow \mathbb{R}</m> be given by <m>f(x) = \frac{2x+3}{x+4}</m>. Prove that <m>f</m> is uniformly continuous.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (Not on quiz) Let <m>f: I \rightarrow \mathbb{R}</m>, and suppose <m>\left| \frac{f(a)-f(b)}{a-b} \right| \leq M</m> for all <m>a,b \in I</m>.  Prove that <m>f</m> is uniformly continuous on <m>I</m>.
       </p>
     </statement>
   </exercise>
