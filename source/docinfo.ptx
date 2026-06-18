@@ -25,7 +25,7 @@
   </latex-image-preamble>
 
   <!-- It is possible to rename elements: -->
-  <rename element="convention" xml:lang="en-US">Video &amp; Activities</rename>
+  <rename element="example" xml:lang="en-US">In-Class Activities</rename>
   <rename element="insight" xml:lang="en-US">Optional Reading</rename>
   <rename element="list" xml:lang="en-US">Activity Set</rename>
 
