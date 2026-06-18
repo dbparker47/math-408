@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Course Syllabus for Math 408, Section 01",
-  "body": " Course Syllabus for Math 408, Section 01        General Course Information     Course Title  Real Analysis 1    Class Meets:  TR 4:00-5:15pm (MAK B-1-110)    Blackboard Page Link   https:\/\/lms.gvsu.edu\/        Drop-In Office Hours  If you find yourself having trouble with any part of this course, please come to my drop-in office hours for help. You should also feel welcome to set up appointments with me outside of office hours, including in the evening on Zoom if necessary. My schedule is on Blackboard in the Course Information & Resources document.    Monday  2:00-3:00 (PCS & Zoom)    Tuesday  11:30-12:30 (Zoom only)    Wednesday  10:00-11:00 (Office & Zoom)    Thursday  11:30-12:30 (Office & Zoom)    Friday  11:00-11:50 (Office & Zoom)    Note that all Monday office hours will be held in the Peer Collaboration Space (PCS), which is on the second floor of Mackinac Hall, Room A-2-610, across from the Math Center. Also, here is the Zoom link for office hours .    Instructor Information     Name  Darren Parker    Office  MAK A-2-150    E-Mail   parkerda@gvsu.edu        Course Content   Course Description  The goal of this course is to develop the intuitive and theoretical foundations necessary to study differentiation of real-valued functions. Topics include Cauchy sequences, convergence of sequences, series, limits, continuity, and construction of the real numbers. Students will extend and apply proof techniques from previous courses.    Prerequisite  MTH 203 and one of the following (MTH 315, MTH 331, MTH 350, or MTH 431) or (MTH 210 and permission of instructor).    Course Objectives     State, explain and apply the completeness, Archimedean, and density properties of the set of real numbers.    Define, explain, and compute infima and suprema of sets of real numbers.    Apply the definitions related to sequences to proving and deriving results about sequences.    Apply the definitions related to limits of functions to proving results on limits.    Determine and prove whether a given function is continuous on a given domain.        Course Resources   Textbook   Elementary Real Analysis, Second Edition (2008) , by Brian S. Thompson, Judith B. Bruckner, and Andrew M. Bruckner, Chapters 1, 2, & 5. The textbook is available free as a PDF file . You may also find it at the Course Information & Resources document on Blackboard.    Zoom  I will have in-person drop-in office hours on Monday, Wednesday, Thursday (mostly), and Friday. However, my office hours on Tuesdays (and sometimes Thursdays) will be on Zoom only. In addition, you have the option of meeting me on Zoom during my in-person office hours. You can install Zoom from the link https:\/\/gvsu-edu.zoom.us\/ .    PDF Scanner App  While you are welcome to turn in your assignments in hard copy form, all assignments may also be turned in as PDF files on Blackboard. Any handwritten work must be scanned before it is submitted electronically. Some examples of PDF scanner apps are Google Drive, Abobe Scan, and Notebloc. Each of these can be downloaded from Google Play or the App Store for free.    Adobe Acrobat Reader  I will be grading all electronically submitted assignments using Adobe Acrobat Reader. To read my comments on your assignments, you need to install Adobe Acrobat Reader on your computer and\/or phone. You can download it for free at https:\/\/get.adobe.com\/reader\/       Assessments and Grades   Grading  You will be graded on class activity quizzes, homework, a portfolio project, three midterm exams, and a final exam.    Quizzes  25%    Weekly Homework  10%    Portfolio Project  20%    Exams  38%    Final Exam  7%    Grades cutoffs will generally be as follows: 92% for A; 90% for A-; 88% for B+; 82% for B; 80% for B-; 78% for C+; 72% for C; 70% for C-; 68% for D+; and 60% for D.    Class Activity Quizzes  For each topic (which generally corresponds to one or two sections of the textbook), there is a quiz for the content covered. Once we complete a topic, I will bring copies of that quiz to class for you to take. Here are the ground rules on quizzes.   You may choose which day to take each quiz. It may either be taken after announcements & questions during class or in person during office hours or an office appointment.    Each problem on a quiz comes directly from the activities we work on in class.    Quizzes generally take around 10 minutes if you are prepared.    You may not use any notes on quizzes.    You will have the opportunity to re-take quizzes as many times as you want. I prepare two versions of each quiz, so if you re-take the quiz, you might have a different version than the first time you take it.    For each quiz, your final score is the highest score of all attempts. All versions of quizzes contain only problems from the in-class activities.       Homework Assignments  Each week, I will assign some problems for homework. For each problem, your solution will consist of the statement of your theorem along with its proof. Homework assignments will be posted in the Homework Assignments course module of Blackboard and will be due on Sundays. You will have the opportunity to resubmit each homework assignment once.    Portfolio Project  Over the course of the semester, you will create a portfolio project that highlights your writing and mathematical reasoning skills. It will consist of the solutions to 7 problems. As with the homework assignments, you will have opportunities to get feedback on your work and resubmit your solutions.   On each homework assignment, one of the problems will be a Portfolio Report , where you document your attempts for at least one of the portfolio problems. I will give you feedback on these attempts.    You may submit one formal preliminary draft of your theorem statement and proof for each problem. I will give you detailed feedback on your submission.    You are always welcome to come to my office hours to get informal feedback on your solutions.       Exams  There will be three exams and a final exam. All exam problems come from your homework assignments (except for the final exam). No notes are allowed during any exams. Each exam (except the final exam) will be given during two class periods. In the first class period, you make as much progress as you can, and then you turn in the exam to me. Five days later, I will return your exam to you in class so that you can finish the exam. Between the first and second parts of the exam, the exam problems will be available to you so that you can study them and ask questions.    Exam 1  Thursday 10\/1    Exam 2  Thursday 10\/29    Exam 3  Thursday 12\/3       Final Exam  The final exam is Wednesday, December 10 at 8:00-9:50 am. The format will be a bit different than the other exams. On Monday the week before the exam, I will make available a few problems from the content not covered on the other exams. These will be the problems that will be on the final exam. On exam day, you will have the full exam time to work on these problems. If you finish early, you may do one or more of the following.   You may work on any problems from previous exams. If you choose to do this, you must give me the graded version of your previous exam before you begin work on the exam problems.    You may re-take any quiz.       Class Format  Our class meets twice each week. You will need to spend a significant amount of time preparing for each class. All preparation materials are found on the Class Preparation Resources and Course Links course module on Blackboard. There you will find a folder for every week of class, and each weekly folder has a document of course resources for each class meeting. There are also links to homework assignments, quiz problems, and information & resources for exams that week. The document for each class meeting has the following.   Links to videos explaining the content of the section. You are expected to watch these for each class.    Along with each video, a link to a set of activities that you should work on before class. These are the problems that will be on the quizzes.    An optional reading from the textbook, in case you want to consult another source.   Here is what a typical class period will be like.   We will spend a short time on announcements and answering questions about that day's work.    You will then have an opportunity to take a quiz on any content previously covered in class. You may choose any quiz, which could mean re-taking a quiz you have already taken. See explanation of quizzes above for more information.    The bulk of class time will be for working in groups on the in-class activities. As noted above, all quiz problems come from these activities.    If there is time at the end, we may work on some of the problems from the in-class activities as a class.       Course Policies      Absences: You are expected to attend class regularly unless you are ill or have some other emergency. You are responsible for being aware of any material covered and announcements made in class. The FigJam boards that have our notes from class will be available to you (links are on Blackboard), as well as any videos and class activities. I will be happy to help you on Zoom. Also, you may make an office appointment with me to make up any missed work.     Remote Classes: In the event that we are unable to meet in class (e.g. if I am ill or if there is a weather emergency), we will meet as a class on Zoom. The link for the class is available on Blackboard, and I will send out the link in an email before any online class session begins.     Late Assignments: If you are unable to turn in an assignment on time, I will generally allow you to turn in your assignment a little late. You should give me as much notice as you can and make arrangements with me to complete your assignment as early as possible. Note that this will likely cause your assignment to be graded later than those for the rest of the class.     University Course Policies: For information on policies that apply to all GVSU courses, please go to GVSU Course Policies Page .     Academic Integrity: Everyone is expected to practice academic honesty at all times. This includes the following.   No student shall knowingly, without authorization, procure, provide, or accept any materials that contain questions or answers to any submitted work in the class.    No student shall, without authorization, complete, in part or in total, any submitted work for another person.    No student shall, without authorization, allow any submitted work to be completed, in part or in total, by another person.    No student shall knowingly plagiarize or copy the work of another person and submit it as their own. This includes sentences, paragraphs or entire articles copied from books, periodicals, speeches, or the writing of other students. It also includes artificial intelligence tools.    No student shall submit work that has been previously graded.   Violations of these rules may result in failure of the assignment or failure of the course.     Use of Generative Artificial Intelligence: Generative AI tools may be used in limited circumstances in this course. I give some guidance below, but the main takeaway is that you may use AI to help you learn and understand the concepts we cover in class, but you may not use AI to do the thinking and explanations necessary to complete your work on assignments. In particular, you may not turn in an assignment in which you cannot explain the reasoning in your problem solutions. Acceptable uses include:   Generating problems of a certain type to practice problem-solving techniques.    Generating examples to better understand a concept.    Identifying errors in your computations or logic (but not correcting them).   Unacceptable uses include:   Generating a solution to a problem on an assignment.    Writing explanations for your computations or proofs on an assignment.   Violations of these rules may result in failure of the assignment or failure of the course.       Other Information   Important Dates:    August 31: Classes begin    September 4: 100% tuition refund deadline; last day to add a class (5:00 pm)    September 7: Labor Day (no classes)    September 25: 75% tuition refund deadline; last day for CR\/NC changes (5:00 pm)    October 26-27: Fall Break (no classes)    November 13: Deadline for withdrawing from a class (5:00 pm)    November 25-29: Thanksgiving Break (no classes)    December 11: Classes end    December 12-19: Exam Week    December 24: Grades available to students    Important Information:    If you are in need of accommodations due to a learning, physical, or other disability you must have Student Accessibility Resources (SAR) send me a memo indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 The Blue Connection) by calling 616-331-2490 or email to access@gvsu.edu . Please note that I cannot provide accommodations based upon disability until I have received a SAR issued memo. All discussions will remain confidential.    If you have a physical disability and think you will need assistance evacuating this classroom and\/or building in an emergency situation, please make me aware so I can develop a plan to assist you.   I reserve the right to adjust this syllabus as needed and will notify you of any changes through Blackboard.    "
+  "body": " Course Syllabus for Math 408, Section 01        General Course Information     Course Title  Real Analysis 1    Class Meets:  TR 4:00-5:15pm (MAK B-1-110)    Blackboard Page Link   https:\/\/lms.gvsu.edu\/        Drop-In Office Hours  If you find yourself having trouble with any part of this course, please come to my drop-in office hours for help. You should also feel welcome to set up appointments with me outside of office hours, including in the evening on Zoom if necessary. My schedule is on Blackboard in the Course Information & Resources document.    Monday  2:00-3:00    Tuesday  11:30-12:30    Wednesday  10:00-11:00    Thursday  11:30-12:30    Friday  11:00-11:50    All office hours will be held in the Peer Collaboration Space (PCS), which is on the second floor of Mackinac Hall, Room A-2-610, across from the Math Center. Also, here is the Zoom link for office hours .    Instructor Information     Name  Darren Parker    Office  MAK A-2-150    E-Mail   parkerda@gvsu.edu        Course Content   Course Description  The goal of this course is to develop the intuitive and theoretical foundations necessary to study differentiation of real-valued functions. Topics include Cauchy sequences, convergence of sequences, series, limits, continuity, and construction of the real numbers. Students will extend and apply proof techniques from previous courses.    Prerequisite  MTH 203 and one of the following (MTH 315, MTH 331, MTH 350, or MTH 431) or (MTH 210 and permission of instructor).    Course Objectives     State, explain and apply the completeness, Archimedean, and density properties of the set of real numbers.    Define, explain, and compute infima and suprema of sets of real numbers.    Apply the definitions related to sequences to proving and deriving results about sequences.    Apply the definitions related to limits of functions to proving results on limits.    Determine and prove whether a given function is continuous on a given domain.        Course Resources   Textbook   Elementary Real Analysis, Second Edition (2008) , by Brian S. Thompson, Judith B. Bruckner, and Andrew M. Bruckner, Chapters 1, 2, & 5. The textbook is available free as a PDF file . You may also find it at the Course Information & Resources document on Blackboard.    Zoom  I will have in-person drop-in office hours Monday through Friday. Every office hour can also be attended on Zoom. You can install Zoom from the link gvsu-edu.zoom.us .    PDF Scanner App  While you are welcome to turn in your assignments in hard copy form, all assignments may also be turned in as PDF files on Blackboard. Any handwritten work must be scanned before it is submitted electronically. Some examples of PDF scanner apps are Google Drive, Abobe Scan, and Notebloc. Each of these can be downloaded from Google Play or the App Store for free.    Adobe Acrobat Reader  I will be grading all electronically submitted assignments using Adobe Acrobat Reader. To read my comments on your assignments, you need to install Adobe Acrobat Reader on your computer and\/or phone. You can download it for free at https:\/\/get.adobe.com\/reader\/       Assessments and Grades   Grading  You will be graded on class activity quizzes, homework, a portfolio project, three midterm exams, and a final exam.    Quizzes  25%    Weekly Homework  10%    Portfolio Project  20%    Exams  38%    Final Exam  7%    Grades cutoffs will generally be as follows: 92% for A; 90% for A-; 88% for B+; 82% for B; 80% for B-; 78% for C+; 72% for C; 70% for C-; 68% for D+; and 60% for D.    Class Activity Quizzes  For each topic (which generally corresponds to one or two sections of the textbook), there is a quiz for the content covered. Once we complete a topic, I will bring copies of that quiz to class for you to take. Here are the ground rules on quizzes.   You may choose which day to take each quiz. It may either be taken after announcements & questions during class or in person during office hours or an office appointment.    Each problem on a quiz comes directly from the activities we work on in class.    Quizzes generally take around 10 minutes if you are prepared.    You may not use any notes on quizzes.    You will have the opportunity to re-take quizzes as many times as you want. I prepare two versions of each quiz, so if you re-take the quiz, you might have a different version than the first time you take it.    For each quiz, your final score is the highest score of all attempts. All versions of quizzes contain only problems from the in-class activities.       Homework Assignments  Each week, I will assign some problems for homework. For each problem, your solution will consist of the statement of your theorem along with its proof. Homework assignments will be posted in the Homework Assignments course module of Blackboard and will be due on Sundays. You will have the opportunity to resubmit each homework assignment once.    Portfolio Project  Over the course of the semester, you will create a portfolio project that highlights your writing and mathematical reasoning skills. It will consist of the solutions to 7 problems. As with the homework assignments, you will have opportunities to get feedback on your work and resubmit your solutions.   On each homework assignment, one of the problems will be a Portfolio Report , where you document your attempts for at least one of the portfolio problems. I will give you feedback on these attempts.    You may submit one formal preliminary draft of your theorem statement and proof for each problem. I will give you detailed feedback on your submission.    You are always welcome to come to my office hours to get informal feedback on your solutions.       Exams  There will be three exams and a final exam. All exam problems come from your homework assignments (except for the final exam). No notes are allowed during any exams. Each exam (except the final exam) will be given during two class periods. In the first class period, you make as much progress as you can, and then you turn in the exam to me. Five days later, I will return your exam to you in class so that you can finish the exam. Between the first and second parts of the exam, the exam problems will be available to you so that you can study them and ask questions.    Exam 1  Thursday 10\/1    Exam 2  Thursday 10\/29    Exam 3  Thursday 12\/3       Final Exam  The final exam is Wednesday, December 10 at 8:00-9:50 am. The format will be a bit different than the other exams. On Monday the week before the exam, I will make available a few problems from the content not covered on the other exams. These will be the problems that will be on the final exam. On exam day, you will have the full exam time to work on these problems. If you finish early, you may do one or more of the following.   You may work on any problems from previous exams. If you choose to do this, you must give me the graded version of your previous exam before you begin work on the exam problems.    You may re-take any quiz.       Class Format  Our class meets twice each week. You will need to spend a significant amount of time preparing for each class. All preparation materials are found on the Class Preparation Resources and Course Links course module on Blackboard. There you will find a folder for every week of class, and each weekly folder has a document of course resources for each class meeting. There are also links to homework assignments, quiz problems, and information & resources for exams that week. The document for each class meeting has the following.   Links to videos explaining the content of the section. You are expected to watch these for each class.    Along with each video, a link to a set of activities that you should work on before class. These are the problems that will be on the quizzes.    An optional reading from the textbook, in case you want to consult another source.   Here is what a typical class period will be like.   We will spend a short time on announcements and answering questions about that day's work.    You will then have an opportunity to take a quiz on any content previously covered in class. You may choose any quiz, which could mean re-taking a quiz you have already taken. See explanation of quizzes above for more information.    The bulk of class time will be for working in groups on the in-class activities. As noted above, all quiz problems come from these activities.    If there is time at the end, we may work on some of the problems from the in-class activities as a class.       Course Policies      Absences: You are expected to attend class regularly unless you are ill or have some other emergency. You are responsible for being aware of any material covered and announcements made in class. The FigJam boards that have our notes from class will be available to you (links are on Blackboard), as well as any videos and class activities. I will be happy to help you on Zoom. Also, you may make an office appointment with me to make up any missed work.     Remote Classes: In the event that we are unable to meet in class (e.g. if I am ill or if there is a weather emergency), we will meet as a class on Zoom. The link for the class is available on Blackboard, and I will send out the link in an email before any online class session begins.     Late Assignments: If you are unable to turn in an assignment on time, I will generally allow you to turn in your assignment a little late. You should give me as much notice as you can and make arrangements with me to complete your assignment as early as possible. Note that this will likely cause your assignment to be graded later than those for the rest of the class.     University Course Policies: For information on policies that apply to all GVSU courses, please go to GVSU Course Policies Page .     Academic Integrity: Everyone is expected to practice academic honesty at all times. This includes the following.   No student shall knowingly, without authorization, procure, provide, or accept any materials that contain questions or answers to any submitted work in the class.    No student shall, without authorization, complete, in part or in total, any submitted work for another person.    No student shall, without authorization, allow any submitted work to be completed, in part or in total, by another person.    No student shall knowingly plagiarize or copy the work of another person and submit it as their own. This includes sentences, paragraphs or entire articles copied from books, periodicals, speeches, or the writing of other students. It also includes artificial intelligence tools.    No student shall submit work that has been previously graded.   Violations of these rules may result in failure of the assignment or failure of the course.     Use of Generative Artificial Intelligence: Generative AI tools may be used in limited circumstances in this course. I give some guidance below, but the main takeaway is that you may use AI to help you learn and understand the concepts we cover in class, but you may not use AI to do the thinking and explanations necessary to complete your work on assignments. In particular, you may not turn in an assignment in which you cannot explain the reasoning in your problem solutions. Acceptable uses include:   Generating problems of a certain type to practice problem-solving techniques.    Generating examples to better understand a concept.    Identifying errors in your computations or logic (but not correcting them).   Unacceptable uses include:   Generating a solution to a problem on an assignment.    Writing explanations for your computations or proofs on an assignment.   Violations of these rules may result in failure of the assignment or failure of the course.       Other Information   Important Dates:    August 31: Classes begin    September 4: 100% tuition refund deadline; last day to add a class (5:00 pm)    September 7: Labor Day (no classes)    September 25: 75% tuition refund deadline; last day for CR\/NC changes (5:00 pm)    October 26-27: Fall Break (no classes)    November 13: Deadline for withdrawing from a class (5:00 pm)    November 25-29: Thanksgiving Break (no classes)    December 11: Classes end    December 12-19: Exam Week    December 24: Grades available to students    Important Information:    If you are in need of accommodations due to a learning, physical, or other disability you must have Student Accessibility Resources (SAR) send me a memo indicating the existence of a disability and the suggested reasonable accommodations. If you have not already done so, please contact the Student Accessibility Resources office (215 The Blue Connection) by calling 616-331-2490 or email to access@gvsu.edu . Please note that I cannot provide accommodations based upon disability until I have received a SAR issued memo. All discussions will remain confidential.    If you have a physical disability and think you will need assistance evacuating this classroom and\/or building in an emergency situation, please make me aware so I can develop a plan to assist you.   I reserve the right to adjust this syllabus as needed and will notify you of any changes through Blackboard.    "
 },
 {
   "id": "office-hours-2",
@@ -52,25 +52,25 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Exams",
-  "body": " Exams   The following notes are intended to remind you what we covered each week. They are not a substitute for attending class and not a substitute for reading the textbook.      "
+  "body": " Exams     "
 },
 {
-  "id": "activity-01-intro-activity",
+  "id": "homework",
   "level": "1",
-  "url": "activity-01-intro-activity.html",
-  "type": "Worksheet",
+  "url": "homework.html",
+  "type": "Chapter",
   "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
+  "title": "Homework Assignments",
+  "body": " Homework Assignments  "
 },
 {
-  "id": "activity-01-intro-activity-3",
-  "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  This is the first exercise.   "
+  "id": "portfolio",
+  "level": "1",
+  "url": "portfolio.html",
+  "type": "Chapter",
+  "number": "",
+  "title": "Portfolio Project",
+  "body": " Portfolio Project  "
 },
 {
   "id": "notes-week-01",
@@ -78,8 +78,8 @@ var ptx_lunr_docs = [
   "url": "notes-week-01.html",
   "type": "Section",
   "number": "",
-  "title": "Class Preparation for Tuesday, 9\/1 (Number Systems - Section 1.2)",
-  "body": " Class Preparation for Tuesday, 9\/1 (Number Systems - Section 1.2)    For the content of this class, you will be expected to be able to do the following:     Explain the definition of a rational number .    Prove that a given number is irrational.    Intuitively interpret a real number as a displacement or a point on the number line.       Number Systems  Below are links to a video on number systems , which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.   Videos for Number Systems    YouTube Video     Google Drive Video          Consider , , , and .   Show that all of these are real numbers by showing they are displacements. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.       Prove that if , then is a displacement. Hint: Induction.    (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.     Feel free to post any questions you have on the FigJam board for the next class.     Section 1.2: pp. 2-5   "
+  "title": "Preparation Resources for 9\/1",
+  "body": " Preparation Resources for 9\/1    For the content of this class, you will be expected to be able to do the following:     Explain the definition of a rational number .    Prove that a given number is irrational.    Intuitively interpret a real number as a displacement or a point on the number line.      Video & Activities for Number Systems  Below are links to a video on number systems , which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Irrational Numbers     Consider , , , and .   Using our model of real numbers being displacements, show that all of the above numbers are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.       Prove that if , then is a displacement. Hint: Induction.    (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.      Feel free to post any questions you have on the FigJam board for the next class.    Optional Reading  Section 1.2: pp. 2-5   "
 },
 {
   "id": "notes-week-01-2",
@@ -91,40 +91,1318 @@ var ptx_lunr_docs = [
   "body": "  For the content of this class, you will be expected to be able to do the following:     Explain the definition of a rational number .    Prove that a given number is irrational.    Intuitively interpret a real number as a displacement or a point on the number line.    "
 },
 {
-  "id": "notes-week-01-3",
+  "id": "video-activity-number-system-4",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-3",
-  "type": "Video & Activities",
+  "url": "notes-week-01.html#video-activity-number-system-4",
+  "type": "In-Class Activities",
   "number": "1",
-  "title": "Number Systems.",
-  "body": " Number Systems  Below are links to a video on number systems , which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.   Videos for Number Systems    YouTube Video     Google Drive Video          Consider , , , and .   Show that all of these are real numbers by showing they are displacements. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.       Prove that if , then is a displacement. Hint: Induction.    (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.     Feel free to post any questions you have on the FigJam board for the next class.  "
+  "title": "Irrational Numbers.",
+  "body": " Irrational Numbers     Consider , , , and .   Using our model of real numbers being displacements, show that all of the above numbers are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.       Prove that if , then is a displacement. Hint: Induction.    (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.     "
 },
 {
-  "id": "notes-week-01-4",
+  "id": "irrational-numbers",
+  "level": "1",
+  "url": "irrational-numbers.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Irrational Numbers",
+  "body": " Irrational Numbers          Consider , , , and .    Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.        Prove that if , then is a displacement. Hint: Induction.      (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.    "
+},
+{
+  "id": "irrational-numbers-3",
   "level": "2",
-  "url": "notes-week-01.html#notes-week-01-4",
-  "type": "Optional Reading",
+  "url": "irrational-numbers.html#irrational-numbers-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider , , , and .    Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.     "
+},
+{
+  "id": "irrational-numbers-4",
+  "level": "2",
+  "url": "irrational-numbers.html#irrational-numbers-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Prove that if , then is a displacement. Hint: Induction.   "
+},
+{
+  "id": "irrational-numbers-5",
+  "level": "2",
+  "url": "irrational-numbers.html#irrational-numbers-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.   "
+},
+{
+  "id": "ordered-fields",
+  "level": "1",
+  "url": "ordered-fields.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Ordered Fields",
+  "body": " Ordered Fields    Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .      Prove that .      Prove that if and only if .      Prove that if and only if .      If and , prove that .      (Not on quiz) Prove that .      (Not on quiz) If and , prove that .    "
+},
+{
+  "id": "ordered-fields-3",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove that .   "
+},
+{
+  "id": "ordered-fields-4",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Prove that .   "
+},
+{
+  "id": "ordered-fields-5",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Prove that if and only if .   "
+},
+{
+  "id": "ordered-fields-6",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-6",
+  "type": "Worksheet Exercise",
   "number": "4",
-  "title": ".",
-  "body": "  Section 1.2: pp. 2-5  "
+  "title": "",
+  "body": "  Prove that if and only if .   "
 },
 {
-  "id": "in-class-11-12",
-  "level": "1",
-  "url": "in-class-11-12.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "In-Class Activities: Section 1.2",
-  "body": " In-Class Activities: Section 1.2    "
+  "id": "ordered-fields-7",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  If and , prove that .   "
 },
 {
-  "id": "in-class-13-14",
+  "id": "ordered-fields-8",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  (Not on quiz) Prove that .   "
+},
+{
+  "id": "ordered-fields-9",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-9",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  (Not on quiz) If and , prove that .   "
+},
+{
+  "id": "inequalities",
   "level": "1",
-  "url": "in-class-13-14.html",
+  "url": "inequalities.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Inequalities",
+  "body": " Inequalities    Prove the following inequalities.     For all real numbers , .      Let , , , and be real numbers. Which of and is greater than or equal to the other? Hint: Subtract.    "
+},
+{
+  "id": "inequalities-3",
+  "level": "2",
+  "url": "inequalities.html#inequalities-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  For all real numbers , .   "
+},
+{
+  "id": "inequalities-4",
+  "level": "2",
+  "url": "inequalities.html#inequalities-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let , , , and be real numbers. Which of and is greater than or equal to the other? Hint: Subtract.   "
+},
+{
+  "id": "absolute-value",
+  "level": "1",
+  "url": "absolute-value.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Absolute Value",
+  "body": " Absolute Value    Solve the following absolute value problems.     Prove the following.                    if and only if .        Suppose that and that for all . What can be? Prove it.      Under what circumstances is ? What is in the other cases?    "
+},
+{
+  "id": "absolute-value-3",
+  "level": "2",
+  "url": "absolute-value.html#absolute-value-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove the following.                    if and only if .     "
+},
+{
+  "id": "absolute-value-4",
+  "level": "2",
+  "url": "absolute-value.html#absolute-value-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that and that for all . What can be? Prove it.   "
+},
+{
+  "id": "absolute-value-5",
+  "level": "2",
+  "url": "absolute-value.html#absolute-value-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Under what circumstances is ? What is in the other cases?   "
+},
+{
+  "id": "intervals",
+  "level": "1",
+  "url": "intervals.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Intervals",
+  "body": " Intervals    Solve the following interval problems.     Determine whether or not each of the following is an interval. Prove it.     and .     or         Let and be intervals.    Find and such that is not an interval.    If has at least two elements, prove that is an interval.      "
+},
+{
+  "id": "intervals-3",
+  "level": "2",
+  "url": "intervals.html#intervals-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Determine whether or not each of the following is an interval. Prove it.     and .     or      "
+},
+{
+  "id": "intervals-4",
+  "level": "2",
+  "url": "intervals.html#intervals-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let and be intervals.    Find and such that is not an interval.    If has at least two elements, prove that is an interval.     "
+},
+{
+  "id": "bounds",
+  "level": "1",
+  "url": "bounds.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Upper &amp; Lower Bounds",
+  "body": " Upper & Lower Bounds    Solve these problems on upper and lower bounds.     Consider the set .    Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?        Suppose that a set .    Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.      "
+},
+{
+  "id": "bounds-3",
+  "level": "2",
+  "url": "bounds.html#bounds-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the set .    Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?     "
+},
+{
+  "id": "bounds-4",
+  "level": "2",
+  "url": "bounds.html#bounds-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that a set .    Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.     "
+},
+{
+  "id": "infimum-supremum",
+  "level": "1",
+  "url": "infimum-supremum.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Infima &amp; Suprema",
+  "body": " Infima & Suprema    Solve the following problems on infima and suprema of sets.     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some         Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and .    "
+},
+{
+  "id": "infimum-supremum-3",
+  "level": "2",
+  "url": "infimum-supremum.html#infimum-supremum-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some      "
+},
+{
+  "id": "infimum-supremum-4",
+  "level": "2",
+  "url": "infimum-supremum.html#infimum-supremum-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and .   "
+},
+{
+  "id": "completeness-16",
+  "level": "1",
+  "url": "completeness-16.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Completeness Axiom",
+  "body": " Completeness Axiom    Solve the following Completeness Axiom problems.     Let . Prove that there exists an integer such that . Hint: Let . Can ?      Let be a set of real numbers that is bounded below.    Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.        If with , let . Use the completeness axiom to prove that there is some such that . Hint: If for all , what does that say about the set defined above?    "
+},
+{
+  "id": "completeness-16-3",
+  "level": "2",
+  "url": "completeness-16.html#completeness-16-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let . Prove that there exists an integer such that . Hint: Let . Can ?   "
+},
+{
+  "id": "completeness-16-4",
+  "level": "2",
+  "url": "completeness-16.html#completeness-16-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let be a set of real numbers that is bounded below.    Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.     "
+},
+{
+  "id": "completeness-16-5",
+  "level": "2",
+  "url": "completeness-16.html#completeness-16-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  If with , let . Use the completeness axiom to prove that there is some such that . Hint: If for all , what does that say about the set defined above?   "
+},
+{
+  "id": "archimedean",
+  "level": "1",
+  "url": "archimedean.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Archimedean Property",
+  "body": " Archimedean Property    Use the Archimedean Property to prove each of the following.      is neither bounded above nor bounded below. In other words, for each real number , there is an integer that is greater than and another integer that is smaller than .      Let . Then there exists such that .      Let with , and . Prove there is an integer such that .    "
+},
+{
+  "id": "archimedean-3",
+  "level": "2",
+  "url": "archimedean.html#archimedean-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "   is neither bounded above nor bounded below. In other words, for each real number , there is an integer that is greater than and another integer that is smaller than .   "
+},
+{
+  "id": "archimedean-4",
+  "level": "2",
+  "url": "archimedean.html#archimedean-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let . Then there exists such that .   "
+},
+{
+  "id": "archimedean-5",
+  "level": "2",
+  "url": "archimedean.html#archimedean-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let with , and . Prove there is an integer such that .   "
+},
+{
+  "id": "in-class-19",
+  "level": "1",
+  "url": "in-class-19.html",
   "type": "Chapter",
   "number": "",
-  "title": "In-Class Activities: Sections 1.3 &amp; 1.4",
-  "body": " In-Class Activities: Sections 1.3 & 1.4    "
+  "title": "In-Class Activities: Section 1.9",
+  "body": " In-Class Activities: Section 1.9  "
+},
+{
+  "id": "increasing-decreasing",
+  "level": "1",
+  "url": "increasing-decreasing.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Increasing &amp; Decreasing Functions",
+  "body": " Increasing & Decreasing Functions    Solve the following problems on increasing and decreasing functions.     Define by . Prove that is decreasing.      Define by . Prove that is increasing. Hint: When you compare and , you will want to consider what the signs of and are.      For a real-valued function, prove the following.     is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.      "
+},
+{
+  "id": "increasing-decreasing-3",
+  "level": "2",
+  "url": "increasing-decreasing.html#increasing-decreasing-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Define by . Prove that is decreasing.   "
+},
+{
+  "id": "increasing-decreasing-4",
+  "level": "2",
+  "url": "increasing-decreasing.html#increasing-decreasing-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Define by . Prove that is increasing. Hint: When you compare and , you will want to consider what the signs of and are.   "
+},
+{
+  "id": "increasing-decreasing-5",
+  "level": "2",
+  "url": "increasing-decreasing.html#increasing-decreasing-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  For a real-valued function, prove the following.     is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.     "
+},
+{
+  "id": "bounded",
+  "level": "1",
+  "url": "bounded.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Bounded Functions",
+  "body": " Bounded Functions    Solve the following problems on bounded functions.     Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.     , .     , . Hint: Complete the square.     , .        Let be a function, and let be the range of . Prove that has a maximum value if and only if sup . What is the maximum value of in this case?    "
+},
+{
+  "id": "bounded-3",
+  "level": "2",
+  "url": "bounded.html#bounded-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.     , .     , . Hint: Complete the square.     , .     "
+},
+{
+  "id": "bounded-4",
+  "level": "2",
+  "url": "bounded.html#bounded-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let be a function, and let be the range of . Prove that has a maximum value if and only if sup . What is the maximum value of in this case?   "
+},
+{
+  "id": "cardinality",
+  "level": "1",
+  "url": "cardinality.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Cardinality",
+  "body": " Cardinality    Solve the following problems related to cardinality.     Which of the following is countable? Prove your answer.         Set of odd integers             Determine whether or not the following have the same cardinality, and prove your answer.     and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.        (Not on quiz) Prove that and have the same cardinality. Hint: Define your function piecewise. Define separate formulas for for , , , and . Then there is one more value of that I might have forgotten.    "
+},
+{
+  "id": "cardinality-3",
+  "level": "2",
+  "url": "cardinality.html#cardinality-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Which of the following is countable? Prove your answer.         Set of odd integers          "
+},
+{
+  "id": "cardinality-4",
+  "level": "2",
+  "url": "cardinality.html#cardinality-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Determine whether or not the following have the same cardinality, and prove your answer.     and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.     "
+},
+{
+  "id": "cardinality-5",
+  "level": "2",
+  "url": "cardinality.html#cardinality-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  (Not on quiz) Prove that and have the same cardinality. Hint: Define your function piecewise. Define separate formulas for for , , , and . Then there is one more value of that I might have forgotten.   "
+},
+{
+  "id": "uncountable-reals",
+  "level": "1",
+  "url": "uncountable-reals.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Uncountability of the Real Numbers",
+  "body": " Uncountability of the Real Numbers    The following is an outline of the proof that the interval is uncountable. Fill in the details of the proof.     Consider the interval .    Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .        Suppose , , etc. In general for all .    Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?        Assume that is onto. Let .    Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.      "
+},
+{
+  "id": "uncountable-reals-3",
+  "level": "2",
+  "url": "uncountable-reals.html#uncountable-reals-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the interval .    Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .     "
+},
+{
+  "id": "uncountable-reals-4",
+  "level": "2",
+  "url": "uncountable-reals.html#uncountable-reals-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose , , etc. In general for all .    Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?     "
+},
+{
+  "id": "uncountable-reals-5",
+  "level": "2",
+  "url": "uncountable-reals.html#uncountable-reals-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Assume that is onto. Let .    Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.     "
+},
+{
+  "id": "intro-sequences",
+  "level": "1",
+  "url": "intro-sequences.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Introduction to Sequences",
+  "body": " Introduction to Sequences    Solve the following problems on sequences.     Determine what the following converge to, if anything. Prove your result.                  Suppose that is a bounded increasing sequence. Must the sequence converge? If so, to what? What about bounded decreasing sequences?      Define the sequence by , and for all .    Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?      "
+},
+{
+  "id": "intro-sequences-3",
+  "level": "2",
+  "url": "intro-sequences.html#intro-sequences-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Determine what the following converge to, if anything. Prove your result.               "
+},
+{
+  "id": "intro-sequences-4",
+  "level": "2",
+  "url": "intro-sequences.html#intro-sequences-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that is a bounded increasing sequence. Must the sequence converge? If so, to what? What about bounded decreasing sequences?   "
+},
+{
+  "id": "intro-sequences-5",
+  "level": "2",
+  "url": "intro-sequences.html#intro-sequences-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Define the sequence by , and for all .    Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?     "
+},
+{
+  "id": "general-sequence",
+  "level": "1",
+  "url": "general-sequence.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "General Sequence Theorems",
+  "body": " General Sequence Theorems    Assume converges to and converges to . Determine what the following converge to and prove your result.             , where .              , where each and .       , where each and . Hint: Don't use the definition. Use #3 and #4 above.    "
+},
+{
+  "id": "general-sequence-3",
+  "level": "2",
+  "url": "general-sequence.html#general-sequence-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "general-sequence-4",
+  "level": "2",
+  "url": "general-sequence.html#general-sequence-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "   , where .   "
+},
+{
+  "id": "general-sequence-5",
+  "level": "2",
+  "url": "general-sequence.html#general-sequence-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "      "
+},
+{
+  "id": "general-sequence-6",
+  "level": "2",
+  "url": "general-sequence.html#general-sequence-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "   , where each and .   "
+},
+{
+  "id": "general-sequence-7",
+  "level": "2",
+  "url": "general-sequence.html#general-sequence-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "   , where each and . Hint: Don't use the definition. Use #3 and #4 above.   "
+},
+{
+  "id": "squeeze-sequence",
+  "level": "1",
+  "url": "squeeze-sequence.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Squeeze Theorem",
+  "body": " Squeeze Theorem    Use the Squeeze Theorem to prove the following.     Prove that the sequence converges to zero. Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.      Let be a set of real numbers that is bounded above.    Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .        Let be a set of real numbers that is bounded below and has infimum . Prove that there is a sequence in that converges to .    "
+},
+{
+  "id": "squeeze-sequence-3",
+  "level": "2",
+  "url": "squeeze-sequence.html#squeeze-sequence-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove that the sequence converges to zero. Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.   "
+},
+{
+  "id": "squeeze-sequence-4",
+  "level": "2",
+  "url": "squeeze-sequence.html#squeeze-sequence-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let be a set of real numbers that is bounded above.    Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .     "
+},
+{
+  "id": "squeeze-sequence-5",
+  "level": "2",
+  "url": "squeeze-sequence.html#squeeze-sequence-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let be a set of real numbers that is bounded below and has infimum . Prove that there is a sequence in that converges to .   "
+},
+{
+  "id": "subsequences",
+  "level": "1",
+  "url": "subsequences.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Subsequences",
+  "body": " Subsequences    For a sequence , let , , and .     Find all possible limits of subsequences for the following. This may include or .                       If for all , what kind of sequence is ?      If for all , what kind of sequence is ?      If for all , describe how to construct a decreasing subsequence of . Hint: Start with , and convince yourself that is not a lower bound for . Keep going.      If for all , describe how to construct an increasing subsequence of .    "
+},
+{
+  "id": "subsequences-3",
+  "level": "2",
+  "url": "subsequences.html#subsequences-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find all possible limits of subsequences for the following. This may include or .                    "
+},
+{
+  "id": "subsequences-4",
+  "level": "2",
+  "url": "subsequences.html#subsequences-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  If for all , what kind of sequence is ?   "
+},
+{
+  "id": "subsequences-5",
+  "level": "2",
+  "url": "subsequences.html#subsequences-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  If for all , what kind of sequence is ?   "
+},
+{
+  "id": "subsequences-6",
+  "level": "2",
+  "url": "subsequences.html#subsequences-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  If for all , describe how to construct a decreasing subsequence of . Hint: Start with , and convince yourself that is not a lower bound for . Keep going.   "
+},
+{
+  "id": "subsequences-7",
+  "level": "2",
+  "url": "subsequences.html#subsequences-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  If for all , describe how to construct an increasing subsequence of .   "
+},
+{
+  "id": "intro-cauchy-sequences",
+  "level": "1",
+  "url": "intro-cauchy-sequences.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Introduction to Cauchy Sequences",
+  "body": " Introduction to Cauchy Sequences    Solve the following Cauchy Sequence problems.     Prove that is a Cauchy sequence using the definition.      Suppose that and are Cauchy sequences. Prove that is a Cauchy sequence.      Suppose that converges to the limit . Prove that is a Cauchy sequence.      Suppose that is a Cauchy sequence. Prove that is bounded. Hint: When you apply the definition of Cauchy sequence to an of your choice and set up , fix and see where must lie.    "
+},
+{
+  "id": "intro-cauchy-sequences-3",
+  "level": "2",
+  "url": "intro-cauchy-sequences.html#intro-cauchy-sequences-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove that is a Cauchy sequence using the definition.   "
+},
+{
+  "id": "intro-cauchy-sequences-4",
+  "level": "2",
+  "url": "intro-cauchy-sequences.html#intro-cauchy-sequences-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that and are Cauchy sequences. Prove that is a Cauchy sequence.   "
+},
+{
+  "id": "intro-cauchy-sequences-5",
+  "level": "2",
+  "url": "intro-cauchy-sequences.html#intro-cauchy-sequences-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Suppose that converges to the limit . Prove that is a Cauchy sequence.   "
+},
+{
+  "id": "intro-cauchy-sequences-6",
+  "level": "2",
+  "url": "intro-cauchy-sequences.html#intro-cauchy-sequences-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Suppose that is a Cauchy sequence. Prove that is bounded. Hint: When you apply the definition of Cauchy sequence to an of your choice and set up , fix and see where must lie.   "
+},
+{
+  "id": "cauchy-converge",
+  "level": "1",
+  "url": "cauchy-converge.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Cauchy Sequences are Convergent Sequences (and Vice-Versa)",
+  "body": " Cauchy Sequences are Convergent Sequences (and Vice-Versa)    The following are some problems leading to the result that being convergent and being Cauchy are equivalent.     Let with .    If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.        Let be a bounded sequence, let . Define inf and sup .    Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.        Let be a Cauchy sequence, and let and be as in #2. Let .    Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.      "
+},
+{
+  "id": "cauchy-converge-3",
+  "level": "2",
+  "url": "cauchy-converge.html#cauchy-converge-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let with .    If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.     "
+},
+{
+  "id": "cauchy-converge-4",
+  "level": "2",
+  "url": "cauchy-converge.html#cauchy-converge-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let be a bounded sequence, let . Define inf and sup .    Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.     "
+},
+{
+  "id": "cauchy-converge-5",
+  "level": "2",
+  "url": "cauchy-converge.html#cauchy-converge-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let be a Cauchy sequence, and let and be as in #2. Let .    Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.     "
+},
+{
+  "id": "lim-inf-sup",
+  "level": "1",
+  "url": "lim-inf-sup.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Limits Inferior &amp; Superior",
+  "body": " Limits Inferior & Superior    For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                       Prove that for each , .      Use the Squeeze Theorem to prove that if , then converges. To what number does converge?      If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.      If converges, prove it converges to .      If converges, what can you say about and ?    "
+},
+{
+  "id": "lim-inf-sup-3",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find the limit inferior and limit superior of the following sequences.                    "
+},
+{
+  "id": "lim-inf-sup-4",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Prove that for each , .   "
+},
+{
+  "id": "lim-inf-sup-5",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use the Squeeze Theorem to prove that if , then converges. To what number does converge?   "
+},
+{
+  "id": "lim-inf-sup-6",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.   "
+},
+{
+  "id": "lim-inf-sup-7",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  If converges, prove it converges to .   "
+},
+{
+  "id": "lim-inf-sup-8",
+  "level": "2",
+  "url": "lim-inf-sup.html#lim-inf-sup-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  If converges, what can you say about and ?   "
+},
+{
+  "id": "represent-real",
+  "level": "1",
+  "url": "represent-real.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Representing Real Numbers with Cauchy Sequences of Rational Numbers",
+  "body": " Representing Real Numbers with Cauchy Sequences of Rational Numbers    We say that a Cauchy sequence of rational numbers  represents the real number if . For the following problems, do not worry about proofs. Use these exercises to develop your intuition. But be able to explain why you make the choices you make.     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.      If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .      For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .      For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .      Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).    "
+},
+{
+  "id": "represent-real-3",
+  "level": "2",
+  "url": "represent-real.html#represent-real-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.   "
+},
+{
+  "id": "represent-real-4",
+  "level": "2",
+  "url": "represent-real.html#represent-real-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .   "
+},
+{
+  "id": "represent-real-5",
+  "level": "2",
+  "url": "represent-real.html#represent-real-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .   "
+},
+{
+  "id": "represent-real-6",
+  "level": "2",
+  "url": "represent-real.html#represent-real-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .   "
+},
+{
+  "id": "represent-real-7",
+  "level": "2",
+  "url": "represent-real.html#represent-real-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).   "
+},
+{
+  "id": "equiv-cauchy",
+  "level": "1",
+  "url": "equiv-cauchy.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Equivalent Cauchy Sequences",
+  "body": " Equivalent Cauchy Sequences    Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . define precisely when the sequence converges to .     Consider the sequences and .    Give an intuitive reason why .    Prove that .        Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.      Prove that is an equivalence relation.      Describe the equivalence class represented by the sequence . In other words, describe . Prove your conjecture.      Based on your experience in #4, what do you think the equivalence classes of represent?    "
+},
+{
+  "id": "equiv-cauchy-3",
+  "level": "2",
+  "url": "equiv-cauchy.html#equiv-cauchy-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the sequences and .    Give an intuitive reason why .    Prove that .     "
+},
+{
+  "id": "equiv-cauchy-4",
+  "level": "2",
+  "url": "equiv-cauchy.html#equiv-cauchy-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.   "
+},
+{
+  "id": "equiv-cauchy-5",
+  "level": "2",
+  "url": "equiv-cauchy.html#equiv-cauchy-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Prove that is an equivalence relation.   "
+},
+{
+  "id": "equiv-cauchy-6",
+  "level": "2",
+  "url": "equiv-cauchy.html#equiv-cauchy-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Describe the equivalence class represented by the sequence . In other words, describe . Prove your conjecture.   "
+},
+{
+  "id": "equiv-cauchy-7",
+  "level": "2",
+  "url": "equiv-cauchy.html#equiv-cauchy-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Based on your experience in #4, what do you think the equivalence classes of represent?   "
+},
+{
+  "id": "arithmetic-real",
+  "level": "1",
+  "url": "arithmetic-real.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Real Number Arithmetic",
+  "body": " Real Number Arithmetic    Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Suppose that and are Cauchy sequences such that and .    What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as in part (a).        Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.      (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.      (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.    "
+},
+{
+  "id": "arithmetic-real-3",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.   "
+},
+{
+  "id": "arithmetic-real-4",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.   "
+},
+{
+  "id": "arithmetic-real-5",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Suppose that and are Cauchy sequences such that and .    What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as in part (a).     "
+},
+{
+  "id": "arithmetic-real-6",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.   "
+},
+{
+  "id": "arithmetic-real-7",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.   "
+},
+{
+  "id": "arithmetic-real-8",
+  "level": "2",
+  "url": "arithmetic-real.html#arithmetic-real-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.   "
+},
+{
+  "id": "order-real",
+  "level": "1",
+  "url": "order-real.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Ordering the Real Numbers",
+  "body": " Ordering the Real Numbers    Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Consider the real numbers and . Determine whether , , or . Then prove it.      (Not on quiz) Explain what you must assume and what you must prove in order for to be well defined. Then try proving that is well defined.      (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for . You may use the fact that is an ordered field.    "
+},
+{
+  "id": "order-real-3",
+  "level": "2",
+  "url": "order-real.html#order-real-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the real numbers and . Determine whether , , or . Then prove it.   "
+},
+{
+  "id": "order-real-4",
+  "level": "2",
+  "url": "order-real.html#order-real-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  (Not on quiz) Explain what you must assume and what you must prove in order for to be well defined. Then try proving that is well defined.   "
+},
+{
+  "id": "order-real-5",
+  "level": "2",
+  "url": "order-real.html#order-real-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for . You may use the fact that is an ordered field.   "
+},
+{
+  "id": "completeness-real",
+  "level": "1",
+  "url": "completeness-real.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Proving the Completeness Axiom",
+  "body": " Proving the Completeness Axiom    Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.        Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.      "
+},
+{
+  "id": "completeness-real-3",
+  "level": "2",
+  "url": "completeness-real.html#completeness-real-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.     "
+},
+{
+  "id": "completeness-real-4",
+  "level": "2",
+  "url": "completeness-real.html#completeness-real-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.     "
+},
+{
+  "id": "intro-limits",
+  "level": "1",
+  "url": "intro-limits.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Introduction to Limits",
+  "body": " Introduction to Limits    Solve the following problems on limits of real-valued functions.     For each of the following, guess , and for , determine inequalities involving for which .     , .     ,      arbitrary,      ,         Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .      Let and assume .    If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?        State precisely what it means for not to exist.    "
+},
+{
+  "id": "intro-limits-3",
+  "level": "2",
+  "url": "intro-limits.html#intro-limits-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  For each of the following, guess , and for , determine inequalities involving for which .     , .     ,      arbitrary,      ,      "
+},
+{
+  "id": "intro-limits-4",
+  "level": "2",
+  "url": "intro-limits.html#intro-limits-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .   "
+},
+{
+  "id": "intro-limits-5",
+  "level": "2",
+  "url": "intro-limits.html#intro-limits-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let and assume .    If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?     "
+},
+{
+  "id": "intro-limits-6",
+  "level": "2",
+  "url": "intro-limits.html#intro-limits-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  State precisely what it means for not to exist.   "
+},
+{
+  "id": "limits-sequences",
+  "level": "1",
+  "url": "limits-sequences.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Using Sequences to Determine Limits",
+  "body": " Using Sequences to Determine Limits    Use our result on using sequences to determine limits to solve the following.     Suppose and . Determine the following and prove your guess.                            Let Prove that does not exist without using the definition. Hint: Look at sequences approaching 1 from the left and from the right.      Let , , and be functions defined on an open interval , and let . Suppose also that , , and for all . Prove that .    "
+},
+{
+  "id": "limits-sequences-3",
+  "level": "2",
+  "url": "limits-sequences.html#limits-sequences-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Suppose and . Determine the following and prove your guess.                         "
+},
+{
+  "id": "limits-sequences-4",
+  "level": "2",
+  "url": "limits-sequences.html#limits-sequences-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let Prove that does not exist without using the definition. Hint: Look at sequences approaching 1 from the left and from the right.   "
+},
+{
+  "id": "limits-sequences-5",
+  "level": "2",
+  "url": "limits-sequences.html#limits-sequences-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let , , and be functions defined on an open interval , and let . Suppose also that , , and for all . Prove that .   "
+},
+{
+  "id": "continuous",
+  "level": "1",
+  "url": "continuous.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Continuous Functions",
+  "body": " Continuous Functions    Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.     , where and are constants.             Assume that exists. Prove that is continuous at .      Let and be continuous at . Prove     is continuous at .     is continuous at .     is continuous at .      "
+},
+{
+  "id": "continuous-3",
+  "level": "2",
+  "url": "continuous.html#continuous-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove that the following functions are continuous at , where is any real number.     , where and are constants.          "
+},
+{
+  "id": "continuous-4",
+  "level": "2",
+  "url": "continuous.html#continuous-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Assume that exists. Prove that is continuous at .   "
+},
+{
+  "id": "continuous-5",
+  "level": "2",
+  "url": "continuous.html#continuous-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let and be continuous at . Prove     is continuous at .     is continuous at .     is continuous at .     "
+},
+{
+  "id": "uniform-cont",
+  "level": "1",
+  "url": "uniform-cont.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Uniformly Continuous Functions",
+  "body": " Uniformly Continuous Functions    Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous. Hint: The 2 and the 7 are important here.      We now seek to prove that given by is not uniformly continuous. Let .    Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?        (Not on quiz) Let be given by . Prove that is uniformly continuous.      (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .    "
+},
+{
+  "id": "uniform-cont-3",
+  "level": "2",
+  "url": "uniform-cont.html#uniform-cont-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Prove that given by is uniformly continuous. Hint: The 2 and the 7 are important here.   "
+},
+{
+  "id": "uniform-cont-4",
+  "level": "2",
+  "url": "uniform-cont.html#uniform-cont-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  We now seek to prove that given by is not uniformly continuous. Let .    Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?     "
+},
+{
+  "id": "uniform-cont-5",
+  "level": "2",
+  "url": "uniform-cont.html#uniform-cont-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  (Not on quiz) Let be given by . Prove that is uniformly continuous.   "
+},
+{
+  "id": "uniform-cont-6",
+  "level": "2",
+  "url": "uniform-cont.html#uniform-cont-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .   "
+},
+{
+  "id": "extreme-value",
+  "level": "1",
+  "url": "extreme-value.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Extreme Value Theorem",
+  "body": " Extreme Value Theorem    Let be a continous function.     Let be a bounded set of real numbers, with and .    Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .        Assume that is unbounded from above.    Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?        Let be a continuous function, and let be the range of .    Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .      "
+},
+{
+  "id": "extreme-value-3",
+  "level": "2",
+  "url": "extreme-value.html#extreme-value-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let be a bounded set of real numbers, with and .    Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .     "
+},
+{
+  "id": "extreme-value-4",
+  "level": "2",
+  "url": "extreme-value.html#extreme-value-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Assume that is unbounded from above.    Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?     "
+},
+{
+  "id": "extreme-value-5",
+  "level": "2",
+  "url": "extreme-value.html#extreme-value-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Let be a continuous function, and let be the range of .    Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .     "
+},
+{
+  "id": "intermediate-value",
+  "level": "1",
+  "url": "intermediate-value.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Intermediate Value Theorem",
+  "body": " Intermediate Value Theorem    The following is to help you understand and prove the Intermediate Value Theorem.     Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?        Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .      "
+},
+{
+  "id": "intermediate-value-3",
+  "level": "2",
+  "url": "intermediate-value.html#intermediate-value-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?     "
+},
+{
+  "id": "intermediate-value-4",
+  "level": "2",
+  "url": "intermediate-value.html#intermediate-value-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .     "
+},
+{
+  "id": "derivatives",
+  "level": "1",
+  "url": "derivatives.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Derivatives",
+  "body": " Derivatives    This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.     Compute from the limit definition.     ,      ,         Suppose that exists. Prove that is continuous at . Hint: Prove that .      Suppose we know and . Find , where     , a constant.                  Let . Suppose you know and .    What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .        Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.    "
+},
+{
+  "id": "derivatives-3",
+  "level": "2",
+  "url": "derivatives.html#derivatives-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Compute from the limit definition.     ,      ,      "
+},
+{
+  "id": "derivatives-4",
+  "level": "2",
+  "url": "derivatives.html#derivatives-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that exists. Prove that is continuous at . Hint: Prove that .   "
+},
+{
+  "id": "derivatives-5",
+  "level": "2",
+  "url": "derivatives.html#derivatives-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Suppose we know and . Find , where     , a constant.               "
+},
+{
+  "id": "derivatives-6",
+  "level": "2",
+  "url": "derivatives.html#derivatives-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Let . Suppose you know and .    What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .     "
+},
+{
+  "id": "derivatives-7",
+  "level": "2",
+  "url": "derivatives.html#derivatives-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.   "
 }
 ]
 
