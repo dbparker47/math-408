@@ -27,42 +27,112 @@
   </objectives>
 
   <subsection xml:id="video-activity-intro-sequences">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Introduction to Sequences</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video that is an <em>introduction to sequences</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Introduction to Sequences</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Determine what the following converge to, if anything.  Prove your result.
+            <ol>
+              <li>
+                <p>
+                  <m>\left\{ \frac{2n}{3n+2} \right\}</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\left\{ \frac{n^2}{n^2+2} \right\}</m>
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Suppose that <m>\{ x_n \}</m> is a bounded increasing sequence.  Must the sequence converge? If so, to what?  What about bounded decreasing sequences?
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Define the sequence <m>\{ a_n \}</m> by <m>a_1=\frac12</m>, and <m>a_{n+1}=\sqrt{a_n}</m> for all <m>n \geq 2</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that <m>a_n &lt; 1</m> for all <m>n \geq 1</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ a_n \}</m> is monotone.
+                </p>
+              </li>
+              <li>
+                <p>
+                  What can you conclude?
+                </p>
+              </li>
+              <li>
+                <p>
+                  (Not on quiz) Can you find a sneaky way to find the limit of the sequence?
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-general-sequence">
+    <title>Video &amp; Activities for General Sequence Theorems</title>
+    <p>
+      Below are links to a video on <em>general sequence theorems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>General Sequence Theorems</title>
+      <p>
+        Assume <m>\{a_n\}</m> converges to <m>a</m> and <m>\{ b_n \}</m> converges to <m>b</m>.  Determine what the following converge to and prove your result.
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              <m>\{ a_n -b_n \}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\{ ca_n \}</m>, where <m>c \in \mathbb{R}</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\{ a_nb_n \}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\{ \frac{1}{b_n} \}</m>, where each <m>b_n \ne 0</m> and <m>b \ne 0</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\{ \frac{a_n}{b_n} \}</m>, where each <m>b_n \ne 0</m> and <m>b \ne 0</m>. Hint:  Don't use the definition.  Use #3 and #4 above.
             </p>
           </li>
         </ol>
@@ -76,13 +146,13 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 2.4: pp. 2-5
+      Section 2.4: pp. 41-45
     </p>
     <p>
-        Section 2.6: pp. 
+        Section 2.6: pp. 49-51
     </p>
     <p>
-        Section 2.7: pp. 
+        Section 2.7: pp. 52-58
     </p>
   </subsection>
 </section>

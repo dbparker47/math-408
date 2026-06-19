@@ -26,43 +26,90 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-cauchy-converge">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-cauchy-converges-2">
+    <title>Video &amp; Activities for Convergence of Cauchy Sequences</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on the <em>convergence of Cauchy sequences</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Convergence of Cauchy Sequences</title>
+      <p>
+        The following are some problems leading to the result that being convergent and being Cauchy are equivalent.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Let <m>A,B \subseteq \mathbb{R}</m> with <m>A \subseteq B</m>.
+            <ol>
+              <li>
+                <p>
+                  If <m>B</m> is bounded above, which is bigger, sup<m>(A)</m> or sup<m>(B)</m>? Prove.
+                </p>
+              </li>
+              <li>
+                <p>
+                  If <m>B</m> is bounded below, which is bigger, inf<m>(A)</m> or inf<m>(B)</m>? Prove.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Let <m>\{ x_n \}</m> be a bounded sequence, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>.  Define <m>a_n =</m> inf<m>(S_n)</m> and <m>b_n =</m> sup<m>(S_n)</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that <m>\{ a_n \}</m> is an increasing sequence.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ b_n \}</m> is a decreasing sequence.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ a_n \}</m> and <m>\{ b_n \}</m> are bounded.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <m>\{ x_n \}</m> be a Cauchy sequence, and let <m>\{ a_n \}</m> and <m>\{ b_n \}</m> be as in #2.  Let <m>\epsilon &gt; 0</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that <m>\{ a_n \}</m> converges to some number <m>a</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ b_n \}</m> converges to some number <m>b</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - a_N \right|  &lt; \epsilon</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - b_N \right|  &lt; \epsilon</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ x_n \}</m> converges to <m>a</m> or prove that <m>\{ x_n \}</m> converges to <m>b</m> (your choice). Hint: Use the facts that <m>\{ x_n \}</m> is Cauchy; that either <m>\{ a_n \}</m> converges to <m>a</m> or <m>\{ b_n \}</m> converges to <m>b</m>; either (c) or (d); and some triangle inequality magic.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>
@@ -76,7 +123,7 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 2.12: pp. 2-5
+      Section 2.12: pp. 84-86
     </p>
   </subsection>
 </section>

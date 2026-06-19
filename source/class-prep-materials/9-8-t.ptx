@@ -26,8 +26,8 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-abs-value-intervals">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-abs-value">
+    <title>Video &amp; Activities for Absolute Value</title>
     <p>
       Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
@@ -35,34 +35,98 @@
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Absolute Value</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Prove the following.
+            <ol>
+              <li>
+                <p>
+                  <m>-|a| \leq a \leq |a|</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>|ab|=|a| \cdot |b|</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>|-a|=|a|</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>|a| &lt; c</m> if and only if <m>-c &lt; a &lt; c</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Suppose that <m>a \in \mathbb{R}</m> and that <m>|a| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.  What can <m>a</m> be?  Prove it.
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Under what circumstances is <m>|a+b|=|a|+|b|</m>?  What is <m>|a+b|</m> in the other cases?
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-intervals">
+    <title>Video &amp; Activities for Intervals</title>
+    <p>
+      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Intervals</title>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Determine whether or not each of the following is an interval.  Prove it.
+            <ol>
+              <li>
+                  <p>
+                    <m>\{ x \in \mathbb{R} : x &lt; 0</m> and <m>x^2 &lt; 6 \}</m>.
+                  </p>
+              </li>
+              <li>
+                <p>
+                  <m>\{ x \in \mathbb{R} : |x| \leq 2</m> or <m>|x-2| &gt; 1 \}</m>
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>I</m> and <m>J</m> be intervals.
+            <ol>
+              <li>
+                <p>
+                  Find <m>I</m> and <m>J</m> such that <m>I \cap J</m> is not an interval.
+                </p>
+              </li>
+              <li>
+                <p>
+                  If <m>I \cap J</m> has at least two elements, prove that <m>I \cap J</m> is an interval.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>
@@ -76,7 +140,7 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 1.5: pp. 2-5
+      Section 1.5: pp. 11-12
     </p>
   </subsection>
 </section>

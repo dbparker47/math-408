@@ -26,8 +26,8 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-completeness-archimedean">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-completeness">
+    <title>Video &amp; Activities for Completeness Axiom</title>
     <p>
       Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
@@ -35,34 +35,69 @@
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Completeness Axiom</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Let <m>x \in \mathbb{R}</m>.  Prove that there exists an integer <m>n</m> such that <m>n \leq x &lt; n+1</m>.  Hint:  Let <m>S= \{ m \in {\mathbb Z} : m \leq x \}</m>.  Can <m>S=\emptyset</m>?
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Let <m>S</m> be a set of real numbers that is bounded below.
+            <ol>
+              <li>
+                <p>
+                 Prove that the set <m>T = \{ x \in \mathbb{R} : -x \in S \}</m> is bounded above.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Use the Completeness Axiom on <m>T</m> as well as your number smarts to prove that <m>S</m> has an infimum.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              If <m>a,b \in \mathbb{R}</m> with <m>a,b &gt; 0</m>, let <m>A=\{ a, 2a, 3a, 4a, \ldots \}</m>. Use the completeness axiom to prove that there is some <m>n \in \mathbb{N}</m> such that <m>na &gt; b</m>.  Hint:  If <m>na &lt; b</m> for all <m>n \in \mathbb{N}</m>, what does that say about the set <m>A</m> defined above?
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-archimedean">
+    <title>Video &amp; Activities for Archimedean Property</title>
+    <p>
+      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Archimedean Property</title>
+      <p>
+        <ol>
+          <li>
+            <p>
+              <m>\mathbb{Z}</m> is neither bounded above nor bounded below.   In other words, for each real number <m>x</m>, there is an integer that is greater than <m>x</m> and another integer that is smaller than <m>x</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>x &gt; 0</m>.  Then there exists <m>n \in \mathbb{N}</m> such that <m>\frac{1}{n} &lt; x</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>x,y,z \in \mathbb{R}</m> with <m>x &lt; y</m>, and <m>z &gt; 0</m>.  Prove there is an integer <m>n</m> such that <m>x+\frac{z}{n} &lt; y</m>.
             </p>
           </li>
         </ol>
@@ -76,10 +111,10 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 1.6: pp. 2-5
+      Section 1.6: pp. 12-13
     </p>
     <p>
-        Section 1.7: pp. 
+        Section 1.7: pp. 16-17
     </p>
   </subsection>
 </section>

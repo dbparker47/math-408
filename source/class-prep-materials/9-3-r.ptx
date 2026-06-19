@@ -27,7 +27,7 @@
   </objectives>
 
   <subsection xml:id="video-activity-ordered-fields">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Ordered Fields</title>
     <p>
       Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
@@ -35,34 +35,78 @@
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Ordered Fields</title>
+      <p>
+        Let <m>F</m> be an ordered field with <m>x,y,z \in F</m>. For the following, use only the ordered field axioms.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Prove that <m>-(x+y) = -x-y</m>.
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Prove that <m>x(-z)=-xz</m>.
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Prove that <m>x &gt; 0</m> if and only if <m>-x &lt; 0</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Prove that <m>x &lt; 0</m> if and only if <m>-x &gt; 0</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>w &lt; x</m> and  <m>y &lt; z</m>, prove that <m>w+y &lt; x+z</m>. 
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Prove that <m>(-x) \cdot (-y) = xy</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) If <m>x &lt; y</m> and <m>z &lt; 0</m>, prove that <m>xz &gt; yz</m>.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-inequalities">
+    <title>Video &amp; Activities for Inequalities</title>
+    <p>
+      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Inequalities</title>
+      <p>
+      Prove the following inequalities.
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              For all real numbers <m>x</m>, <m>x^2-6x+11 &gt; 0</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>a_1</m>, <m>a_2</m>, <m>b_1</m>, and <m>b_2</m> be real numbers.  Which of <m>(a_1^2+b_1^2)(b_1^2+b_2^2)</m> and <m>(a_1b_1+a_2b_2)^2</m> is greater than or equal to the other? Hint: Subtract.
             </p>
           </li>
         </ol>
@@ -76,10 +120,10 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 1.3: pp. 2-5
+      Section 1.3: pp. 6-8
     </p>
     <p>
-      Section 1.4: pp. 
+      Section 1.4: p. 10
     </p>
   </subsection>
 </section>

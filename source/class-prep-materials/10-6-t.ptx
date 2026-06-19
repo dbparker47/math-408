@@ -26,43 +26,116 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-squeeze-subsequences">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-squeeze">
+    <title>Video &amp; Activities for Squeeze Theorem</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on the <em>Squeeze Theorem</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Squeeze Theorem</title>
+      <p>
+      Use the Squeeze Theorem to prove the following.
+    </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Prove that the sequence <m>\left\{ \frac{4^n}{n!} \right\}</m> converges to zero.  Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Let <m>S</m> be a set of real numbers that is bounded above.
+            <ol>
+              <li>
+                <p>
+                  Explain why <m>S</m> has a supremum <m>\beta</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  For each <m>n \in \mathbb{N}</m>, prove that there is a number <m>a_n \in S</m> that is bigger than <m>\beta - \frac{1}{n}</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ a_n \}</m> converges to <m>\beta</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <m>S</m> be a set of real numbers that is bounded below and has infimum <m>\alpha</m>.  Prove that there is a sequence in <m>S</m> that converges to <m>\alpha</m>.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-subsequences">
+    <title>Video &amp; Activities for Subsequences</title>
+    <p>
+      Below are links to a video on <em>subsequences</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Subsequences</title>
+      <p>
+        For a sequence <m>\{ x_n \}</m>, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>, <m>a_n = \inf(S_n)</m>, and <m>b_n= \sup(S_n)</m>.
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Find all possible limits of subsequences for the following.  This may include <m>\infty</m> or <m>-\infty</m>.
+            <ol>
+              <li>
+                <p>
+                  <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\left\{ 2^{n(-1)^n} \right\}</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>a_n=x_n</m> for all <m>n \in \mathbb{N}</m>, what kind of sequence is <m>\{ x_n \}</m>?
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>b_n=x_n</m> for all <m>n \in \mathbb{N}</m>, what kind of sequence is <m>\{ x_n \}</m>?
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>a_n \neq x_n</m> for all <m>n \in \mathbb{N}</m>, describe how to construct a decreasing subsequence of <m>\{ x_n \}</m>.  Hint: Start with <m>x_1</m>, and convince yourself that <m>x_1</m> is not a lower bound for <m>S_1</m>.  Keep going.
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>b_n \neq x_n</m> for all <m>n \in \mathbb{N}</m>, describe how to construct an increasing subsequence of <m>\{ x_n \}</m>.
             </p>
           </li>
         </ol>
@@ -76,10 +149,10 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 2.8: pp. 2-5
+      Section 2.8: pp. 60-65
     </p>
     <p>
-        Section 2.11: pp. 
+        Section 2.11: pp. 78-80
     </p>
   </subsection>
 </section>

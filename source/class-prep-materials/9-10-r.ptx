@@ -27,7 +27,7 @@
   </objectives>
 
   <subsection xml:id="video-activity-bounds">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Upper &amp; Lower Bounds</title>
     <p>
       Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
@@ -35,34 +35,88 @@
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Upper &amp; Lower Bounds</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Consider the set <m>(3,5) = \{ x \in \mathbb{R} : 3 &lt; x &lt; 5 \}</m>.
+            <ol>
+              <li>
+                <p>
+                  Find three upper bounds of <m>(3,5)</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Find three lower bounds of <m>(3,5)</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  How many upper bounds does <m>(3,5)</m> have?  How many lower bounds?
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Suppose that a set <m>S \subseteq \mathbb{R}</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that if <m>S</m> is bounded, then there exists <m>B \in \mathbb{R}</m> such that <m>|x| \leq B</m> for all <m>x \in S</m>.  Hint: Consider the cases <m>x \ge 0</m> and <m>x &lt; 0</m> separately.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that if there exists <m>B \in \mathbb{R}</m> such that <m>|x| \leq B</m> for all <m>x \in S</m>, then <m>S</m> is bounded.
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-inf-sup">
+    <title>Video &amp; Activities for Infima &amp; Suprema</title>
+    <p>
+      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Infima &amp; Suprema</title>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions.  You may use the fact (which we will prove shortly) that for every real number <m>y &gt; 0</m>, there exists some <m>n \in \mathbb{N}</m> such that <m>\frac{1}{n} &lt; y</m>.
+            <ol>
+              <li>
+                <p>
+                  <m>(-2,5)</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>S=\{ x \in \mathbb{Q} : x = \left( \frac{1}{2} \right)^n</m> for some <m>n \in \mathbb{N} \}</m>
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <m>S</m> be a set of integers with a supremum <m>x</m>.  Prove that <m>x \in S</m>. Hint: Consider what must be true about both <m>x</m> and <m>x-1</m>.
             </p>
           </li>
         </ol>
@@ -76,10 +130,10 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 1.5: pp. 2-5
+      Section 1.5: pp. 11-12
     </p>
     <p>
-        Section 1.6: pp. 
+        Section 1.6: pp. 12-13
     </p>
   </subsection>
 </section>

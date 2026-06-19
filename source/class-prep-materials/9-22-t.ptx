@@ -27,42 +27,163 @@
   </objectives>
 
   <subsection xml:id="video-activity-cardinality">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Cardinality</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on <em>cardinality</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Cardinality</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Which of the following is countable?  Prove your answer.
+            <ol>
+              <li>
+                <p>
+                  <m>{\mathbb Z}</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  Set of odd integers
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>{\mathbb Z} \cup \{ \sqrt{2} \}</m>
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Determine whether or not the following have the same cardinality, and prove your answer.
+            <ol>
+              <li>
+                <p>
+                  <m>(2,7)</m> and <m>(4,10)</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>[3,9]</m> and <m>[5,8]</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  (Not on quiz) <m>(1,2)</m> and <m>(1,2]</m>.  Hint:  Use the set <m>\{ 1, \frac12, \frac13, \frac14, \ldots \}</m> to take care of 2 like in #1(c).  Then take care of the other numbers.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              (Not on quiz) Prove that <m>(-2,2)</m> and <m>\mathbb{R}</m> have the same cardinality.  Hint: Define your function piecewise.  Define separate formulas for <m>f(x)</m> for <m>x \in (-2,-1)</m>, <m>x \in [-1,0)</m>,  <m>x \in (0,1]</m>, and <m>x \in (1,2)</m>. Then there is one more value of <m>x</m> that I might have forgotten.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-cardinality-reals">
+    <title>Video &amp; Activities for Introduction to the Cardinality of the Real Numbers</title>
+    <p>
+      Below are links to a video on the <em>cardinality of the real numbers</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Cardinality of the Real Numbers</title>
+      <p>
+      The following is an outline of the proof that the interval <m>[0,1]</m> is uncountable.  Fill in the details of the proof.
+    </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Consider the interval <m>I= [0,1]</m>.
+            <ol>
+              <li>
+                <p>
+                  Find a closed interval inside <m>I</m> that does not contain <m>\frac{3}{8}</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Find a closed interval inside <m>I</m> that doesn't contain <m>1</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>x \in I</m>.  Prove there is a closed interval inside <m>I</m> that does not contain <m>x</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>J=[a,b]</m>, and let <m>x \in J</m>.  Prove there is a closed interval inside <m>J</m> that does not contain <m>x</m>.
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose <m>[a_2,b_2] \subseteq [a_1,b_1]</m>, <m>[a_3,b_3] \subseteq [a_2,b_2]</m>, etc. In general <m>[a_{n+1},b_{n+1}] \subseteq [a_n,b_n]</m> for all <m>n \geq 1</m>.
+            <ol>
+              <li>
+                <p>
+                  Which is bigger: <m>a_1</m> or <m>a_2</m>? <m>a_n</m> or <m>a_{n+1}</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Which is bigger: <m>b_1</m> or <m>b_2</m>? <m>b_n</m> or <m>b_{n+1}</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>A = \{ a_1,a_2,a_3, \ldots \}</m> and <m>B = \{b_1,b_2,b_3, \ldots \}</m>.  Are <m>A</m> and <m>B</m> bounded?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>a= \sup(A)</m>, <m>b=\inf(B)</m>.  Which is bigger?
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Assume that <m>f: \mathbb{N} \rightarrow \mathbb{R}</m> is onto.  Let <m>I_0 = \mathbb{R}</m>.
+            <ol>
+              <li>
+                <p>
+                  Is there a finite closed interval <m>I_1 \subseteq I_0</m> such that <m>f(1) \notin I_1</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Is there an interval <m>I_2 \subseteq I_1</m> such that <m>f(1),f(2) \notin I_2</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Continue defining <m>I_n</m> for <m>n \in \mathbb{N}</m> as above, and use them to prove a contradiction.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>
@@ -76,7 +197,7 @@
   <subsection>
     <title>Optional Reading</title>
     <p>
-      Section 2.3: pp. 2-5
+      Section 2.3: pp. 37-39
     </p>
   </subsection>
 </section>
