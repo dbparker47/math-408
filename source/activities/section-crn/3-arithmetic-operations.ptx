@@ -40,7 +40,7 @@
         </li>
         <li>
           <p>
-            Suppose you use the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> as representatives of <m>[\{2,2,2,2, \ldots \}]</m> and <m>[\{ 3,3,3,3, \ldots \}]</m>.  Prove that <m>[\{ a_n \}] \cdot [\{ b_n \}]</m> is the same as in part (a).
+            Suppose you use the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> as representatives of <m>[\{2,2,2,2, \ldots \}]</m> and <m>[\{ 3,3,3,3, \ldots \}]</m>.  Prove that <m>[\{ a_n \}] \cdot [\{ b_n \}]</m> is the same as your guess in part (a).
           </p>
         </li>
       </ol>

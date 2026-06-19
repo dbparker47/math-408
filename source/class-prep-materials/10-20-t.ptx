@@ -26,43 +26,121 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-equiv-cauchy-arithmetic">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-equiv-cauchy">
+    <title>Video &amp; Activities for Equivalent Cauchy Sequences</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on when two Cauchy sequences are considered <em>equivalent</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Equivalent Cauchy Sequences</title>
+      <p>
+        Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\{ x_n \} = \{ x_1,x_2,x_3, \ldots \}</m> and <m>\{ y_n \} = \{ y_1,y_2,y_3, \ldots \}</m> be sequences in <m>A</m>. define <m>\{ x_n \} \sim \{ y_n \}</m> precisely when the sequence <m>\{ x_n - y_n \} = \{x_1-y_1,x_2-y_2,x_3-y_3, \ldots \}</m> converges to <m>0</m>.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Consider the sequences <m>\left\{ \frac{n}{2n+3} \right\}</m> and <m>\left\{ \frac{2n}{4n-1} \right\}</m>.
+            <ol>
+              <li>
+                <p>
+                  Give an intuitive reason why <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Recall that an equivalence relation is a relation that satisfies the <em>reflexive property</em>, the <em>symmetric property</em>, and the <em>transitive property</em>.  For each of these properties, state what you must assume and what you must show to prove that <m>\sim</m> is an equivalence relation.
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Prove that <m>\sim</m> is an equivalence relation.
+            </p>
+          </li>
+          <li>
+            <p>
+              Describe the equivalence class represented by the sequence <m>\left\{ 1+\frac{1}{n} \right\} = \left\{ 2, 1+ \frac12, 1+\frac13, 1+\frac14, \ldots \right\}</m>.  In other words, describe <m>\left[ \left\{ 1+\frac{1}{n} \right\} \right]</m>.  Prove your conjecture.
+            </p>
+          </li>
+          <li>
+            <p>
+              Based on your experience in #4, what do you think the equivalence classes of <m>\sim</m> represent?
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-equiv-arithmetic">
+    <title>Video &amp; Activities for Real Number Arithmetic</title>
+    <p>
+      Below are links to a video on <em>real number arithmetic</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Real Number Arithmetic</title>
+      <p>
+        Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\mathbb{R}</m> be the set of equivalence classes of <m>A</m> under the equivalence relation we defined previously.
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Let <m>X,Y \in \mathbb{R}</m> (so <m>X</m> and <m>Y</m> are equivalence classes whose elements are Cauchy sequences of rational numbers).  How would you define <m>X+Y</m>?  Describe it as a process, and make sure that your answer is in <m>\mathbb{R}</m> as defined above.
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>X,Y \in \mathbb{R}</m>.  How would you define <m>X \cdot Y</m>?  Describe it as a process, and make sure that your answer is in <m>\mathbb{R}</m> as defined above.
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose that <m>\{a_n\}</m> and <m>\{ b_n \}</m> are Cauchy sequences such that <m>[\{ a_n \}] = [\{2,2,2,2, \ldots \}]</m> and <m>[\{ b_n \}] = [\{ 3,3,3,3, \ldots \}]</m>.
+            <ol>
+              <li>
+                <p>
+                  What is your guess for <m>[\{2,2,2,2, \ldots \}] \cdot [\{ 3,3,3,3, \ldots \}]</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Suppose you use the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> as representatives of <m>[\{2,2,2,2, \ldots \}]</m> and <m>[\{ 3,3,3,3, \ldots \}]</m>.  Prove that <m>[\{ a_n \}] \cdot [\{ b_n \}]</m> is the same as your guess in part (a).
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Explain what you must assume and what you must prove in order for addition in <m>\mathbb{R}</m> to be well defined.  Then try proving that addition is well defined.
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Prove as many of the field axioms as you can for <m>\mathbb{R}</m> with addition and multiplication defined above.  You may use the fact that <m>\mathbb{Q}</m> is a field.
             </p>
           </li>
         </ol>
