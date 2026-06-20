@@ -10,17 +10,32 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain what it means for a sequence <m>\{ x_n \}</m> to converge to a real number $L$.  This means both knowing the precise mathematical definition for use in proving theorems about the limits of sequences, as well as being able to connect the formal definition of convergence with our intuitive understanding of the limit of a sequence.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Given a sequence <m>\{ x_n \}</m>, use your intuition or other methods to guess the limit.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Given a sequence <m>\{ x_n \}</m> and a guess at its limit, use the formal definition of convergence to verify the limit.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use tools like the triangle inequality to prove theorems about the convergence of sequences.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given <m>\epsilon &gt; 0</m>, think flexibly about quantities like <m>\frac{\epsilon}{2}</m> or <m>\frac{\epsilon}{3}</m>, being able to see these numbers as playing the role of <q><m>\epsilon</m></q> in the definition of convergence.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the flexibility described in the previous objective to prove theorems about the convergence of sequences.
         </p>
       </li>
     </ul>

@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain what it means for two sets to have the same <em>cardinality</em>. 
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Construct one-to-one (injective), onto (surjective) functions between two sets that have the same cardinality.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+           Explain the definition of \<em>countable sets</em>, <em>countably infinite sets</em>, and <em>uncountable sets</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove a given set is countable.
         </p>
       </li>
     </ul>
