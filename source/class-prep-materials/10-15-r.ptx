@@ -10,17 +10,42 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Given a sequence <m>\{ x_n \}</m>, explain where the sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> are used, where <m>a_n = \inf\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m> and <m>b_n= \sup\{ x_n, x_{n+1}, x_{n+2},\ldots \}</m>. 
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Prove that <m>\{ a_n \}</m> is an increasing sequence and <m>\{ b_n \}</m> is a decreasing sequence.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Explain the definition of <m>\displaystyle \lim_{x \rightarrow \infty} \inf x_n</m> and <m>\displaystyle \lim_{x \rightarrow \infty} \sup x_n</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a sequence converges if and only if <m>\displaystyle \lim_{x \rightarrow \infty} \inf x_n= \lim_{x \rightarrow \infty} \sup x_n</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain basic principles of using a known number system to construct another number system.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain what number a given Cauchy sequence of rational numbers represents.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given a real number, determine a Cauchy sequence of rational numbers that represents the real number.
+        </p>
+      </li>
+      <li>
+        <p>
+          Recognize decimal representations of real numbers as Cauchy sequences that represent the number.
         </p>
       </li>
     </ul>

@@ -38,6 +38,21 @@
           Use the flexibility described in the previous objective to prove theorems about the convergence of sequences.
         </p>
       </li>
+      <li>
+        <p>
+          Use theorems about limits of sequences to prove theorems about limits of sequences.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain what it means for a sequence to be <em>monotone</em> and what it means for a sequence to be <em>bounded</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that a <em>monotone bounded sequence</em> converges. and that the limit of a bounded increasing (resp. decreasing) sequence converges to its supremum (resp. infimum).
+        </p>
+      </li>
     </ul>
   </objectives>
 
@@ -168,6 +183,9 @@
     </p>
     <p>
         Section 2.7: pp. 52-58
+    </p>
+    <p>
+      Section 2.9: pp. 
     </p>
   </subsection>
 </section>

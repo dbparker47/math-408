@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Use the <em>Squeeze Theorem</em> to prove theorems about limits of sequences.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Have an intuitive understanding of what a <em>subsequence</em> of a given sequence is.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Connect your intuitive understanding of subsequences to the formal definition of a subsequence.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove why every sequence has a monotone subsequence and use this fact to prove that every bounded sequence has a convergent subsequence (i.e. <em>Bolzano-Weierstrauss Theorem</em>).
         </p>
       </li>
     </ul>

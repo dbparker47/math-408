@@ -10,17 +10,17 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Prove that a given sequence is a <em>Cauchy sequence</em> using the definition.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain how Cauchy sequences characterize convergent sequences without requiring us to know what the limit is.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Use the fact that a sequence converges if and only if it is Cauchy to prove theorems about sequences and real numbers.
         </p>
       </li>
     </ul>
