@@ -27,42 +27,50 @@
   </objectives>
 
   <subsection xml:id="video-activity-uniform-cont">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Uniform Continuity</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Use the definition of uniformly continuous functions to solve the following.
+    </p>
+    <p>
+      Below are links to a video on <em>uniformly continuous functions</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Uniform Continuity</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Prove that <m>f: [2,7] \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is uniformly continuous on <m>[2,7]</m>.  Hint:  The 2 and the 7 are important here.
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              We now seek to prove that <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is not uniformly continuous on <m>\mathbb{R}</m>.  Let <m>\epsilon &gt; 0</m>.
+            <ol>
+              <li>
+                <p>
+                  Suppose you have a <m>\delta &gt; 0</m> such that for all <m>x,c \in \mathbb{R}</m>, if <m>|x-c| &lt;\delta</m>, then <m>|f(x)-f(c)| &lt; \epsilon</m>.  For each <m>c \in \mathbb{R}</m>, find an <m>x</m> that satisfies <m>|x-c| &lt; \delta</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  For the <m>x</m> you found above, how big must <m>c</m> be in order for <m>|f(x)-f(c)| \geq \epsilon</m>?  What can you conclude?
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              (Not on quiz) Let <m>f: [0,\infty) \rightarrow \mathbb{R}</m> be given by <m>f(x) = \frac{2x+3}{x+4}</m>. Prove that <m>f</m> is uniformly continuous on <m>[0,\infty)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) Let <m>f: I \rightarrow \mathbb{R}</m>, and suppose <m>\left| \frac{f(a)-f(b)}{a-b} \right| \leq M</m> for all <m>a,b \in I</m>.  Prove that <m>f</m> is uniformly continuous on <m>I</m>.
             </p>
           </li>
         </ol>

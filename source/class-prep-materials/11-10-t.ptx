@@ -26,43 +26,145 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-intro-limits-sequence-limits">
-    <title>Video &amp; Activities for Number Systems</title>
+  <subsection xml:id="video-activity-intro-limits-2">
+    <title>Video &amp; Activities for Introduction to Limits</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on <em>limits</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Introduction to Limits</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              For each of the following, guess <m>\displaystyle L = \lim_{x \rightarrow a} f(x)</m>, and for <m>\epsilon &gt; 0</m>,  determine inequalities involving <m>|x-a|</m> for which <m>\left| f(x) - L \right| &lt; \epsilon</m>.
+            <ol>
+              <li>
+                <p>
+                  <m>a = 2</m>, <m>f(x) = 3x+4</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>a=5</m>, <m>f(x) = \frac{2x}{x+3}</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>a</m> arbitrary, <m>f(x) = mx+b</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>a=3</m>, <m>f(x)=x^2</m>
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding <m>\delta \leq 1</m>.
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <md> f(x) = \begin{cases} 2x+4, \amp x \leq 1 \\ -3x+5, \amp x &gt; 1 \end{cases}</md> and assume <m>\displaystyle \lim_{x \rightarrow 1} f(x) = L</m>.
+            <ol>
+              <li>
+                <p>
+                  If <m>\delta &gt; 0</m>, prove that there is some <m>0 \le x &lt; 1</m> such that <m>0 &lt; |x-1| &lt; \delta</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Use the above with <m>\epsilon=1</m> to prove that <m>L &gt; 3</m>.  Hint: Use <m>|f(x)-L| &lt; \epsilon</m> to solve for <m>L</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  If <m>\delta &gt; 0</m>, prove that there is some <m>1 &lt; x \le 2</m> such that <m>0 &lt; |x-1| &lt; \delta</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Use the above with <m>\epsilon=1</m> to prove that <m>L &lt; 3</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  What does this say about <m>\displaystyle \lim_{x \rightarrow 1}  f(x)</m>?
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              State precisely what it means for <m>\displaystyle \lim_{x \rightarrow a} f(x)</m> not to exist.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-sequence-limits">
+    <title>Video &amp; Activities for Using Sequences for Determining Limits</title>
+    <p>
+      Below are links to a video on using sequences to determine the limit of a function, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
+    <example>
+      <title>Sequences for Determining Limits</title>
+      <p>
+        Use our result on using sequences to determine limits to solve the following.
+      </p>
+      <p>
+        <ol>
+          <li>
+            <p>
+              Suppose <m>\displaystyle \lim_{x \rightarrow a} f(x)=L_1</m> and <m>\displaystyle \lim_{x \rightarrow a} g(x) =L_2</m>.  Determine the following and prove your guess.
+            <ol>
+              <li>
+                <p>
+                  <m>\displaystyle \lim_{x \rightarrow a} (f(x)+g(x))</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\displaystyle \lim_{x \rightarrow a} (f(x)-g(x))</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\displaystyle \lim_{x \rightarrow a} f(x)g(x)</m>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <m>\displaystyle \lim_{x \rightarrow a} \frac{f(x)}{g(x)}</m>
+                </p>
+              </li>
+            </ol>
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <md>f(x) = \begin{cases} 2x+4, \amp x \leq 1 \\ -3x+5, \amp x &gt; 1 \end{cases}</md> Prove that <m>\displaystyle \lim_{x \rightarrow 1} f(x)</m> does not exist without using the definition.  Hint:  Look at sequences approaching 1 from the left and from the right.
+            </p>
+          </li>
+          <li>
+            <p>
+              Let <m>f</m>, <m>g</m>, and <m>h</m> be functions defined on an open interval <m>I</m>, and let <m>a \in I</m>.  Suppose also that <m>\displaystyle \lim_{x \rightarrow a} g(x)=L</m>, <m>\displaystyle \lim_{x \rightarrow a} h(x)=L</m>, and <m>g(x) \leq f(x) \leq h(x)</m> for all <m>x \in I</m>.  Prove that <m>\displaystyle \lim_{x \rightarrow a} f(x)=L</m>.
             </p>
           </li>
         </ol>

@@ -27,42 +27,92 @@
   </objectives>
 
   <subsection xml:id="video-activity-construct-completeness">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Proving the Completeness Axiom</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on proving the real numbers satisfy the <em>completeness axiom</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Completeness Axiom</title>
+       <p>
+        Let <m>S</m> be a set of real numbers that is bounded above by a real number <m>B = [ \{ b_1,b_2,b_3, \ldots \}]</m>.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Let's get familiar with how we construct the supremum of <m>S</m>.
+            <ol>
+              <li>
+                <p>
+                  Use the Well-Ordering Principle to prove that there is a smallest integer <m>x_1</m> that is an upper bound of <m>S</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>x_1-1</m> is not an upper bound of <m>S</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  When should we choose <m>x_2=x_1-\frac12</m> and when should be choose <m>x_2=x_1</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove <m>x_2-\frac12</m> is not an upper bound of <m>S</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  How should be choose <m>x_3</m> from among <m>x_2-\frac13</m> and <m>x_2</m>?  Prove that <m>x_3-\frac13</m> is not an upper bound of <m>S</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Do the same as above for <m>x_4</m> and <m>x_5</m> and, in general <m>x_n</m>. You will probably define <m>x_n</m> recursively.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that <m>\{ x_1,x_2,x_3,x_4, \ldots \}</m> is decreasing and bounded.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
-            </p>
-          </li>
-          <li>
-            <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Here is a sliver of proving that every ordered field that contains <m>\mathbb{Q}</m> and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences.  Let <m>\mathbb{R}</m> be <q>our</q> real numbers, and let <m>F</m> be an ordered field that contains <m>\mathbb{Q}</m> and satisfies the Completeness Axiom.  We seek to find a function <m>g: F \rightarrow \mathbb{R}</m> that takes each number in <m>F</m> to the number in <m>\mathbb{R}</m> that plays the same role.
+            <ol>
+              <li>
+                <p>
+                  Let <m>x</m> be in <m>F</m>.  Find a set of rational numbers that <m>x</m> is the supremum of.  Prove your result.
+                </p>
+              </li>
+              <li>
+                <p>
+                  In the set you found above, can you find a sequence of rational numbers that converges to <m>x</m>?  You will probably need to define it recursively.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove your sequence in (b) is Cauchy.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Determine what <m>g(x)</m> is based on your work in (a)--(c).
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove <m>g</m> is well defined.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>

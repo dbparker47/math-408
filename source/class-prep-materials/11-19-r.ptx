@@ -27,42 +27,89 @@
   </objectives>
 
   <subsection xml:id="video-activity-evt">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Extreme Value Theorem</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on the <em>Extreme Value Theorem</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Extreme Value Theorem</title>
+      <p>
+        Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continous function.
+      </p>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Let <m>B</m> be a bounded set of real numbers, with <m>m = \inf(B)</m> and <m>M= \sup(B)</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that there is a sequence <m>\{ a_n \}</m> with each <m>a_n \in B</m> that converges to <m>m</m>.   Hint:  Look at <m>m+\frac{1}{n}</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that there exists a sequence <m>\{ b_n \}</m> with each <m>b_n \in B</m> that converges to <m>M</m>.  Hint:  Look at <m>M-\frac{1}{n}</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
+              Assume that <m>f</m> is unbounded from above.
+            <ol>
+              <li>
+                <p>
+                  Try to construct a sequence <m>\{ x_n \}</m> such that <m>\{ f(x_n) \}</m> converges to <m>\infty</m>.  Hint: Try to choose <m>x_n</m> to be large in such a way that <m>f(x_n)</m> keeps getting larger as <m>n</m> gets larger.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Is <m>\{ x_n \}</m> bounded?  Does it converge?  Is there a subsequence that converges?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>\{ x_{p_n} \}</m> be the convergent subsequence you found in (b).  What does <m>\{ f(x_{p_n}) \}</m> <q>converge</q> to?  What does this tell you?
+                </p>
+              </li>
+              <li>
+                <p>
+                  What do you do if <m>f</m> is unbounded from below?
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>R</m> be the range of <m>f</m>.
+            <ol>
+              <li>
+                <p>
+                  Suppose <m>s = \sup(R)</m>.  Prove that there is a sequence <m>\{ s_n \}</m> in <m>R</m> that converges to <m>s</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that there is a sequence <m>\{ x_n \} \subseteq [a,b]</m> such that <m>\{ f(x_n) \}</m> converges to <m>s</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove there is a subsequence of <m>\{ x_n \}</m> (say <m>\{ x_{p_n} \}</m>) that converges to some <m>x</m>.  What is <m>f(x)</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  If <m>\inf(R)</m> exists, prove that <m>\inf(R) \in R</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>

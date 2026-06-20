@@ -14,7 +14,7 @@
   <exercise>
     <statement>
       <p>
-        Prove that <m>f: [2,7] \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is uniformly continuous.  Hint:  The 2 and the 7 are important here.
+        Prove that <m>f: [2,7] \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is uniformly continuous on <m>[2,7]</m>.  Hint:  The 2 and the 7 are important here.
       </p>
     </statement>
   </exercise>
@@ -22,7 +22,7 @@
   <exercise>
     <statement>
       <p>
-        We now seek to prove that <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is not uniformly continuous.  Let <m>\epsilon &gt; 0</m>.
+        We now seek to prove that <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is not uniformly continuous on <m>\mathbb{R}</m>.  Let <m>\epsilon &gt; 0</m>.
       </p>
       <ol>
         <li>
@@ -42,7 +42,7 @@
   <exercise>
     <statement>
       <p>
-        (Not on quiz) Let <m>f: [0,\infty) \rightarrow \mathbb{R}</m> be given by <m>f(x) = \frac{2x+3}{x+4}</m>. Prove that <m>f</m> is uniformly continuous.
+        (Not on quiz) Let <m>f: [0,\infty) \rightarrow \mathbb{R}</m> be given by <m>f(x) = \frac{2x+3}{x+4}</m>. Prove that <m>f</m> is uniformly continuous on <m>[0,\infty)</m>.
       </p>
     </statement>
   </exercise>
