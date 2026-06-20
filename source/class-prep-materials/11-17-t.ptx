@@ -43,17 +43,16 @@
 
   <subsection xml:id="video-activity-uniform-cont">
     <title>Video &amp; Activities for Uniform Continuity</title>
-    <p>
-      Use the definition of uniformly continuous functions to solve the following.
-    </p>
-    <p>
-      Below are links to a video on <em>uniformly continuous functions</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    <p>Below is a YouTube video on <em>uniformly continuous functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
       <title>Uniform Continuity</title>
+      <p>
+        Use the definition of uniformly continuous functions to solve the following.
+      </p>
       <p>
         <ol>
           <li>

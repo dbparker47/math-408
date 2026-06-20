@@ -39,7 +39,7 @@
   <subsection xml:id="video-activity-continuous">
     <title>Video &amp; Activities for Continuous Functions</title>
     <p>
-      Below are links to a video on <em>continuous functions</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>continuous functions</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
@@ -68,8 +68,7 @@
             </ol>
             </p>
           </li>
-
-  <li>
+          <li>
             <p>
               Assume that <m>\displaystyle \lim_{x \rightarrow a} \frac{f(x) - f(a)}{x-a}</m> exists.  Prove that <m>f(x)</m> is continuous at <m>x=a</m>.
             </p>
