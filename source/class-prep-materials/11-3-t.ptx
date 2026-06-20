@@ -10,17 +10,12 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the Completeness Axiom.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
-        </p>
-      </li>
-      <li>
-        <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Prove that our construction of the real numbers as equivalence classes of Cauchy sequences of rational numbers satisfies the Completeness Axiom.
         </p>
       </li>
     </ul>

@@ -10,17 +10,52 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the relation that determines when two Cauchy sequences of rational numbers represent the same real number.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Use the definition of the above relation to determine whether or not two given Cauchy sequences of rational numbers represent the same real number.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Explain what an <em>equivalence relation</em> is.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that the relation determining when two Cauchy sequences of rational numbers represent the same real number is an equivalence relation.
+        </p>
+      </li>
+      <li>
+        <p>
+          Recognize that the equivalence classes of this equivalence relation are the real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain the definition of addition and multiplication of real numbers, where the real numbers are equivalence classes of Cauchy sequences.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain potential ambiguities in the definitions of addition and multiplication of real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that addition and multiplication of real numbers is well defined.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given two real numbers, find the sum or product of the numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove the field axioms of real numbers.
         </p>
       </li>
     </ul>

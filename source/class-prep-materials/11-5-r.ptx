@@ -10,17 +10,37 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the Completeness Axiom.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Prove that our construction of the real numbers as equivalence classes of Cauchy sequences of rational numbers satisfies the Completeness Axiom.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Have a good intuitive understanding of what it means for <m>\displaystyle \lim_{x \rightarrow c} f(x) = L</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Connect your intuitive understanding of limit to the formal definition of <em>limit</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Guess the limit of a given function.
+        </p>
+      </li>
+      <li>
+        <p>
+          Verify the guess of the limit of a function using the definition of limit.
+        </p>
+      </li>
+      <li>
+        <p>
+          State precisely what it means for a limit not to exist.
         </p>
       </li>
     </ul>

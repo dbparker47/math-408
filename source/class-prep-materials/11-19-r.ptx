@@ -10,17 +10,22 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the statement of the <em>Extreme Value Theorem</em>. 
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain the maximum and minimum values of the range of a function in terms of the infimum and supremum of the range. 
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Explain how infima and/or suprema are used to prove the Extreme Value Theorem, and thus how this theorem is firmly connected to the Completeness Axiom.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the Extreme Value Theorem to prove theorems about continuous functions.
         </p>
       </li>
     </ul>

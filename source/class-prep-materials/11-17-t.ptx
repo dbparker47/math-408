@@ -10,17 +10,32 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the definition of a <em>uniformly continuous function</em>.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Be aware that the definition of a uniformly continuous function can be understood as treating the <q>c</q> in the definition of continuous functions as a variable.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Be aware that because the <q>c</q> is treated as a variable, uniform continuity is a property of a function on an interval, not at a point.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the definition of a uniformly continuous function to prove a given function is uniformly continuous on a given interval.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the definition of a uniformly continuous function to prove that a given function is not uniformly continuous on a given interval.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain why any continuous function is always uniformly continuous on a closed interval.
         </p>
       </li>
     </ul>

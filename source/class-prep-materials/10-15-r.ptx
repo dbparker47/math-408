@@ -54,7 +54,7 @@
   <subsection xml:id="video-activity-lim-inf-sup">
     <title>Video &amp; Activities for Limit Inferior &amp; Limit Superior</title>
     <p>
-      Below are links to a video on <em>limit inferior &amp; limit superior</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>limit inferior &amp; limit superior</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
@@ -108,8 +108,7 @@
               If <m>\{ x_n \}</m> converges, prove it converges to <m>\displaystyle \lim_{n \rightarrow \infty} \sup x_n</m>.
             </p>
           </li>
-
-  <li>
+          <li>
             <p>
               If <m>\{ x_n \}</m> converges, what can you say about <m>\displaystyle \lim_{n \rightarrow \infty} \inf x_n</m> and <m>\displaystyle \lim_{n \rightarrow \infty} \sup x_n</m>?
             </p>
@@ -125,7 +124,7 @@
   <subsection xml:id="video-activity-rep-real">
     <title>Video &amp; Activities for Representing Real Numbers with Cauchy Sequences</title>
     <p>
-      Below are links to a video on <em>representing real numbers with Cauchy sequences</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video on <em>representing real numbers with Cauchy sequences</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />

@@ -10,17 +10,52 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the definition of addition and multiplication of real numbers, where the real numbers are equivalence classes of Cauchy sequences.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain potential ambiguities in the definitions of addition and multiplication of real numbers.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Prove that addition and multiplication of real numbers is well defined.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given two real numbers, find the sum or product of the numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove the field axioms of real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain the definition of the relation <m>&lt;</m> on the set of real numbers, where the real numbers are equivalence classes of Cauchy sequences of rational numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain potential ambiguities in the definitions of the relation <m>&lt;</m> on the set of real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove that the relation <m>&lt;</m> is well defined on the set of real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Given two real numbers $a$ and $b$, determine whether <m>a &lt; b</m>, <m>b &lt; a</m>, or <m>a=b</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Prove the ordered field axioms of real numbers.
         </p>
       </li>
     </ul>
