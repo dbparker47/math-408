@@ -10,17 +10,27 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Given a set <m>S</m> of real numbers, explain both what it means for a real number to be an <em>upper bound</em> of <m>S</m> and what it means for a real number <em>not to be an upper bound</em> of <m>S</m>. 
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Given a set <m>S</m> of real numbers, explain both what it means to be a <em>lower bound</em> of <m>S</m> and <em>not a lower bound</em> of <m>S</m>.  
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Prove theorems involving upper and lower bounds.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain the definitions of <em>supremum</em> and <em>infimum</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Be aware of the dual nature of suprema and infima.  In other words, understand the supremum as being an upper bound of a set and that every smaller number is not an upper bound.  Similarly, understand the infimum as being a lower bound of a set and that every larger number is not a lower bound of the set.
         </p>
       </li>
     </ul>

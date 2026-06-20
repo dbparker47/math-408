@@ -27,42 +27,79 @@
   </objectives>
 
   <subsection xml:id="video-activity-ivt">
-    <title>Video &amp; Activities for Number Systems</title>
+    <title>Video &amp; Activities for Intermediate Value Theorem</title>
     <p>
-      Below are links to a video on <em>number systems</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are links to a video on the <em>Intermediate Value Theorem</em>, which is available both on Google Drive and YouTube. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Irrational Numbers</title>
+      <title>Intermediate Value Theorem</title>
       <p>
         <ol>
           <li>
             <p>
-              Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
-              <ol>
-                <li>
-                  <p>
-                    Using our model of real numbers being displacements, show that all of the above numbers are real numbers.  Hint:  <m>\sqrt{2}</m> has already been established as a displacement.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Prove that each of the above numbers is an irrational number.
-                  </p>
-                </li>
-              </ol>
+              Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>c \in \mathbb{R}</m> with <m>f(a) &lt; c &lt; f(b)</m>.
+            <ol>
+              <li>
+                <p>
+                  Draw a picture of this situation, along with some possible graphs for <m>f</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Let <m>t</m> be the first value of <m>x</m> where <m>f(x)=c</m> and <m>s</m> be the last value of <m>x</m> where <m>f(x)=c</m>.  What is true about <m>f</m> on <m>[a,t)</m>?  What about on <m>(s,b]</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Define <m>S = \{ x \in [a,b] : f(x) \leq c \}</m> and <m>T = \{ x \in [a,b] : f(x) \geq c \}</m>. What is <m>\sup(S)</m> in your pictures?  What is <m>\inf(T)</m> in your pictures?
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
           <li>
             <p>
-              Prove that if <m>n \in \mathbb{N}</m>, then <m>\sqrt{n}</m> is a displacement.  Hint: Induction.
-            </p>
-          </li>
-          <li>
-            <p>
-              (Not on quiz) Prove that <m>\log_2(5)</m> is irrational.  You can assume it is a real number.  Hint: Think exponentially.
+              Let <m>f</m>, <m>S</m>, and <m>T</m> be as above.  Define <m>s = \sup(S)</m>, and <m>t= \inf(T)</m>.
+            <ol>
+              <li>
+                <p>
+                  Prove that <m>S</m> and <m>T</m> are bounded.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Prove that there are sequences <m>\{ s_n \}</m> and <m>\{ t_n \}</m> with each <m>s_n \in S</m> and each <m>t_n \in T</m> such that <m>s_n \rightarrow s</m> and <m>t_n \rightarrow t</m>.
+                </p>
+              </li>
+              <li>
+                <p>
+                  To what do <m>\{ f(s_n) \}</m> and <m>\{ f(t_n) \}</m> converge?
+                </p>
+              </li>
+              <li>
+                <p>
+                  What is the largest possible value of <m>f(s)</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  What is the smallest possible value of <m>f(t)</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  What is true about all elements of <m>(s,b]</m>?  What about <m>[a,t)</m>?
+                </p>
+              </li>
+              <li>
+                <p>
+                  Use what you found above to determine <m>f(s)</m> and <m>f(t)</m>.
+                </p>
+              </li>
+            </ol>
             </p>
           </li>
         </ol>

@@ -10,17 +10,17 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the definition of a <em>real-valued function</em>. 
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain definitions related to real-valued functions, such as <em>increasing functions</em>, <em>decreasing functions</em>, <em>monotone functions</em>, <em>bounded above functions</em>, <em>bounded below functions</em>, <em>maximum and minimum values of functions</em>, <em>relative maxima</em>, <em>relative minima</em>, and <em>relative extrema</em>.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Prove theorems that involve real-valued functions.
         </p>
       </li>
     </ul>

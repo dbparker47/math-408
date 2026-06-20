@@ -10,17 +10,17 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the fundamental properties of the real numbers, including the <em>field</em> and <em>order</em> properties.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Use the properties of real numbers to prove theorems about real numbers.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Use some of the tricks we use to prove inequalities, including using the fact that a square of a real number is always nonnegative and <m>x &lt; y</m> if and only if <m>y-x &gt; 0</m>.
         </p>
       </li>
     </ul>

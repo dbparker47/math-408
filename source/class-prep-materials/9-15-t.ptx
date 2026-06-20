@@ -10,17 +10,37 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          Explain the statement of the <em>completeness axiom</em>.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain the axiomatic definition of the real numbers.
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Recognize that the axiomatic definition of the real numbers does not automatically imply that a set of real numbers exists, nor does it automatically imply that there is a unique set of real numbers satisfying the definition.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the completeness axiom to construct real numbers.  For example, <m>\sqrt{2}</m> can be shown to be the supremum of <m>\{ x \in \mathbb{Q} : x^2 &lt; 2\}</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the completeness axiom to prove theorems about real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain the link between the completeness axiom and the <em>Archimedean Property</em> of real numbers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the Archimedean Property to prove theorems about real numbers.
         </p>
       </li>
     </ul>

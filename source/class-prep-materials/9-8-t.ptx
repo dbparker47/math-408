@@ -10,17 +10,27 @@
     <ul>
       <li>
         <p>
-          Explain the definition of a <em>rational number</em>.
+          State the definition of the <em>absolute value function</em>.
         </p>
       </li>
       <li>
         <p>
-          Prove that a given number is irrational.
+          Explain the role the absolute value function plays in defining distance between two real numbers.  
         </p>
       </li>
       <li>
         <p>
-          Intuitively interpret a real number as a <em>displacement</em> or a point on the number line.
+          Use properties of the absolute value function, including the <em>triangle inequality</em> and the fact that <m>|x| &lt; M</m> if and only if <m>-M &lt; x &lt; M</m> to prove theorems involving absolute value.  
+        </p>
+      </li>
+      <li>
+        <p>
+          Connect the formal definition of <em>intervals</em> with your informal understanding of what an interval is.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the formal definition of intervals to prove theorems about intervals, including proving that a given set of real numbers is an interval. 
         </p>
       </li>
     </ul>
