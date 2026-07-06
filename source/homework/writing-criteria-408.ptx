@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="writing-criteria" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Writing Criteria - Math 408</title>
+  <p>
+    For all assignments, your grade will be based on both your mathematical reasoning and the quality of your writing.  The writing criteria for your assignments are the following.
+  </p>
+  <p>
+    <ul>
+      <li>
+        <p>
+          Theorem is written properly.
+          <ul>
+            <li>
+              <p>
+                All relevant information is clearly stated (assumptions and other context).
+              </p>
+            </li>
+            <li>
+              <p>
+                Write your theorem as a precise mathematical statement (e.g. not in the form of a problem or command).
+              </p>
+            </li>
+            <li>
+              <p>
+                Make sure your theorem matches what was asked for in the problem.
+              </p>
+            </li>
+            <li>
+              <p>
+                Make sure your theorem describes the conclusion to the solution to your problem.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Thoroughly explain your reasoning.
+        </p>
+      </li>
+      <li>
+        <p>
+          Make sure all assertions are justified rigorously and clearly.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain things so that a typical student in our class can understand what you are saying (e.g. don't use terminology a student in the class would not be familiar with).
+        </p>
+      </li>
+      <li>
+        <p>
+          Make sure your proof is written for a \emph{skeptical} audience.  One of your jobs is to assure your reader that you have countered every possible counterargument to your theorem.
+        </p>
+      </li>
+      <li>
+        <p>
+          On conditional statements, state clearly what is being assumed and what needs to be shown.
+        </p>
+      </li>
+      <li>
+        <p>
+          Let your reader know when the proof is finished.
+        </p>
+      </li>
+      <li>
+        <p>
+          Any definitions and theorems that you use in your theorem should be explicitly referenced.
+        </p>
+      </li>
+      <li>
+        <p>
+          There should be explanation before your computations.  However, if you have many computations that all go together, you do not need to explain each one individually.
+        </p>
+      </li>
+      <li>
+        <p>
+          When you are using a special method of proof (e.g. contrapositive, contradiction, induction, etc), let your reader know.
+        </p>
+      </li>
+      <li>
+        <p>
+          When using proof by contrapositive, make sure you state the contrapositive, what you are assuming, and what you must show.
+        </p>
+      </li>
+      <li>
+        <p>
+          When using proof by contradiction, make sure you state your contradiction assumption, and clearly alert your reader when you have reached a contradiction.  Justify that your contradiction is false, if necessary.
+        </p>
+      </li>
+      <li>
+        <p>
+          When using proof by cases, state what your cases are.  Also, indicate why your cases cover all possibilities.
+        </p>
+      </li>
+      <li>
+        <p>
+          When using proof by induction, make sure you clearly state the basis step and what you are assuming and showing in the inductive step.  Also, be explicit about when and how you use the induction hypothesis.
+        </p>
+      </li>
+    </ul>
+  </p>
+</section>
