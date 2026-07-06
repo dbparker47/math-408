@@ -55,13 +55,418 @@ var ptx_lunr_docs = [
   "body": " Exams     "
 },
 {
-  "id": "homework",
+  "id": "writing-criteria",
   "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
+  "url": "writing-criteria.html",
+  "type": "Section",
   "number": "",
-  "title": "Homework Assignments",
-  "body": " Homework Assignments  "
+  "title": "Writing Criteria - Math 408",
+  "body": " Writing Criteria - Math 408  For all assignments, your grade will be based on both your mathematical reasoning and the quality of your writing. The writing criteria for your assignments are the following.     Theorem is written properly.   All relevant information is clearly stated (assumptions and other context).    Write your theorem as a precise mathematical statement (e.g. not in the form of a problem or command).    Make sure your theorem matches what was asked for in the problem.    Make sure your theorem describes the conclusion to the solution to your problem.       Thoroughly explain your reasoning.    Make sure all assertions are justified rigorously and clearly.    Explain things so that a typical student in our class can understand what you are saying (e.g. don't use terminology a student in the class would not be familiar with).    Make sure your proof is written for a skeptical audience. One of your jobs is to assure your reader that you have countered every possible counterargument to your theorem.    On conditional statements, state clearly what is being assumed and what needs to be shown.    Let your reader know when the proof is finished.    Any definitions and theorems that you use in your theorem should be explicitly referenced.    There should be explanation before your computations. However, if you have many computations that all go together, you do not need to explain each one individually.    When you are using a special method of proof (e.g. contrapositive, contradiction, induction, etc), let your reader know.    When using proof by contrapositive, make sure you state the contrapositive, what you are assuming, and what you must show.    When using proof by contradiction, make sure you state your contradiction assumption, and clearly alert your reader when you have reached a contradiction. Justify that your contradiction is false, if necessary.    When using proof by cases, state what your cases are. Also, indicate why your cases cover all possibilities.    When using proof by induction, make sure you clearly state the basis step and what you are assuming and showing in the inductive step. Also, be explicit about when and how you use the induction hypothesis.     "
+},
+{
+  "id": "homework-3",
+  "level": "1",
+  "url": "homework-3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #1 - Math 408",
+  "body": " Homework Assignment #1 - Math 408    Due Sunday, 9\/13   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.      ( pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .         Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-3-4",
+  "level": "2",
+  "url": "homework-3.html#homework-3-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.   "
+},
+{
+  "id": "homework-3-5",
+  "level": "2",
+  "url": "homework-3.html#homework-3-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .      "
+},
+{
+  "id": "homework-3-6",
+  "level": "2",
+  "url": "homework-3.html#homework-3-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-4",
+  "level": "1",
+  "url": "homework-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #2 - Math 408",
+  "body": " Homework Assignment #2 - Math 408    Due Sunday, 9\/20   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be a real number, and assume that . Prove that .      ( pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-4-4",
+  "level": "2",
+  "url": "homework-4.html#homework-4-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Let be a real number, and assume that . Prove that .   "
+},
+{
+  "id": "homework-4-5",
+  "level": "2",
+  "url": "homework-4.html#homework-4-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.   "
+},
+{
+  "id": "homework-4-6",
+  "level": "2",
+  "url": "homework-4.html#homework-4-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-5",
+  "level": "1",
+  "url": "homework-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #3 - Math 408",
+  "body": " Homework Assignment #3 - Math 408    Due Sunday, 9\/27   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.      ( pts.) Suppose that is a monotone function. Prove that is bounded.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-5-4",
+  "level": "2",
+  "url": "homework-5.html#homework-5-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.   "
+},
+{
+  "id": "homework-5-5",
+  "level": "2",
+  "url": "homework-5.html#homework-5-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Suppose that is a monotone function. Prove that is bounded.   "
+},
+{
+  "id": "homework-5-6",
+  "level": "2",
+  "url": "homework-5.html#homework-5-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-6",
+  "level": "1",
+  "url": "homework-6.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #4 - Math 408",
+  "body": " Homework Assignment #4 - Math 408    Due Sunday, 10\/11   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.      ( pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-6-4",
+  "level": "2",
+  "url": "homework-6.html#homework-6-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.   "
+},
+{
+  "id": "homework-6-5",
+  "level": "2",
+  "url": "homework-6.html#homework-6-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.   "
+},
+{
+  "id": "homework-6-6",
+  "level": "2",
+  "url": "homework-6.html#homework-6-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-7",
+  "level": "1",
+  "url": "homework-7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #5 - Math 408",
+  "body": " Homework Assignment #5 - Math 408    Due Sunday, 10\/18   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .      ( pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-7-4",
+  "level": "2",
+  "url": "homework-7.html#homework-7-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .   "
+},
+{
+  "id": "homework-7-5",
+  "level": "2",
+  "url": "homework-7.html#homework-7-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.   "
+},
+{
+  "id": "homework-7-6",
+  "level": "2",
+  "url": "homework-7.html#homework-7-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-8",
+  "level": "1",
+  "url": "homework-8.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #6 - Math 408",
+  "body": " Homework Assignment #6 - Math 408    Due Sunday, 10\/25   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers. The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom). In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers. Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.   Well-Ordering Principle : Every nonempty bounded below set of integers has a minimum element.  For the entire assignment, assume that is a bounded increasing sequence.    ( pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.         ( pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .         ( pts.) Prove that is a Cauchy sequence.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-8-4",
+  "level": "2",
+  "url": "homework-8.html#homework-8-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Well-Ordering Principle "
+},
+{
+  "id": "homework-8-6",
+  "level": "2",
+  "url": "homework-8.html#homework-8-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.      "
+},
+{
+  "id": "homework-8-7",
+  "level": "2",
+  "url": "homework-8.html#homework-8-7",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .      "
+},
+{
+  "id": "homework-8-8",
+  "level": "2",
+  "url": "homework-8.html#homework-8-8",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  ( pts.) Prove that is a Cauchy sequence.   "
+},
+{
+  "id": "homework-8-9",
+  "level": "2",
+  "url": "homework-8.html#homework-8-9",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-9",
+  "level": "1",
+  "url": "homework-9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #7 - Math 408",
+  "body": " Homework Assignment #7 - Math 408    Due Sunday, 11\/8   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the field axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is a field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. However, you may use the fact that a convergent sequence is Cauchy. Also, any time you are proving a there exists theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy. Here are the properties you are proving for .    ( pts.) Commutative Property of Addition: For all , we have .      ( pts.) Commutative Property of Multiplication: For all , we have .      ( pts.) Associative Property of Addition: For all , we have .      ( pts.) Associative Property of Multiplication: For all , we have .      ( pts.) Additive Identity: There exists such that for all , we have .      ( pts.) Multiplicative Identity: There exists such that for all , we have .      ( pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .      ( pts.) Distributive Property: For every , we have .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-9-4",
+  "level": "2",
+  "url": "homework-9.html#homework-9-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Commutative Property of Addition: For all , we have .   "
+},
+{
+  "id": "homework-9-5",
+  "level": "2",
+  "url": "homework-9.html#homework-9-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Commutative Property of Multiplication: For all , we have .   "
+},
+{
+  "id": "homework-9-6",
+  "level": "2",
+  "url": "homework-9.html#homework-9-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  ( pts.) Associative Property of Addition: For all , we have .   "
+},
+{
+  "id": "homework-9-7",
+  "level": "2",
+  "url": "homework-9.html#homework-9-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  ( pts.) Associative Property of Multiplication: For all , we have .   "
+},
+{
+  "id": "homework-9-8",
+  "level": "2",
+  "url": "homework-9.html#homework-9-8",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  ( pts.) Additive Identity: There exists such that for all , we have .   "
+},
+{
+  "id": "homework-9-9",
+  "level": "2",
+  "url": "homework-9.html#homework-9-9",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  ( pts.) Multiplicative Identity: There exists such that for all , we have .   "
+},
+{
+  "id": "homework-9-10",
+  "level": "2",
+  "url": "homework-9.html#homework-9-10",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  ( pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .   "
+},
+{
+  "id": "homework-9-11",
+  "level": "2",
+  "url": "homework-9.html#homework-9-11",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "  ( pts.) Distributive Property: For every , we have .   "
+},
+{
+  "id": "homework-9-12",
+  "level": "2",
+  "url": "homework-9.html#homework-9-12",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-10",
+  "level": "1",
+  "url": "homework-10.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #8 - Math 408",
+  "body": " Homework Assignment #8 - Math 408    Due Sunday, 11\/15   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the order axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is an ordered field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.    Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .    Here are the properties you are proving for .    ( pts.) Transitive Property: For all , if and , then .      ( pts.) Translation Invariance: For all , if , then .      ( pts.) Scaling: For all , if and , then .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "thm-old-hw",
+  "level": "2",
+  "url": "homework-10.html#thm-old-hw",
+  "type": "Theorem",
+  "number": "1",
+  "title": "",
+  "body": "  Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .   "
+},
+{
+  "id": "homework-10-6",
+  "level": "2",
+  "url": "homework-10.html#homework-10-6",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Transitive Property: For all , if and , then .   "
+},
+{
+  "id": "homework-10-7",
+  "level": "2",
+  "url": "homework-10.html#homework-10-7",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  ( pts.) Translation Invariance: For all , if , then .   "
+},
+{
+  "id": "homework-10-8",
+  "level": "2",
+  "url": "homework-10.html#homework-10-8",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  ( pts.) Scaling: For all , if and , then .   "
+},
+{
+  "id": "homework-10-9",
+  "level": "2",
+  "url": "homework-10.html#homework-10-9",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+},
+{
+  "id": "homework-11",
+  "level": "1",
+  "url": "homework-11.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Homework Assignment #9 - Math 408",
+  "body": " Homework Assignment #9 - Math 408    Due Sunday, 11\/22   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+},
+{
+  "id": "homework-11-4",
+  "level": "2",
+  "url": "homework-11.html#homework-11-4",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  ( pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .   "
+},
+{
+  "id": "homework-11-5",
+  "level": "2",
+  "url": "homework-11.html#homework-11-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "portfolio",
@@ -95,7 +500,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-1.html#video-activity-number-system-4",
   "type": "In-Class Activities",
-  "number": "1",
+  "number": "2",
   "title": "Irrational Numbers.",
   "body": " Irrational Numbers     Consider , , , and .   Using our model of real numbers being displacements, show that all of the above numbers are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.       Prove that if , then is a displacement. Hint: Induction.    (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.     "
 },
@@ -122,7 +527,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-3.html#video-activity-ordered-fields-4",
   "type": "In-Class Activities",
-  "number": "2",
+  "number": "3",
   "title": "Ordered Fields.",
   "body": " Ordered Fields  Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .    Prove that .    Prove that if and only if .    Prove that if and only if .    If and , prove that .    (Not on quiz) Prove that .    (Not on quiz) If and , prove that .     "
 },
@@ -131,7 +536,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-3.html#video-activity-inequalities-4",
   "type": "In-Class Activities",
-  "number": "3",
+  "number": "4",
   "title": "Inequalities.",
   "body": " Inequalities  Prove the following inequalities.     For all real numbers , .    Let , , , and be real numbers. Which of and is greater than or equal to the other? Hint: Subtract.     "
 },
@@ -158,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-8.html#video-activity-abs-value-4",
   "type": "In-Class Activities",
-  "number": "4",
+  "number": "5",
   "title": "Absolute Value.",
   "body": " Absolute Value     Prove the following.                   if and only if .       Suppose that and that for all . What can be? Prove it.    Under what circumstances is ? What is in the other cases?     "
 },
@@ -167,7 +572,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-8.html#video-activity-intervals-4",
   "type": "In-Class Activities",
-  "number": "5",
+  "number": "6",
   "title": "Intervals.",
   "body": " Intervals     Determine whether or not each of the following is an interval. Prove it.    and .     or        Let and be intervals.   Find and such that is not an interval.    If has at least two elements, prove that is an interval.        "
 },
@@ -194,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-10.html#video-activity-bounds-4",
   "type": "In-Class Activities",
-  "number": "6",
+  "number": "7",
   "title": "Upper &amp; Lower Bounds.",
   "body": " Upper & Lower Bounds     Consider the set .   Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?       Suppose that a set .   Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.        "
 },
@@ -203,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-10.html#video-activity-inf-sup-4",
   "type": "In-Class Activities",
-  "number": "7",
+  "number": "8",
   "title": "Infima &amp; Suprema.",
   "body": " Infima & Suprema     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .         for some        Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and .     "
 },
@@ -230,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-15.html#video-activity-completeness-4",
   "type": "In-Class Activities",
-  "number": "8",
+  "number": "9",
   "title": "Completeness Axiom.",
   "body": " Completeness Axiom     Let . Prove that there exists an integer such that . Hint: Let . Can ?    Let be a set of real numbers that is bounded below.   Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.       If with , let . Use the completeness axiom to prove that there is some such that . Hint: If for all , what does that say about the set defined above?     "
 },
@@ -239,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-15.html#video-activity-archimedean-4",
   "type": "In-Class Activities",
-  "number": "9",
+  "number": "10",
   "title": "Archimedean Property.",
   "body": " Archimedean Property      is neither bounded above nor bounded below. In other words, for each real number , there is an integer that is greater than and another integer that is smaller than .    Let . Then there exists such that .    Let with , and . Prove there is an integer such that .     "
 },
@@ -266,7 +671,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-17.html#video-activity-increasing-decreasing--4",
   "type": "In-Class Activities",
-  "number": "10",
+  "number": "11",
   "title": "Increasing &amp; Decreasing Functions.",
   "body": " Increasing & Decreasing Functions     Define by . Prove that is decreasing.    Define by . Prove that is increasing. Hint: When you compare and , you will want to consider what the signs of and are.    For a real-valued function, prove the following.    is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.        "
 },
@@ -275,7 +680,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-17.html#video-activity-increasing-bounded-4",
   "type": "In-Class Activities",
-  "number": "11",
+  "number": "12",
   "title": "Bounded Functions.",
   "body": " Bounded Functions     Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.    , .     , . Hint: Complete the square.     , .       Let be a function, and let be the range of . Prove that has a maximum value if and only if sup . What is the maximum value of in this case?     "
 },
@@ -302,7 +707,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-22.html#video-activity-cardinality-4",
   "type": "In-Class Activities",
-  "number": "12",
+  "number": "13",
   "title": "Cardinality.",
   "body": " Cardinality     Which of the following is countable? Prove your answer.        Set of odd integers            Determine whether or not the following have the same cardinality, and prove your answer.    and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.       (Not on quiz) Prove that and have the same cardinality. Hint: Define your function piecewise. Define separate formulas for for , , , and . Then there is one more value of that I might have forgotten.     "
 },
@@ -311,7 +716,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-22.html#video-activity-cardinality-reals-4",
   "type": "In-Class Activities",
-  "number": "13",
+  "number": "14",
   "title": "Cardinality of the Real Numbers.",
   "body": " Cardinality of the Real Numbers  The following is an outline of the proof that the interval is uncountable. Fill in the details of the proof.     Consider the interval .   Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .       Suppose , , etc. In general for all .   Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?       Assume that is onto. Let .   Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.        "
 },
@@ -338,7 +743,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-24.html#video-activity-uncountable-reals-4",
   "type": "In-Class Activities",
-  "number": "14",
+  "number": "15",
   "title": "Uncountability of the Real Numbers.",
   "body": " Uncountability of the Real Numbers  The following is an outline of the proof that the interval is uncountable. Fill in the details of the proof.     Consider the interval .   Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .       Suppose , , etc. In general for all .   Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?       Assume that is onto. Let .   Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.        "
 },
@@ -365,7 +770,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-29.html#video-activity-intro-sequences-4",
   "type": "In-Class Activities",
-  "number": "15",
+  "number": "16",
   "title": "Introduction to Sequences.",
   "body": " Introduction to Sequences     Determine what the following converge to, if anything. Prove your result.                Suppose that is a bounded increasing sequence. Must the sequence converge? If so, to what? What about bounded decreasing sequences?    Define the sequence by , and for all .   Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?        "
 },
@@ -374,7 +779,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-9-29.html#video-activity-general-sequence-4",
   "type": "In-Class Activities",
-  "number": "16",
+  "number": "17",
   "title": "General Sequence Theorems.",
   "body": " General Sequence Theorems  Assume converges to and converges to . Determine what the following converge to and prove your result.           , where .          , where each and .     , where each and . Hint: Don't use the definition. Use #3 and #4 above.     "
 },
@@ -401,7 +806,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-6.html#video-activity-squeeze-4",
   "type": "In-Class Activities",
-  "number": "17",
+  "number": "18",
   "title": "Squeeze Theorem.",
   "body": " Squeeze Theorem  Use the Squeeze Theorem to prove the following.     Prove that the sequence converges to zero. Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.    Let be a set of real numbers that is bounded above.   Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .       Let be a set of real numbers that is bounded below and has infimum . Prove that there is a sequence in that converges to .     "
 },
@@ -410,7 +815,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-6.html#video-activity-subsequences-4",
   "type": "In-Class Activities",
-  "number": "18",
+  "number": "19",
   "title": "Subsequences.",
   "body": " Subsequences  For a sequence , let , , and .     Find all possible limits of subsequences for the following. This may include or .                     If for all , what kind of sequence is ?    If for all , what kind of sequence is ?    If for all , describe how to construct a decreasing subsequence of . Hint: Start with , and convince yourself that is not a lower bound for . Keep going.    If for all , describe how to construct an increasing subsequence of .     "
 },
@@ -437,7 +842,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-8.html#video-activity-intro-cauchy-4",
   "type": "In-Class Activities",
-  "number": "19",
+  "number": "20",
   "title": "Introduction to Cauchy Sequences.",
   "body": " Introduction to Cauchy Sequences     Prove that is a Cauchy sequence using the definition.    Suppose that and are Cauchy sequences. Prove that is a Cauchy sequence.    Suppose that converges to the limit . Prove that is a Cauchy sequence.    Suppose that is a Cauchy sequence. Prove that is bounded. Hint: When you apply the definition of Cauchy sequence to an of your choice and set up , fix and see where must lie.     "
 },
@@ -446,7 +851,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-8.html#video-activity-cauchy-converges-4",
   "type": "In-Class Activities",
-  "number": "20",
+  "number": "21",
   "title": "Convergence of Cauchy Sequences.",
   "body": " Convergence of Cauchy Sequences  The following are some problems leading to the result that being convergent and being Cauchy are equivalent.     Let with .   If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.       Let be a bounded sequence, let . Define inf and sup .   Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.       Let be a Cauchy sequence, and let and be as in #2. Let .   Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.        "
 },
@@ -473,7 +878,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-13.html#video-activity-cauchy-converges-2-4",
   "type": "In-Class Activities",
-  "number": "21",
+  "number": "22",
   "title": "Convergence of Cauchy Sequences.",
   "body": " Convergence of Cauchy Sequences  The following are some problems leading to the result that being convergent and being Cauchy are equivalent.     Let with .   If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.       Let be a bounded sequence, let . Define inf and sup .   Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.       Let be a Cauchy sequence, and let and be as in #2. Let .   Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.        "
 },
@@ -500,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-15.html#video-activity-lim-inf-sup-4",
   "type": "In-Class Activities",
-  "number": "22",
+  "number": "23",
   "title": "Limit Inferior &amp; Limit Superior.",
   "body": " Limit Inferior & Limit Superior  For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                     Prove that for each , .    Use the Squeeze Theorem to prove that if , then converges. To what number does converge?    If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.    If converges, prove it converges to .    If converges, what can you say about and ?     "
 },
@@ -509,7 +914,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-15.html#video-activity-rep-real-4",
   "type": "In-Class Activities",
-  "number": "23",
+  "number": "24",
   "title": "Representing Real Numbers.",
   "body": " Representing Real Numbers     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.    If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .    For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .    For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .    Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).     "
 },
@@ -536,7 +941,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-20.html#video-activity-equiv-cauchy-4",
   "type": "In-Class Activities",
-  "number": "24",
+  "number": "25",
   "title": "Equivalent Cauchy Sequences.",
   "body": " Equivalent Cauchy Sequences  Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . define precisely when the sequence converges to .     Consider the sequences and .   Give an intuitive reason why .    Prove that .       Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.    Prove that is an equivalence relation.    Describe the equivalence class represented by the sequence . In other words, describe . Prove your conjecture.    Based on your experience in #4, what do you think the equivalence classes of represent?     "
 },
@@ -545,7 +950,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-20.html#video-activity-equiv-arithmetic-4",
   "type": "In-Class Activities",
-  "number": "25",
+  "number": "26",
   "title": "Real Number Arithmetic.",
   "body": " Real Number Arithmetic  Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.    Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.    Suppose that and are Cauchy sequences such that and .   What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).       Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.    (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.    (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.     "
 },
@@ -572,7 +977,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-22.html#video-activity-equiv-arithmetic-2-4",
   "type": "In-Class Activities",
-  "number": "26",
+  "number": "27",
   "title": "Real Number Arithmetic.",
   "body": " Real Number Arithmetic  Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.    Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.    Suppose that and are Cauchy sequences such that and .   What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).       Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.    (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.    (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.     "
 },
@@ -581,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-10-22.html#video-activity-arithmetic-order-4",
   "type": "In-Class Activities",
-  "number": "27",
+  "number": "28",
   "title": "Order Relation on Real Numbers.",
   "body": " Order Relation on Real Numbers  Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Consider the real numbers and . Determine whether , , or . Then prove it.    (Not on quiz) Explain what you must assume and what you must prove in order for to be well defined. Then try proving that is well defined.    (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for . You may use the fact that is an ordered field.     "
 },
@@ -608,7 +1013,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-3.html#video-activity-construct-completeness-4",
   "type": "In-Class Activities",
-  "number": "28",
+  "number": "29",
   "title": "Completeness Axiom.",
   "body": " Completeness Axiom  Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .   Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.       Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.   Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.        "
 },
@@ -635,7 +1040,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-5.html#video-activity-construct-completeness-2-4",
   "type": "In-Class Activities",
-  "number": "29",
+  "number": "30",
   "title": "Completeness Axiom.",
   "body": " Completeness Axiom  Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .   Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.       Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.   Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.        "
 },
@@ -644,7 +1049,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-5.html#video-activity-intro-limits-4",
   "type": "In-Class Activities",
-  "number": "30",
+  "number": "31",
   "title": "Introduction to Limits.",
   "body": " Introduction to Limits     For each of the following, guess , and for , determine inequalities involving for which .    , .     ,      arbitrary,      ,        Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .    Let and assume .   If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?       State precisely what it means for not to exist.     "
 },
@@ -671,7 +1076,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-10.html#video-activity-intro-limits-2-4",
   "type": "In-Class Activities",
-  "number": "31",
+  "number": "32",
   "title": "Introduction to Limits.",
   "body": " Introduction to Limits     For each of the following, guess , and for , determine inequalities involving for which .    , .     ,      arbitrary,      ,        Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .    Let and assume .   If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?       State precisely what it means for not to exist.     "
 },
@@ -680,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-10.html#video-activity-sequence-limits-4",
   "type": "In-Class Activities",
-  "number": "32",
+  "number": "33",
   "title": "Sequences for Determining Limits.",
   "body": " Sequences for Determining Limits  Use our result on using sequences to determine limits to solve the following.     Suppose and . Determine the following and prove your guess.                          Let Prove that does not exist without using the definition. Hint: Look at sequences approaching 1 from the left and from the right.    Let , , and be functions defined on an open interval , and let . Suppose also that , , and for all . Prove that .     "
 },
@@ -707,7 +1112,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-12.html#video-activity-continuous-4",
   "type": "In-Class Activities",
-  "number": "33",
+  "number": "34",
   "title": "Continuous Functions.",
   "body": " Continuous Functions  Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.            Assume that exists. Prove that is continuous at .    Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .        "
 },
@@ -734,7 +1139,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-17.html#video-activity-uniform-cont-4",
   "type": "In-Class Activities",
-  "number": "34",
+  "number": "35",
   "title": "Uniform Continuity.",
   "body": " Uniform Continuity  Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.    We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?       (Not on quiz) Let be given by . Prove that is uniformly continuous on .    (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .     "
 },
@@ -761,7 +1166,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-19.html#video-activity-evt-4",
   "type": "In-Class Activities",
-  "number": "35",
+  "number": "36",
   "title": "Extreme Value Theorem.",
   "body": " Extreme Value Theorem  Let be a continous function.     Let be a bounded set of real numbers, with and .   Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .       Assume that is unbounded from above.   Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?       Let be a continuous function, and let be the range of .   Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .        "
 },
@@ -788,7 +1193,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-24.html#video-activity-ivt-4",
   "type": "In-Class Activities",
-  "number": "36",
+  "number": "37",
   "title": "Intermediate Value Theorem.",
   "body": " Intermediate Value Theorem     Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?       Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .        "
 },
@@ -815,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-12-1.html#video-activity-ivt-2-4",
   "type": "In-Class Activities",
-  "number": "37",
+  "number": "38",
   "title": "Intermediate Value Theorem.",
   "body": " Intermediate Value Theorem     Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?       Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .        "
 },
@@ -824,7 +1229,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-12-1.html#video-activity-differentiation-4",
   "type": "In-Class Activities",
-  "number": "38",
+  "number": "39",
   "title": "Derivative.",
   "body": " Derivative  This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.     Compute from the limit definition.    ,      ,        Suppose that exists. Prove that is continuous at . Hint: Prove that .    Suppose we know and . Find , where    , a constant.                 Let . Suppose you know and .   What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .       Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.     "
 },
@@ -871,7 +1276,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Ordered Fields",
-  "body": " Ordered Fields    Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .      Prove that .      Prove that if and only if .      Prove that if and only if .      If and , prove that .      (Not on quiz) Prove that .      (Not on quiz) If and , prove that .    "
+  "body": " Ordered Fields    Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .      Prove that .      Prove that if and only if .      Prove that if and only if .      If and , prove that .      (Not on quiz) Prove that .      (Not on quiz) If and , prove that .      (Not on quiz) If and , prove that .    "
 },
 {
   "id": "ordered-fields-3",
@@ -937,6 +1342,15 @@ var ptx_lunr_docs = [
   "body": "  (Not on quiz) If and , prove that .   "
 },
 {
+  "id": "ordered-fields-10",
+  "level": "2",
+  "url": "ordered-fields.html#ordered-fields-10",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "  (Not on quiz) If and , prove that .   "
+},
+{
   "id": "inequalities",
   "level": "1",
   "url": "inequalities.html",
@@ -970,7 +1384,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Absolute Value",
-  "body": " Absolute Value    Solve the following absolute value problems.     Prove the following.                    if and only if .        Suppose that and that for all . What can be? Prove it.      Under what circumstances is ? What is in the other cases?    "
+  "body": " Absolute Value    Solve the following absolute value problems.     Prove the following.                    if and only if .        Suppose that and that for all . What can be? Prove it.      Under what circumstances is ? What is (in terms of and ) in the other cases?    "
 },
 {
   "id": "absolute-value-3",
@@ -997,7 +1411,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Under what circumstances is ? What is in the other cases?   "
+  "body": "  Under what circumstances is ? What is (in terms of and ) in the other cases?   "
 },
 {
   "id": "intervals",
@@ -1060,7 +1474,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Infima &amp; Suprema",
-  "body": " Infima & Suprema    Solve the following problems on infima and suprema of sets.     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some         Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and .    "
+  "body": " Infima & Suprema    Solve the following problems on infima and suprema of sets.     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some         Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and . Use the fact that if , then there are no integers between and .    "
 },
 {
   "id": "infimum-supremum-3",
@@ -1078,7 +1492,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and .   "
+  "body": "  Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and . Use the fact that if , then there are no integers between and .   "
 },
 {
   "id": "completeness-16",
@@ -1151,15 +1565,6 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  Let with , and . Prove there is an integer such that .   "
-},
-{
-  "id": "in-class-19",
-  "level": "1",
-  "url": "in-class-19.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "In-Class Activities: Section 1.9",
-  "body": " In-Class Activities: Section 1.9  "
 },
 {
   "id": "increasing-decreasing",
@@ -1564,7 +1969,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Limits Inferior &amp; Superior",
-  "body": " Limits Inferior & Superior    For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                       Prove that for each , .      Use the Squeeze Theorem to prove that if , then converges. To what number does converge?      If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.      If converges, prove it converges to .      If converges, what can you say about and ?    "
+  "body": " Limits Inferior & Superior    For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                       Prove that for each , .      Use the Squeeze Theorem to prove that if , then converges. What number does converge to?      If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.      If converges, prove it converges to .      If converges, what can you say about and ?    "
 },
 {
   "id": "lim-inf-sup-3",
@@ -1591,7 +1996,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Use the Squeeze Theorem to prove that if , then converges. To what number does converge?   "
+  "body": "  Use the Squeeze Theorem to prove that if , then converges. What number does converge to?   "
 },
 {
   "id": "lim-inf-sup-6",
@@ -1627,7 +2032,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Representing Real Numbers with Cauchy Sequences of Rational Numbers",
-  "body": " Representing Real Numbers with Cauchy Sequences of Rational Numbers    We say that a Cauchy sequence of rational numbers  represents the real number if . For the following problems, do not worry about proofs. Use these exercises to develop your intuition. But be able to explain why you make the choices you make.     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.      If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .      For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .      For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .      Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).    "
+  "body": " Representing Real Numbers with Cauchy Sequences of Rational Numbers    We say that a Cauchy sequence of rational numbers  represents the real number if converges to . For the following problems, do not worry about proofs. Use these exercises to develop your intuition. But be able to explain why you make the choices you make.     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.      If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .      For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .      For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .      Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).    "
 },
 {
   "id": "represent-real-3",
@@ -1681,7 +2086,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Equivalent Cauchy Sequences",
-  "body": " Equivalent Cauchy Sequences    Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . define precisely when the sequence converges to .     Consider the sequences and .    Give an intuitive reason why .    Prove that .        Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.      Prove that is an equivalence relation.      Describe the equivalence class represented by the sequence . In other words, describe . Prove your conjecture.      Based on your experience in #4, what do you think the equivalence classes of represent?    "
+  "body": " Equivalent Cauchy Sequences    Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . Define precisely when the sequence converges to .     Consider the sequences and .    Give an intuitive reason why .    Prove that .        Let be a Cauchy sequence, and let be a subsequence. Prove that .      Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.      Prove that is an equivalence relation.    "
 },
 {
   "id": "equiv-cauchy-3",
@@ -1699,7 +2104,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.   "
+  "body": "  Let be a Cauchy sequence, and let be a subsequence. Prove that .   "
 },
 {
   "id": "equiv-cauchy-5",
@@ -1708,7 +2113,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Prove that is an equivalence relation.   "
+  "body": "  Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.   "
 },
 {
   "id": "equiv-cauchy-6",
@@ -1717,16 +2122,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Describe the equivalence class represented by the sequence . In other words, describe . Prove your conjecture.   "
-},
-{
-  "id": "equiv-cauchy-7",
-  "level": "2",
-  "url": "equiv-cauchy.html#equiv-cauchy-7",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Based on your experience in #4, what do you think the equivalence classes of represent?   "
+  "body": "  Prove that is an equivalence relation.   "
 },
 {
   "id": "arithmetic-real",
@@ -1834,7 +2230,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Proving the Completeness Axiom",
-  "body": " Proving the Completeness Axiom    Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.        Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.      "
+  "body": " Proving the Completeness Axiom    Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.        Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.      "
 },
 {
   "id": "completeness-real-3",
@@ -1843,7 +2239,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and bounded.     "
+  "body": "  Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing and.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.     "
 },
 {
   "id": "completeness-real-4",
@@ -2059,7 +2455,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Intermediate Value Theorem",
-  "body": " Intermediate Value Theorem    The following is to help you understand and prove the Intermediate Value Theorem.     Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?        Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .      "
+  "body": " Intermediate Value Theorem    The following is to help you understand and prove the Intermediate Value Theorem.     Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?        Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .      "
 },
 {
   "id": "intermediate-value-3",
@@ -2077,7 +2473,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .     "
+  "body": "  Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .     "
 },
 {
   "id": "derivatives",
