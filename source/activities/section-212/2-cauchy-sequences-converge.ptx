@@ -74,12 +74,12 @@
         </li>
         <li>
           <p>
-            Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - a_N \right|  &lt; \epsilon</m>.
+            Let <m>n \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - a_n \right|  &lt; \epsilon</m>.
           </p>
         </li>
         <li>
           <p>
-            Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - b_N \right|  &lt; \epsilon</m>.
+            Let <m>m \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - b_n \right|  &lt; \epsilon</m>.
           </p>
         </li>
         <li>

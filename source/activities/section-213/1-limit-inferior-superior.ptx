@@ -47,7 +47,7 @@
   <exercise>
     <statement>
       <p>
-        Use the Squeeze Theorem to prove that if <m>\displaystyle \lim_{n \rightarrow \infty} \inf x_n = \lim_{n \rightarrow \infty} \sup x_n</m>, then <m>\{ x_n \}</m> converges.  To what number does <m>\{ x_n \}</m> converge?
+        Use the Squeeze Theorem to prove that if <m>\displaystyle \lim_{n \rightarrow \infty} \inf x_n = \lim_{n \rightarrow \infty} \sup x_n</m>, then <m>\{ x_n \}</m> converges.  What number does <m>\{ x_n \}</m> converge to?
       </p>
     </statement>
   </exercise>

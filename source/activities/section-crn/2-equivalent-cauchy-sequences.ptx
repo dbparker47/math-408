@@ -7,7 +7,7 @@
   <!-- Optional introduction -->
   <introduction>
     <p>
-      Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\{ x_n \} = \{ x_1,x_2,x_3, \ldots \}</m> and <m>\{ y_n \} = \{ y_1,y_2,y_3, \ldots \}</m> be sequences in <m>A</m>. define <m>\{ x_n \} \sim \{ y_n \}</m> precisely when the sequence <m>\{ x_n - y_n \} = \{x_1-y_1,x_2-y_2,x_3-y_3, \ldots \}</m> converges to <m>0</m>.
+      Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\{ x_n \} = \{ x_1,x_2,x_3, \ldots \}</m> and <m>\{ y_n \} = \{ y_1,y_2,y_3, \ldots \}</m> be sequences in <m>A</m>. Define <m>\{ x_n \} \sim \{ y_n \}</m> precisely when the sequence <m>\{ x_n - y_n \} = \{x_1-y_1,x_2-y_2,x_3-y_3, \ldots \}</m> converges to <m>0</m>.
     </p>
   </introduction>
 
@@ -34,6 +34,14 @@
   <exercise>
     <statement>
       <p>
+        Let <m>\{ x_n \}</m> be a Cauchy sequence, and let <m>\{ x_{p_n} \}</m> be a subsequence.  Prove that <m>\{ x_n \} \sim \{ x_{p_n} \}</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
         Recall that an equivalence relation is a relation that satisfies the <em>reflexive property</em>, the <em>symmetric property</em>, and the <em>transitive property</em>.  For each of these properties, state what you must assume and what you must show to prove that <m>\sim</m> is an equivalence relation.
       </p>
     </statement>
@@ -43,22 +51,6 @@
     <statement>
       <p>
         Prove that <m>\sim</m> is an equivalence relation.
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        Describe the equivalence class represented by the sequence <m>\left\{ 1+\frac{1}{n} \right\} = \left\{ 2, 1+ \frac12, 1+\frac13, 1+\frac14, \ldots \right\}</m>.  In other words, describe <m>\left[ \left\{ 1+\frac{1}{n} \right\} \right]</m>.  Prove your conjecture.
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        Based on your experience in #4, what do you think the equivalence classes of <m>\sim</m> represent?
       </p>
     </statement>
   </exercise>

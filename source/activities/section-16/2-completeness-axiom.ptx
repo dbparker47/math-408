@@ -42,7 +42,7 @@
   <exercise>
     <statement>
       <p>
-        If <m>a,b \in \mathbb{R}</m> with <m>a,b &gt; 0</m>, let <m>A=\{ a, 2a, 3a, 4a, \ldots \}</m>. Use the completeness axiom to prove that there is some <m>n \in \mathbb{N}</m> such that <m>na &gt; b</m>.  Hint:  If <m>na &lt; b</m> for all <m>n \in \mathbb{N}</m>, what does that say about the set <m>A</m> defined above?
+        If <m>a,b \in \mathbb{R}</m> with <m>a,b &gt; 0</m>, let <m>A=\{ a, 2a, 3a, 4a, \ldots \}</m>. Use the completeness axiom to prove that there is some <m>n \in \mathbb{N}</m> such that <m>na &gt; b</m>.  Hint:  If <m>na \le b</m> for all <m>n \in \mathbb{N}</m>, what does that say about the set <m>A</m> defined above?
       </p>
     </statement>
   </exercise>

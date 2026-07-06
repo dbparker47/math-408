@@ -36,6 +36,14 @@
 
       <xi:include href="./homework/writing-criteria-408.ptx" />
       <xi:include href="./homework/homework-1.ptx" />
+      <xi:include href="./homework/homework-2.ptx" />
+      <xi:include href="./homework/homework-3.ptx" />
+      <xi:include href="./homework/homework-4.ptx" />
+      <xi:include href="./homework/homework-5.ptx" />
+      <xi:include href="./homework/homework-6.ptx" />
+      <xi:include href="./homework/homework-7.ptx" />
+      <xi:include href="./homework/homework-8.ptx" />
+      <xi:include href="./homework/homework-9.ptx" />
     </chapter>
 
     <chapter xml:id="portfolio">
@@ -101,11 +109,6 @@
     <chapter xml:id="in-class-17">
       <title>In-Class Activities: Section 1.7</title>
       <xi:include href="./activities/section-17/1-archimedean-property.ptx" />
-    </chapter>
-
-    <chapter xml:id="in-class-19">
-      <title>In-Class Activities: Section 1.9</title>
-      
     </chapter>
 
     <chapter xml:id="in-class-rvf">

@@ -17,7 +17,7 @@
         </li>
         <li>
           <p>
-            You must write your assignment according to the writing criteria in the PDF file included with this assignment.  These should be consistent with what you learned in Math 210.
+            You must write your assignment according to the writing criteria included with this assignment.  These should be consistent with what you learned in Math 210.
           </p>
         </li>
         <li>
@@ -31,7 +31,7 @@
   </introduction>
 
   <p>
-    From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers.  The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence.  In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers.  Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.
+    From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers.  The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom).  In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers.  Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.
   </p>
 
   <p>
