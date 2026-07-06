@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Homework Assignment #1 - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 9/13</alert>
     </p>
     <p>
       For this assignment, you will solve the problems given below with the following requirements.
@@ -29,7 +29,7 @@
       You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file.  <alert>If you submit your paper electronically, it <em>must</em> be as a PDF file</alert>.
     </p>
   </introduction>
-
+  
   <p>
     Here are the problems.
   </p>
@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>p_1,p_2,\ldots,p_r</m> be <em>distinct</em> prime numbers.  Prove that <m>\sqrt{p_1p_2 \cdots p_r}</m> is an irrational number.  Recall that Euclid's Lemma says that if the prime number <m>p</m> divides evenly into the number <m>n_1n_2 \cdots n_k</m>, then <m>p</m> divides evenly into one of the <m>n_i</m>.  You may use this fact if you find it useful.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,24 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>F</m> be an ordered field with <m>x,y,z \in F</m>.  Prove each of the following.
+        <ol>
+          <li>
+            <p>
+              <m>(-x)(-z)=xz</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>x &lt; y</m> and <m>z &lt; 0</m>, then <m>xz &gt; yz</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>x &gt; 0</m> and <m>y &lt; 0</m>, then <m>xy &lt; 0</m>.
+            </p>
+          </li>
+        </ol>
       </p>
     </statement>
   </exercise>

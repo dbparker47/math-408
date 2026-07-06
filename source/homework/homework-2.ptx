@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Homework Assignment #2 - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 9/20</alert>
     </p>
     <p>
       For this assignment, you will solve the problems given below with the following requirements.
@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>a</m> be a real number, and assume that <m>|x-a| &lt; \frac{|a|}{2}</m>. Prove that <m>|x|>\frac{|a|}{2}</m>.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,20 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>S</m> be a nonempty bounded set of real numbers, and let <m>k \in \mathbb{R}</m> with <m>k \ne 0</m>.  Define <m>T = \{ x \in \mathbb{R} : x = ks</m> for some <m>s \in S \}</m>.  Do <alert>ONE</alert> of the following problems.
+        <ol>
+            <li>
+                <p>
+                    Find a formula for <m>\inf(T)</m> in terms of <m>k</m>, <m>\inf(S)</m> and/or <m>\sup(S)</m>.  Consider both the cases <m>k &lt; 0</m> and <m>k &gt; 0</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find a formula for <m>\sup(T)</m> in terms of <m>k</m>, <m>\inf(S)</m> and/or <m>\sup(S)</m>.  Consider both the cases <m>k &lt; 0</m> and <m>k &gt; 0</m>.
+                </p>
+            </li>
+        </ol>
+        Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other.  Choose the one that speaks to you.
       </p>
     </statement>
   </exercise>

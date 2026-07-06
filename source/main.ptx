@@ -35,6 +35,7 @@
       <title>Homework Assignments</title>
 
       <xi:include href="./homework/writing-criteria-408.ptx" />
+      <xi:include href="./homework/homework-1.ptx" />
     </chapter>
 
     <chapter xml:id="portfolio">

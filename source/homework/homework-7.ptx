@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Homework Assignment #7 - Math 408</title>
+
+  <introduction>
+    <p>
+      <alert>Due Sunday, 11/8</alert>
+    </p>
+    <p>
+      For this assignment, you will solve the problems given below with the following requirements.
+      <ul>
+        <li>
+          <p>
+            Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).
+          </p>
+        </li>
+        <li>
+          <p>
+            You must write your assignment according to the writing criteria in the PDF file included with this assignment.  These should be consistent with what you learned in Math 210.
+          </p>
+        </li>
+        <li>
+          <p>
+            The last problem is a progress report for at least one of your portfolio problems.  Follow the instructions given for that problem.
+          </p>
+        </li>
+      </ul>
+      You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file.  <alert>If you submit your paper electronically, it <em>must</em> be as a PDF file</alert>.
+    </p>
+  </introduction>
+
+  <p>
+    Your mission for this week is to prove most of the field axioms for our construction of the real numbers.  There are a few more challenging axioms that you will be working on for your portfolio project.  For all the problems below, you may assume that <m>\mathbb{Q}</m> is a field and that <m>\mathbb{R}</m> consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class.  You <em>may not</em> assume Cauchy sequences converge.  However, you may use the fact that a convergent sequence is Cauchy.  Also, any time you are proving a <q>there exists</q> theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy.  Here are the properties you are proving for <m>\mathbb{R}</m>.
+  </p>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Commutative Property of Addition: For all <m>X,Y \in \mathbb{R}</m>, we have <m>X+Y=Y+X</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Commutative Property of Multiplication: For all <m>X,Y \in \mathbb{R}</m>, we have <m>XY=YX</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Associative Property of Addition: For all <m>X,Y,Z \in \mathbb{R}</m>, we have <m>(X+Y)+Z=X+(Y+Z)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Associative Property of Multiplication: For all <m>X,Y,Z \in \mathbb{R}</m>, we have <m>(XY)Z=X(YZ)</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Additive Identity: There exists <m>Z \in \mathbb{R}</m> such that for all <m>X \in \mathbb{R}</m>, we have <m>X+Z=X</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Multiplicative Identity: There exists <m>I \in \mathbb{R}</m> such that for all <m>X \in \mathbb{R}</m>, we have <m>XI=X</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Additive Inverse: Let <m>Z</m> be the additive identity from #5.  For every <m>X \in \mathbb{R}</m>, there exists <m>Y \in \mathbb{R}</m> such that <m>X+Y=Z</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Distributive Property: For every <m>X,Y,Z \in \mathbb{R}</m>, we have <m>X(Y+Z)=XY+XZ</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        <ol>
+          <li>
+            <p>
+              A statement of your theorem and a complete proof.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A description of the strategies you employed and specific questions that you want me to consider.
+            </p>
+          </li>
+        </ol>
+        Make your report clear and organized.  Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Homework Assignment #8 - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 11/15</alert>
     </p>
     <p>
       For this assignment, you will solve the problems given below with the following requirements.
@@ -31,13 +31,25 @@
   </introduction>
 
   <p>
-    Here are the problems.
+    Your mission for this week is to prove most of the order axioms for our construction of the real numbers.  There are a few more challenging axioms that you will be working on for your portfolio project.  For all the problems below, you may assume that <m>\mathbb{Q}</m> is an ordered field and that <m>\mathbb{R}</m> consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class.  You <em>may not</em> assume Cauchy sequences converge.  Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.
+  </p>
+  <theorem xml:id="thm-old-hw">
+    <statement>
+        <p>
+            Let <m>\{ x_k \}</m> be a Cauchy sequence that does not converge to zero.  Then there exists an <m>N \in \mathbb{N}</m> and <m>\epsilon &gt; 0</m> such that for all <m>k &gt; N</m>, we have <m>|x_k| &gt; \epsilon</m>.
+        </p>
+    </statement>
+  </theorem>
+  
+
+  <p>
+    Here are the properties you are proving for <m>\mathbb{R}</m>.
   </p>
 
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Transitive Property: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Y &lt; Z</m>, then <m>X &lt; Z</m>.
       </p>
     </statement>
   </exercise>
@@ -45,7 +57,15 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Translation Invariance: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m>, then <m>X+Z &lt; Y+Z</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Scaling:  For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Z &gt; 0</m>, then <m>XZ &lt; YZ</m>.
       </p>
     </statement>
   </exercise>

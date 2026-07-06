@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Homework Assignment #5 - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 10/18</alert>
     </p>
     <p>
       For this assignment, you will solve the problems given below with the following requirements.
@@ -37,7 +37,25 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>\{ x_k \}</m>, <m>\{ y_k \}</m>, and <m>\{ r_k \}</m> be sequences such that
+        <ol>
+            <li>
+                <p>
+                    <m>\{ r_k \}</m> converges to 0.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>|y_k-x_k| &lt; r_k</m> for all <m>k</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>\{ x_k \}</m> converges to <m>L</m>.
+                </p>
+            </li>
+        </ol>
+        Prove that <m>\{ y_k \}</m> converges to <m>L</m>.
       </p>
     </statement>
   </exercise>
@@ -45,7 +63,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>\{ x_k \}</m> be a Cauchy sequence that does not converge to zero.  Prove that there exists an <m>N \in \mathbb{N}</m> and <m>\epsilon &gt; 0</m> such that for all <m>k > N</m>, we have <m>|x_k| &gt; \epsilon</m>.  You <em>may not</em> use the fact that <m>\{ x_k \}</m> converges.  You <em>must</em> use the definition of Cauchy sequences.  Hint:  I suggest a proof by contrapositive or contradiction.
       </p>
     </statement>
   </exercise>

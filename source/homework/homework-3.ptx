@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Homework Assignment #3 - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
+      <alert>Due Sunday, 9/27</alert>
     </p>
     <p>
       For this assignment, you will solve the problems given below with the following requirements.
@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Let <m>p,q \in \mathbb{R}</m> with <m>p-q &gt; 1</m>.  Prove that there is an integer <m>n</m> such that <m>q &lt; n &lt; p</m>.  Hint: Define an appropriate set, and use the Completeness axiom.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) 
+        ( pts.) Suppose that <m>f:[a,b] \rightarrow \mathbb{R}</m> is a monotone function.  Prove that <m>f</m> is bounded.
       </p>
     </statement>
   </exercise>

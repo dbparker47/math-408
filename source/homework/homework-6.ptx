@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Homework Assignment #6 - Math 408</title>
+
+  <introduction>
+    <p>
+      <alert>Due Sunday, 10/25</alert>
+    </p>
+    <p>
+      For this assignment, you will solve the problems given below with the following requirements.
+      <ul>
+        <li>
+          <p>
+            Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).
+          </p>
+        </li>
+        <li>
+          <p>
+            You must write your assignment according to the writing criteria in the PDF file included with this assignment.  These should be consistent with what you learned in Math 210.
+          </p>
+        </li>
+        <li>
+          <p>
+            The last problem is a progress report for at least one of your portfolio problems.  Follow the instructions given for that problem.
+          </p>
+        </li>
+      </ul>
+      You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file.  <alert>If you submit your paper electronically, it <em>must</em> be as a PDF file</alert>.
+    </p>
+  </introduction>
+
+  <p>
+    From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers.  The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence.  In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers.  Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.
+  </p>
+
+  <p>
+    <term>Well-Ordering Principle</term>: Every nonempty bounded below set of integers has a minimum element.
+  </p>
+
+  <p>
+    For the entire assignment, assume that <m>\{ x_n \}</m> is a bounded increasing sequence.
+  </p>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>B_k \in \mathbb{Q}</m> such that <m>B_k</m> is an upper bound of <m>\{ x_n \}</m> and such that <m>B_k - \frac{1}{k}</m> is not an upper bound of <m>\{ x_n \}</m>.  Here is some advice you may want to consider.
+        <ul>
+            <li>
+                <p>
+                    I suggest determining <m>B_k</m> recursively, so you will likely be proving this by induction.
+                </p>
+            </li>
+            <li>
+                <p>
+                    The Well-Ordering Principle will be helpful for determining <m>B_1</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    When you define <m>B_{k+1}</m>, you will probably want it to be <m>B_k</m> or <m>B_k-\frac{1}{k}</m>, depending on whether or not <m>B_k-\frac{1}{k}</m> is an upper bound for <m>\{ x_n \}</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.
+                </p>
+            </li>
+        </ul>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>N_k \in \mathbb{N}</m> such that for all <m>m,n \in N_k</m>, we have <m>|x_m-x_n| &lt; \frac{1}{k}</m>.  Keep in mind the following.
+        <ul>
+            <li>
+                <p>
+                    Remember that <m>\{ x_n \}</m> is increasing.
+                </p>
+            </li>
+            <li>
+                <p>
+                    You will likely be playing around with inequalities involving <m>B_k</m> and the <m>x_n</m>.
+                </p>
+            </li>
+        </ul>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) Prove that <m>\{ x_n \}</m> is a Cauchy sequence.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        <ol>
+          <li>
+            <p>
+              A statement of your theorem and a complete proof.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A description of the strategies you employed and specific questions that you want me to consider.
+            </p>
+          </li>
+        </ol>
+        Make your report clear and organized.  Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
