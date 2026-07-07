@@ -126,7 +126,7 @@
           </li>
           <li>
             <p>
-              Let <m>S</m> be a set of integers with a supremum <m>x</m>.  Prove that <m>x \in S</m>. Hint: Consider what must be true about both <m>x</m> and <m>x-1</m>.
+              Let <m>S</m> be a set of integers with a supremum <m>x</m>.  Prove that <m>x \in S</m>. Hint: Consider what must be true about both <m>x</m> and <m>x-1</m>. Use the fact that if <m>n \in \mathbb{Z}</m>, then there are no integers between <m>n</m> and <m>n+1</m>.
             </p>
           </li>
         </ol>

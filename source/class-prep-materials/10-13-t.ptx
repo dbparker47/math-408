@@ -85,15 +85,15 @@
                 </p>
               </li>
               <li>
-                <p>
-                  Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - a_N \right|  &lt; \epsilon</m>.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Let <m>N \in \mathbb{N}</m>. Prove there exists <m>M \ge N</m> such that <m>\left| x_M - b_N \right|  &lt; \epsilon</m>.
-                </p>
-              </li>
+          <p>
+            Let <m>n \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - a_n \right|  &lt; \epsilon</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Let <m>m \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - b_n \right|  &lt; \epsilon</m>.
+          </p>
+        </li>
               <li>
                 <p>
                   Prove that <m>\{ x_n \}</m> converges to <m>a</m> or prove that <m>\{ x_n \}</m> converges to <m>b</m> (your choice). Hint: Use the facts that <m>\{ x_n \}</m> is Cauchy; that either <m>\{ a_n \}</m> converges to <m>a</m> or <m>\{ b_n \}</m> converges to <m>b</m>; either (c) or (d); and some triangle inequality magic.

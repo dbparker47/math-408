@@ -26,8 +26,8 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-ivt">
-    <title>Video &amp; Activities for Intermediate Value Theorem</title>
+  <subsection xml:id="video-activity-intro-ivt">
+    <title>Video &amp; Activities for Introduction to Intermediate Value Theorem</title>
     <p>
       Below is a YouTube video on the <em>Intermediate Value Theorem</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
@@ -35,12 +35,12 @@
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Intermediate Value Theorem</title>
+      <title>Introduction to Intermediate Value Theorem</title>
       <p>
         <ol>
           <li>
             <p>
-              Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>c \in \mathbb{R}</m> with <m>f(a) &lt; c &lt; f(b)</m>.
+              Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>d \in \mathbb{R}</m> with <m>f(a) &lt; d &lt; f(b)</m>.
             <ol>
               <li>
                 <p>
@@ -49,12 +49,12 @@
               </li>
               <li>
                 <p>
-                  Let <m>t</m> be the first value of <m>x</m> where <m>f(x)=c</m> and <m>s</m> be the last value of <m>x</m> where <m>f(x)=c</m>.  What is true about <m>f</m> on <m>[a,t)</m>?  What about on <m>(s,b]</m>?
+                  Let <m>t</m> be the first value of <m>x</m> where <m>f(x)=d</m> and <m>s</m> be the last value of <m>x</m> where <m>f(x)=d</m>.  What is true about <m>f</m> on <m>[a,t)</m>?  What about on <m>(s,b]</m>?
                 </p>
               </li>
               <li>
                 <p>
-                  Define <m>S = \{ x \in [a,b] : f(x) \leq c \}</m> and <m>T = \{ x \in [a,b] : f(x) \geq c \}</m>. What is <m>\sup(S)</m> in your pictures?  What is <m>\inf(T)</m> in your pictures?
+                  Define <m>S = \{ x \in [a,b] : f(x) \leq d \}</m> and <m>T = \{ x \in [a,b] : f(x) \geq d \}</m>. What is <m>\sup(S)</m> in your pictures?  What is <m>\inf(T)</m> in your pictures?
                 </p>
               </li>
             </ol>
@@ -76,7 +76,7 @@
               </li>
               <li>
                 <p>
-                  To what do <m>\{ f(s_n) \}</m> and <m>\{ f(t_n) \}</m> converge?
+                  What do <m>\{ f(s_n) \}</m> and <m>\{ f(t_n) \}</m> converge to?
                 </p>
               </li>
               <li>
@@ -105,6 +105,19 @@
         </ol>
       </p>
     </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-proof-ivt">
+    <title>Video for a Proof of the Intermediate Value Theorem</title>
+    <p>
+      Below is a YouTube video proving the <em>Intermediate Value Theorem</em>. Please watch the video and review the above class activities if necessary.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>

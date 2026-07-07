@@ -72,7 +72,12 @@
               </li>
               <li>
                 <p>
-                  Prove that <m>\{ x_1,x_2,x_3,x_4, \ldots \}</m> is decreasing and bounded.
+                  Prove that <m>\{ x_1,x_2,x_3,x_4, \ldots \}</m> is decreasing.
+                </p>
+              </li>
+              <li>
+                <p>
+                  Try proving that <m>\{ x_1,x_2,x_3,x_4, \ldots \}</m> is bounded.  Hint: Let <m>s=[ \{ s_1, s_2, s_3, \ldots \} ] \in S</m>, and use the sequence <m>\{ s_n \}</m> to find a lower bound for all the <m>x_n</m>'s.
                 </p>
               </li>
             </ol>

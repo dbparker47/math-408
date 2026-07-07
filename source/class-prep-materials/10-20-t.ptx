@@ -95,22 +95,17 @@
           </li>
           <li>
             <p>
+              Let <m>\{ x_n \}</m> be a Cauchy sequence, and let <m>\{ x_{p_n} \}</m> be a subsequence.  Prove that <m>\{ x_n \} \sim \{ x_{p_n} \}</m>.
+            </p>
+          </li>
+          <li>
+            <p>
               Recall that an equivalence relation is a relation that satisfies the <em>reflexive property</em>, the <em>symmetric property</em>, and the <em>transitive property</em>.  For each of these properties, state what you must assume and what you must show to prove that <m>\sim</m> is an equivalence relation.
             </p>
           </li>
           <li>
             <p>
               Prove that <m>\sim</m> is an equivalence relation.
-            </p>
-          </li>
-          <li>
-            <p>
-              Describe the equivalence class represented by the sequence <m>\left\{ 1+\frac{1}{n} \right\} = \left\{ 2, 1+ \frac12, 1+\frac13, 1+\frac14, \ldots \right\}</m>.  In other words, describe <m>\left[ \left\{ 1+\frac{1}{n} \right\} \right]</m>.  Prove your conjecture.
-            </p>
-          </li>
-          <li>
-            <p>
-              Based on your experience in #4, what do you think the equivalence classes of <m>\sim</m> represent?
             </p>
           </li>
         </ol>

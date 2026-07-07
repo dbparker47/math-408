@@ -31,16 +31,16 @@
     </ul>
   </objectives>
 
-  <subsection xml:id="video-activity-evt">
-    <title>Video &amp; Activities for Extreme Value Theorem</title>
+  <subsection xml:id="video-activity-intro-evt">
+    <title>Video &amp; Activities for Introduction to Extreme Value Theorem</title>
     <p>
-      Below is a YouTube video on the <em>Extreme Value Theorem</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below is a YouTube video introducing you to the  <em>Extreme Value Theorem</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
     <video youtube="G44ntA-phnY" />
 
     <example>
-      <title>Extreme Value Theorem</title>
+      <title>Introduction to Extreme Value Theorem</title>
       <p>
         Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continous function.
       </p>
@@ -120,6 +120,19 @@
         </ol>
       </p>
     </example>
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-proof-evt">
+    <title>Video for a Proof of the Extreme Value Theorem</title>
+    <p>
+      Below is a YouTube video proving the <em>Extreme Value Theorem</em>. Please watch the video and review the above class activities if necessary.
+    </p>
+
+    <video youtube="G44ntA-phnY" />
+
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>

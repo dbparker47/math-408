@@ -76,6 +76,11 @@
               (Not on quiz) If <m>x &lt; y</m> and <m>z &lt; 0</m>, prove that <m>xz &gt; yz</m>.
             </p>
           </li>
+          <li>
+            <p>
+              (Not on quiz) If <m>x &lt; 0</m> and <m>y &lt; 0</m>, prove that <m>xy &gt; 0</m>.
+            </p>
+          </li>
         </ol>
       </p>
     </example>

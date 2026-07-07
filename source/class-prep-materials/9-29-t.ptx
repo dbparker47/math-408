@@ -10,7 +10,7 @@
     <ul>
       <li>
         <p>
-          Explain what it means for a sequence <m>\{ x_n \}</m> to converge to a real number $L$.  This means both knowing the precise mathematical definition for use in proving theorems about the limits of sequences, as well as being able to connect the formal definition of convergence with our intuitive understanding of the limit of a sequence.
+          Explain what it means for a sequence <m>\{ x_n \}</m> to converge to a real number <m>L</m>.  This means both knowing the precise mathematical definition for use in proving theorems about the limits of sequences, as well as being able to connect the formal definition of convergence with our intuitive understanding of the limit of a sequence.
         </p>
       </li>
       <li>
