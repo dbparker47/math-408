@@ -29,10 +29,12 @@
   <subsection xml:id="video-activity-intro-cauchy">
     <title>Video &amp; Activities for Introduction to Cauchy Sequences</title>
     <p>
-      Below is a YouTube video that is an <em>introduction to Cauchy sequences</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Below are two YouTube videos, one on <em>introduction to Cauchy sequences</em> and one that shows that the sequence of <em>harmonic sums</em> diverges. They are followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="G44ntA-phnY" />
+    <video youtube="yj0ugawhGYI" />
+
+    <video youtube="bYgIK46VP68" />
 
     <example>
       <title>Introduction to Cauchy Sequences</title>
@@ -72,7 +74,7 @@
       Below is a YouTube video on the <em>convergence of Cauchy sequences</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
     </p>
 
-    <video youtube="G44ntA-phnY" />
+    <video youtube="bB5Mg9glAN8" />
 
     <example>
       <title>Convergence of Cauchy Sequences</title>

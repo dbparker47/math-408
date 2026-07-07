@@ -29,10 +29,23 @@
   <subsection xml:id="video-activity-number-system">
     <title>Video &amp; Activities for Number Systems</title>
     <p>
-      Below is a YouTube video on <em>number systems</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+      Our main topic this semester is constructing the real number system. Below is a YouTube video on <em>number systems</em> that will help you understand the general process of creating number systems out of pre-existing number systems. After watching this video, go to the next video and class activities below.
     </p>
 
-    <video youtube="G44ntA-phnY" />
+    <video youtube="zudY1c3g-Ik" />
+
+    <p>
+      Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="video-activity-irrational-number">
+    <title>Video &amp; Activities for Irrational Numbers</title>
+    <p>
+      Below is a YouTube video on <em>irrational numbers</em>. It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.
+    </p>
+
+    <video youtube="IZzOgiYB4o4" />
 
     <example>
       <title>Irrational Numbers</title>
