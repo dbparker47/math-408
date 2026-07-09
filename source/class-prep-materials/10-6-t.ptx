@@ -39,7 +39,7 @@
 
     <video youtube="BXddkCLr2Tc" />
 
-    <example>
+    <problem>
       <title>Squeeze Theorem</title>
       <p>
       Use the Squeeze Theorem to prove the following.
@@ -80,7 +80,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>
@@ -94,7 +94,7 @@
 
     <video youtube="2eXzzGgQ0oc" />
 
-    <example>
+    <problem>
       <title>Subsequences</title>
       <p>
         For a sequence <m>\{ x_n \}</m>, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>, <m>a_n = \inf(S_n)</m>, and <m>b_n= \sup(S_n)</m>.
@@ -145,7 +145,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>

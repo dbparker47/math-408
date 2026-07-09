@@ -69,7 +69,7 @@
 
     <video youtube="8d5_0VE7Ws8" />
 
-    <example>
+    <problem>
       <title>Equivalent Cauchy Sequences</title>
       <p>
         Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\{ x_n \} = \{ x_1,x_2,x_3, \ldots \}</m> and <m>\{ y_n \} = \{ y_1,y_2,y_3, \ldots \}</m> be sequences in <m>A</m>. define <m>\{ x_n \} \sim \{ y_n \}</m> precisely when the sequence <m>\{ x_n - y_n \} = \{x_1-y_1,x_2-y_2,x_3-y_3, \ldots \}</m> converges to <m>0</m>.
@@ -110,7 +110,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>
@@ -124,7 +124,7 @@
 
     <video youtube="633AJ9AYAto" />
 
-    <example>
+    <problem>
       <title>Real Number Arithmetic</title>
       <p>
         Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\mathbb{R}</m> be the set of equivalence classes of <m>A</m> under the equivalence relation we defined previously.
@@ -175,7 +175,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>

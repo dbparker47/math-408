@@ -59,7 +59,7 @@
 
     <video youtube="EzzijcCxTdQ" />
 
-    <example>
+    <problem>
       <title>Limit Inferior &amp; Limit Superior</title>
       <p>
         For a sequence <m>\{ x_n \}</m>, recall <m>S_n = \{ x_n,x_{n+1}, \ldots \}</m>, <m>a_n =</m> inf<m>(S_n)</m>,  <m>b_n =</m> sup<m>(S_n)</m>, <m>\displaystyle a_n \rightarrow \lim_{n \rightarrow \infty} \inf x_n</m>, and <m>\displaystyle b_n \rightarrow \lim_{n \rightarrow \infty} \sup x_n</m>.
@@ -115,7 +115,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>
@@ -129,7 +129,7 @@
 
     <video youtube="yuAJcdgUzVA" />
 
-    <example>
+    <problem>
       <title>Representing Real Numbers</title>
       <p>
         We say that a Cauchy sequence of rational numbers <m>\{ a_n \}</m> <em>represents</em> the real number <m>r</m> if <m>\{ a_n \}</m> converges to <m>r</m>.  For the following problems, do not worry about proofs.  Use these exercises to develop your intuition.  But be able to explain why you make the choices you make.
@@ -163,7 +163,7 @@
           </li>
         </ol>
       </p>
-    </example>
+    </problem>
     <p>
       Feel free to post any questions you have on the <url href="https://www.figma.com/board/aJvcTlf1GEiG9CPhI3Vh3h/Notes-for-8-31--Class-Introduction----408--First-Day-Template-?t=ZdQWknSkCn3PfyKQ-6">FigJam board</url> for the next class.
     </p>

@@ -25,9 +25,7 @@
   </latex-image-preamble>
 
   <!-- It is possible to rename elements: -->
-  <rename element="example" xml:lang="en-US">In-Class Activities</rename>
-  <rename element="insight" xml:lang="en-US">Optional Reading</rename>
-  <rename element="list" xml:lang="en-US">Activity Set</rename>
+  <rename element="problem" xml:lang="en-US">In-Class Activities</rename>
 
   <!-- Specify the default type of cross reference: -->
   <!-- <cross-references text="type-global" /> -->
