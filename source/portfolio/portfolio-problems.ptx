@@ -1,77 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>Homework Assignment # - Math 408</title>
+  <title>Portfolio Project Problems - Math 408</title>
 
   <introduction>
     <p>
-      <alert>Due Sunday, </alert>
-    </p>
-    <p>
-      For this assignment, you will solve the problems given below with the following requirements.
-      <ul>
-        <li>
-          <p>
-            Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).
-          </p>
-        </li>
-        <li>
-          <p>
-            You must write your assignment according to the writing criteria included with this assignment.  These should be consistent with what you learned in Math 210.
-          </p>
-        </li>
-        <li>
-          <p>
-            The last problem is a progress report for at least one of your portfolio problems.  Follow the instructions given for that problem.
-          </p>
-        </li>
-      </ul>
-      You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file.  <alert>If you submit your paper electronically, it <em>must</em> be as a PDF file</alert>.
+      
     </p>
   </introduction>
 
-  <p>
-    Here are the problems.
-  </p>
-
   <exercise>
     <statement>
       <p>
-        ( pts.) 
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        ( pts.) 
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        Our goal in this problem is to prove that it is impossible to order the set of complex numbers <m>\mathbb{C}</m> in such a way that <m>\mathbb{C}</m> is an ordered field.  In order to do this, you will first need to prove some results for ordered fields.  So for the following problems, assume that <m>A</m> is an ordered field with at least two elements, that <m>0 \in A</m> is the additive identity of <m>A</m>, and that <m>1 \in A</m> is the multiplicative identity in <m>A</m>.  Using only the axioms for ordered fields, prove the following.
         <ol>
           <li>
             <p>
-              A statement of your theorem and a complete proof.  I will give constructive comments on your proof.
+              <m>0 \ne 1</m>
             </p>
           </li>
           <li>
             <p>
-              A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider.  I will give constructive comments on your proof.
+              <m>0 &lt; 1</m>
             </p>
           </li>
           <li>
             <p>
-              A description of the strategies you employed and specific questions that you want me to consider.
+              <m>-1 &lt; 0</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              If <m>a,b \in A</m>, then <m>(-a)(-b)=ab</m>.
             </p>
           </li>
         </ol>
-        Make your report clear and organized.  Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.
+        After you prove the above, use them to prove that no matter how you order the elements of <m>\mathbb{C}</m>, it is impossible to make <m>\mathbb{C}</m> an ordered field.  Use your intuition to give you insight into these problems, but do not use your intuition as justifications in your proof.  You are to use only the ordered field axioms.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>I</m> be an interval that is bounded above and bounded below. Prove that <m>I=[a,b]</m>, <m>[a,b)</m>, <m>(a,b]</m>, or <m>(a,b)</m> for some real numbers <m>a</m> and <m>b</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that <m>S</m> is an infinite set (maybe countably infinite, maybe not), and let <m>T = \{ x_1,x_2, \ldots , x_n \}</m> (i.e. <m>T</m> is a finite set).  Prove that <m>S</m> and <m>S \cup T</m> have the same cardinality.  In other words, prove there is a function <m>f: S \rightarrow (S \cup T)</m> that is one-to-one and onto. Hint:  Warm up by solving the problem for the case that <m>S</m> is countably infinite, and then do the case where <m>S</m> is uncountable.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>\{ x_n \}</m> be a bounded sequence that does not converge.  Prove that <m>\{ x_n \}</m> has at least two subsequences that converge to different limits.   Note that both sequences need to converge.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        For this problem, we are assuming that the real numbers are as we constructed in class.  In other words, <m>\mathbb{R}</m> is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation:  <m>\{ x_n \} \sim \{ y_n \}</m> if and only if <m>\{ x_n - y_n \}</m> converges to 0.  We are also using our definitions of addition, multiplication, and <m>&lt;</m> on <m>\mathbb{R}</m> that we determined in class.  Prove the following.
+        <ol>
+          <li>
+            <p>
+              Multiplication is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, prove that no matter how you choose <m>\{ x_n \} \in X</m> and <m>\{ y_n \} \in Y</m> to compute <m>X \cdot Y</m>, you always get the same product.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\mathbb{R}</m> is closed under addition.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X+Y \in \mathbb{R}</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\mathbb{R}</m> is closed under multiplication.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X \cdot Y \in \mathbb{R}</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Multiplicative Inverse:  Let <m>Z</m> be the additive identity and <m>I</m> be the multiplicative identity of <m>\mathbb{R}</m>. Prove that for each <m>X \in \mathbb{R}</m> with <m>X \ne Z</m>, there exists some <m>Y \in \mathbb{R}</m> such that <m>X \cdot Y=I</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              The order relation <m>&lt;</m> is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, we will get the same determination of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> regardless of which sequences we choose from <m>X</m> and <m>Y</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Trichotomy: For all <m>X,Y \in \mathbb{R}</m>, either <m>X &lt; Y</m>, <m>X=Y</m>, or <m>Y &lt; X</m>.
+            </p>
+          </li>
+        </ol>
+        Please remember that your Cauchy sequences can only contain rational numbers.  You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence <q>converges</q> to an irrational number.  You may assume that a Cauchy sequence is bounded.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        For any <m>r \in \mathbb{R}</m>, let <m>\lfloor r \rfloor</m> be the greatest integer that is less than or equal to <m>r</m> (e.g. <m>\lfloor 3.5 \rfloor = 3</m> and <m>\lfloor -1.2 \rfloor = -2</m>).  Consider the function <m>f(x) = \lfloor x \rfloor + \lfloor -2x \rfloor</m>.  Determine all values of <m>x</m> at which <m>f</m> is continuous.  Prove your result.  Hint:  I would strongly suggest drawing a graph of the function to help you see the discontinuities and determine patterns.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Let <m>p \in \mathbb{R}</m> be a constant, and let <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> be a continuous function such that <m>f(x+p) = f(x)</m> for all <m>x \in \mathbb{R}</m> (such a function is called periodic).  Prove that <m>f</m> is uniformly continuous on <m>\mathbb{R}</m>. Hint:  First consider <m>f</m> on <m>[0,p]</m>.
       </p>
     </statement>
   </exercise>
