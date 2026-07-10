@@ -24,9 +24,10 @@
 
     <chapter xml:id="exam">
       <title>Exams</title>
-      <!-- <xi:include href="./notes/week01.ptx"/> -->
-      <!-- <xi:include href="./notes/week02.ptx"/> -->
-      <!-- etc. -->
+      <p>Not yet available</p>
+      <!-- <xi:include href="./exams/exam-1.ptx"/> -->
+      <!-- <xi:include href="./exams/exam-2.ptx"/> -->
+      <!-- <xi:include href="./exams/exam-3.ptx"/> -->
 
     </chapter>
 
@@ -48,7 +49,8 @@
 
     <chapter xml:id="portfolio">
       <title>Portfolio Project</title>
-
+      <xi:include href="./portfolio/portfolio-instructions.ptx" />
+      <xi:include href="./portfolio/portfolio-problems.ptx" />
     </chapter>
 
     <chapter xml:id="class-prep">

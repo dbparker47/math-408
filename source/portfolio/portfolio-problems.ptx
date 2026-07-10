@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Homework Assignment # - Math 408</title>
+
+  <introduction>
+    <p>
+      <alert>Due Sunday, </alert>
+    </p>
+    <p>
+      For this assignment, you will solve the problems given below with the following requirements.
+      <ul>
+        <li>
+          <p>
+            Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).
+          </p>
+        </li>
+        <li>
+          <p>
+            You must write your assignment according to the writing criteria included with this assignment.  These should be consistent with what you learned in Math 210.
+          </p>
+        </li>
+        <li>
+          <p>
+            The last problem is a progress report for at least one of your portfolio problems.  Follow the instructions given for that problem.
+          </p>
+        </li>
+      </ul>
+      You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file.  <alert>If you submit your paper electronically, it <em>must</em> be as a PDF file</alert>.
+    </p>
+  </introduction>
+
+  <p>
+    Here are the problems.
+  </p>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) 
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        ( pts.) 
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        <ol>
+          <li>
+            <p>
+              A statement of your theorem and a complete proof.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider.  I will give constructive comments on your proof.
+            </p>
+          </li>
+          <li>
+            <p>
+              A description of the strategies you employed and specific questions that you want me to consider.
+            </p>
+          </li>
+        </ol>
+        Make your report clear and organized.  Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
