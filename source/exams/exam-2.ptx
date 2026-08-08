@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="exam-2-408">
+  <title>Exam 2 - Math 408</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      For each of the following problems, you will state the solution of the problem as a theorem, and you will write a proof of the theorem.  Keep the following in mind.
+      <ul>
+        <li>
+            <p>
+                All proofs must be written in complete sentences.
+            </p>
+        </li>
+        <li>
+            <p>
+                If computations are a part of your proof, they must be written as part of the proof. Do not separate the computations from the explanations.
+            </p>
+        </li>
+        <li>
+            <p>
+                Your proof may not have any unproved steps.  All steps must be justified by definitions, your previously proven steps, or by facts we proved in class or in videos.
+            </p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise>
+    <statement>
+      <p>
+        (25 pts.) Suppose <m>a \equiv 7</m> (mod 9) and <m>b \equiv 5</m> (mod 9). Prove that <m>ab \equiv 8</m> (mod 9). 
+      </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            (25 pts.)  Let <m>a</m>, <m>b</m>, and <m>c</m> be integers.  Prove that if <m>a \mid b</m>, and <m>a</m> does not divide <m>c</m>, then <m>a</m> does not divide <m>b+c</m>.
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            (25 pts.) Suppose that <m>x</m> is a nonzero rational number and <m>y</m> is an irrational number (i.e. a real number that is not a rational number).  Prove that <m>xy</m> is an irrational number.
+        </p>
+    </statement>
+  </exercise>
+  <exercise>
+    <statement>
+        <p>
+            (25 pts.) Suppose you have a system of buildings where each pair of buildings is connected by a one-way road.  Prove that there is a route that enables you to visit every building.
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>
