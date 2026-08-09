@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #1 - Math 408",
-  "body": " Homework Assignment #1 - Math 408    Due Sunday, 9\/13   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.      ( pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .         Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #1 - Math 408    Due Sunday, 9\/13   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.      (50 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .         (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-1-408-4",
@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.   "
+  "body": "  (50 pts.) Let be distinct prime numbers. Prove that is an irrational number. Recall that Euclid's Lemma says that if the prime number divides evenly into the number , then divides evenly into one of the . You may use this fact if you find it useful.   "
 },
 {
   "id": "hw-1-408-5",
@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .      "
+  "body": "  (50 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .      "
 },
 {
   "id": "hw-1-408-6",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-2-408",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #2 - Math 408",
-  "body": " Homework Assignment #2 - Math 408    Due Sunday, 9\/20   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be a real number, and assume that . Prove that .      ( pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #2 - Math 408    Due Sunday, 9\/20   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let be a real number, and assume that . Prove that .      (50 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-2-408-4",
@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Let be a real number, and assume that . Prove that .   "
+  "body": "  (50 pts.) Let be a real number, and assume that . Prove that .   "
 },
 {
   "id": "hw-2-408-5",
@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.   "
+  "body": "  (50 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , , and\/or . Consider both the cases and .    Find a formula for in terms of , , and\/or . Consider both the cases and .   Proofs for (a) and (b) are almost identical, so neither is intrinsically more difficult than the other. Choose the one that speaks to you.   "
 },
 {
   "id": "hw-2-408-6",
@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-3-408",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #3 - Math 408",
-  "body": " Homework Assignment #3 - Math 408    Due Sunday, 9\/27   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.      ( pts.) Suppose that is a monotone function. Prove that is bounded.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #3 - Math 408    Due Sunday, 9\/27   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.      (50 pts.) Suppose that is a monotone function. Prove that is bounded.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-3-408-4",
@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.   "
+  "body": "  (50 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.   "
 },
 {
   "id": "hw-3-408-5",
@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Suppose that is a monotone function. Prove that is bounded.   "
+  "body": "  (50 pts.) Suppose that is a monotone function. Prove that is bounded.   "
 },
 {
   "id": "hw-3-408-6",
@@ -169,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-4-408",
@@ -178,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #4 - Math 408",
-  "body": " Homework Assignment #4 - Math 408    Due Sunday, 10\/11   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.      ( pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #4 - Math 408    Due Sunday, 10\/11   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.      (50 pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-4-408-4",
@@ -187,7 +187,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.   "
+  "body": "  (50 pts.) Prove that every infinite set contains a countably infinite subset. Hint: Define the elements in your set recursively.   "
 },
 {
   "id": "hw-4-408-5",
@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.   "
+  "body": "  (50 pts.) Let be a sequence of nonnegative numbers that converges to . Prove that the sequence converges to . Hint: You will probably want to consider the cases and separately.   "
 },
 {
   "id": "hw-4-408-6",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-5-408",
@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #5 - Math 408",
-  "body": " Homework Assignment #5 - Math 408    Due Sunday, 10\/18   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .      ( pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #5 - Math 408    Due Sunday, 10\/18   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .      (50 pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-5-408-4",
@@ -223,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .   "
+  "body": "  (50 pts.) Let , , and be sequences such that    converges to 0.     for all .     converges to .   Prove that converges to .   "
 },
 {
   "id": "hw-5-408-5",
@@ -232,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.   "
+  "body": "  (50 pts.) Let be a Cauchy sequence that does not converge to zero. Prove that there exists an and such that for all , we have . You may not use the fact that converges. You must use the definition of Cauchy sequences. Hint: I suggest a proof by contrapositive or contradiction.   "
 },
 {
   "id": "hw-5-408-6",
@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-6-408",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #6 - Math 408",
-  "body": " Homework Assignment #6 - Math 408    Due Sunday, 10\/25   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers. The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom). In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers. Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.   Well-Ordering Principle : Every nonempty bounded below set of integers has a minimum element.  For the entire assignment, assume that is a bounded increasing sequence.    ( pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.         ( pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .         ( pts.) Prove that is a Cauchy sequence.      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #6 - Math 408    Due Sunday, 10\/25   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers. The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom). In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers. Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.   Well-Ordering Principle : Every nonempty bounded below set of integers has a minimum element.  For the entire assignment, assume that is a bounded increasing sequence.    (35 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.         (35 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .         (30 pts.) Prove that is a Cauchy sequence.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-6-408-4",
@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.      "
+  "body": "  (35 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.      "
 },
 {
   "id": "hw-6-408-7",
@@ -277,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .      "
+  "body": "  (35 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .      "
 },
 {
   "id": "hw-6-408-8",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  ( pts.) Prove that is a Cauchy sequence.   "
+  "body": "  (30 pts.) Prove that is a Cauchy sequence.   "
 },
 {
   "id": "hw-6-408-9",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-7-408",
@@ -304,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #7 - Math 408",
-  "body": " Homework Assignment #7 - Math 408    Due Sunday, 11\/8   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the field axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is a field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. However, you may use the fact that a convergent sequence is Cauchy. Also, any time you are proving a there exists theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy. Here are the properties you are proving for .    ( pts.) Commutative Property of Addition: For all , we have .      ( pts.) Commutative Property of Multiplication: For all , we have .      ( pts.) Associative Property of Addition: For all , we have .      ( pts.) Associative Property of Multiplication: For all , we have .      ( pts.) Additive Identity: There exists such that for all , we have .      ( pts.) Multiplicative Identity: There exists such that for all , we have .      ( pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .      ( pts.) Distributive Property: For every , we have .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #7 - Math 408    Due Sunday, 11\/8   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the field axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is a field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. However, you may use the fact that a convergent sequence is Cauchy. Also, any time you are proving a there exists theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy. Here are the properties you are proving for .    (12 pts.) Commutative Property of Addition: For all , we have .      (12 pts.) Commutative Property of Multiplication: For all , we have .      (12 pts.) Associative Property of Addition: For all , we have .      (12 pts.) Associative Property of Multiplication: For all , we have .      (13 pts.) Additive Identity: There exists such that for all , we have .      (13 pts.) Multiplicative Identity: There exists such that for all , we have .      (13 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .      (13 pts.) Distributive Property: For every , we have .      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-7-408-4",
@@ -313,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Commutative Property of Addition: For all , we have .   "
+  "body": "  (12 pts.) Commutative Property of Addition: For all , we have .   "
 },
 {
   "id": "hw-7-408-5",
@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Commutative Property of Multiplication: For all , we have .   "
+  "body": "  (12 pts.) Commutative Property of Multiplication: For all , we have .   "
 },
 {
   "id": "hw-7-408-6",
@@ -331,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  ( pts.) Associative Property of Addition: For all , we have .   "
+  "body": "  (12 pts.) Associative Property of Addition: For all , we have .   "
 },
 {
   "id": "hw-7-408-7",
@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  ( pts.) Associative Property of Multiplication: For all , we have .   "
+  "body": "  (12 pts.) Associative Property of Multiplication: For all , we have .   "
 },
 {
   "id": "hw-7-408-8",
@@ -349,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  ( pts.) Additive Identity: There exists such that for all , we have .   "
+  "body": "  (13 pts.) Additive Identity: There exists such that for all , we have .   "
 },
 {
   "id": "hw-7-408-9",
@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
-  "body": "  ( pts.) Multiplicative Identity: There exists such that for all , we have .   "
+  "body": "  (13 pts.) Multiplicative Identity: There exists such that for all , we have .   "
 },
 {
   "id": "hw-7-408-10",
@@ -367,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
-  "body": "  ( pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .   "
+  "body": "  (13 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .   "
 },
 {
   "id": "hw-7-408-11",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "",
-  "body": "  ( pts.) Distributive Property: For every , we have .   "
+  "body": "  (13 pts.) Distributive Property: For every , we have .   "
 },
 {
   "id": "hw-7-408-12",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "9",
   "title": "",
-  "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
+  "body": "  (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
 {
   "id": "hw-8-408",
@@ -394,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #8 - Math 408",
-  "body": " Homework Assignment #8 - Math 408    Due Sunday, 11\/15   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the order axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is an ordered field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.    Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .    Here are the properties you are proving for .    ( pts.) Transitive Property: For all , if and , then .      ( pts.) Translation Invariance: For all , if , then .      ( pts.) Scaling: For all , if and , then .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #8 - Math 408    Due Sunday, 11\/15   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the order axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is an ordered field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.    Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .    Here are the properties you are proving for .    (33 pts.) Transitive Property: For all , if and , then .      (33 pts.) Translation Invariance: For all , if , then .      (34 pts.) Scaling: For all , if and , then .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "thm-old-hw",
@@ -412,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Transitive Property: For all , if and , then .   "
+  "body": "  (33 pts.) Transitive Property: For all , if and , then .   "
 },
 {
   "id": "hw-8-408-7",
@@ -421,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  ( pts.) Translation Invariance: For all , if , then .   "
+  "body": "  (33 pts.) Translation Invariance: For all , if , then .   "
 },
 {
   "id": "hw-8-408-8",
@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  ( pts.) Scaling: For all , if and , then .   "
+  "body": "  (34 pts.) Scaling: For all , if and , then .   "
 },
 {
   "id": "hw-8-408-9",
@@ -448,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #9 - Math 408",
-  "body": " Homework Assignment #9 - Math 408    Due Sunday, 11\/22   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    ( pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #9 - Math 408    Due Sunday, 11\/22   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-9-408-4",
@@ -457,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  ( pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .   "
+  "body": "  (50 pts.) Let be an increasing function, and let . Define and . If , prove that is continuous at .   "
 },
 {
   "id": "hw-9-408-5",
