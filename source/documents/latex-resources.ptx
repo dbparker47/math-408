@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="latex-res" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>LaTeX Resources for Math 408</title>
+  <p>
+    The following are resources for LaTeX that you may find helpful.  The links are active, so you need only click on the link to navigate to the webpage or file.
+  </p>
+  
+  <p>
+    <ul>
+        <li>
+            <p>
+                <url href="https://www.overleaf.com/">Overleaf</url>: A website where you can create, save, and download LaTeX documents.  It is free as long as you don't need to many extra features. 
+            </p>
+        </li>
+        <li>
+            <p>
+                YouTube: Former GVSU professor Robert Talbert made a series of LaTeX videos back in 2012. Despite their ancient origins, they are still excellent for today.  Ignore the outdated references to ScribTeX.
+                <ul>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=cTEfw-jUqAg&amp;list=PLF975D9D3C9B50FF7&amp;index=2&amp;t=0s">What is LaTeX?</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=62_Lvhm2W7A&amp;list=PLF975D9D3C9B50FF7&amp;index=2">Your First LaTeX Document</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=c2-p1cY7jus&amp;index=3&amp;list=PLF975D9D3C9B50FF7">Basic Mathematics in LaTeX</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=BgZ5cHV5RGg&amp;list=PLF975D9D3C9B50FF7&amp;index=4">Intermediate Mathematics in LaTeX</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=Kk5Y4tA711Y&amp;list=PLF975D9D3C9B50FF7&amp;index=5">Two LaTeX Case Studies</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=rcqUDUNTBaU&amp;index=6&amp;list=PLF975D9D3C9B50FF7">Formatting Text in LaTeX</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=9z5uEImfpeQ&amp;index=7&amp;list=PLF975D9D3C9B50FF7">Environments in LaTeX</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=Av-gB2Us2as&amp;index=8&amp;list=PLF975D9D3C9B50FF7">The Equation Environment</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=mhEAxV7WW2w&amp;index=9&amp;list=PLF975D9D3C9B50FF7">The Align Environment</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=qigDNpbjgaE&amp;index=10&amp;list=PLF975D9D3C9B50FF7">Lists in LaTeX</url>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="https://www.youtube.com/watch?v=wGBsGDmnyKU&amp;t=6s">Tables in LaTeX</url>
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+        <li>
+            <p>
+                <url href="https://en.wikibooks.org/wiki/LaTeX">LaTeX in Wikibooks</url>: This is an excellent reference for anything you want to learn about LaTeX.  I have used it many times when I have forgotten or didn't know how to do something in LaTeX.
+            </p>
+        </li>
+        <li>
+            <p>
+                <url href="https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols">OEIS List of LaTeX Mathematical Symbols</url>: This is a pretty complete list of the symbols (along with LaTeX commands) that you might use in writing mathematics.
+            </p>
+        </li>
+        <li>
+            <p>
+                <url href="http://detexify.kirelabs.org/classify.html}">Kirelabs</url>: At this link, you  can draw a picture of a symbol, and the website will find the command that will create the symbol.  It is really helpful when you don't know the name of the symbol.
+            </p>
+        </li>
+        <li>
+            <p>
+                The following are websites where you can download LaTeX onto your own computer for free.  I'm happy to help you with this if you need me.  You don't have to do this if you like using Overleaf.
+                <ul>
+                    <li>
+                        <p>
+                            <url href="https://miktex.org/">MikTeX</url>: For Windows, Linux, and Mac users.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <url href="http://www.tug.org/mactex/">MacTeX</url>: For Mac users.
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+        <li>
+            <p>
+                <url href="https://drive.google.com/file/d/16LtYrNjdlsdsliKp7sa2so3EhD7sLDlM/view?usp=drive_link">Homework Template</url>: You are welcome to format your homework assignments however you want, but here is a simple template if you don't want to bother with anything elaborate.
+            </p>
+        </li>
+    </ul>
+  </p>
+
+</section>

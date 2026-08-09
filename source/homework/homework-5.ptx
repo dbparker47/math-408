@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>\{ x_k \}</m>, <m>\{ y_k \}</m>, and <m>\{ r_k \}</m> be sequences such that
+        (50 pts.) Let <m>\{ x_k \}</m>, <m>\{ y_k \}</m>, and <m>\{ r_k \}</m> be sequences such that
         <ol>
             <li>
                 <p>
@@ -63,7 +63,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>\{ x_k \}</m> be a Cauchy sequence that does not converge to zero.  Prove that there exists an <m>N \in \mathbb{N}</m> and <m>\epsilon &gt; 0</m> such that for all <m>k > N</m>, we have <m>|x_k| &gt; \epsilon</m>.  You <em>may not</em> use the fact that <m>\{ x_k \}</m> converges.  You <em>must</em> use the definition of Cauchy sequences.  Hint:  I suggest a proof by contrapositive or contradiction.
+        (50 pts.) Let <m>\{ x_k \}</m> be a Cauchy sequence that does not converge to zero.  Prove that there exists an <m>N \in \mathbb{N}</m> and <m>\epsilon &gt; 0</m> such that for all <m>k > N</m>, we have <m>|x_k| &gt; \epsilon</m>.  You <em>may not</em> use the fact that <m>\{ x_k \}</m> converges.  You <em>must</em> use the definition of Cauchy sequences.  Hint:  I suggest a proof by contrapositive or contradiction.
       </p>
     </statement>
   </exercise>
@@ -71,7 +71,7 @@
   <exercise>
     <statement>
       <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        (5 pts.) Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
         <ol>
           <li>
             <p>

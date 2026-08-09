@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>p,q \in \mathbb{R}</m> with <m>p-q &gt; 1</m>.  Prove that there is an integer <m>n</m> such that <m>q &lt; n &lt; p</m>.  Hint: Define an appropriate set, and use the Completeness axiom.
+        (50 pts.) Let <m>p,q \in \mathbb{R}</m> with <m>p-q &gt; 1</m>.  Prove that there is an integer <m>n</m> such that <m>q &lt; n &lt; p</m>.  Hint: Define an appropriate set, and use the Completeness axiom.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Suppose that <m>f:[a,b] \rightarrow \mathbb{R}</m> is a monotone function.  Prove that <m>f</m> is bounded.
+        (50 pts.) Suppose that <m>f:[a,b] \rightarrow \mathbb{R}</m> is a monotone function.  Prove that <m>f</m> is bounded.
       </p>
     </statement>
   </exercise>
@@ -53,7 +53,7 @@
   <exercise>
     <statement>
       <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        (5 pts.) Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
         <ol>
           <li>
             <p>

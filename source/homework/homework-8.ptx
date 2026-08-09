@@ -49,7 +49,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Transitive Property: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Y &lt; Z</m>, then <m>X &lt; Z</m>.
+        (33 pts.) Transitive Property: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Y &lt; Z</m>, then <m>X &lt; Z</m>.
       </p>
     </statement>
   </exercise>
@@ -57,7 +57,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Translation Invariance: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m>, then <m>X+Z &lt; Y+Z</m>.
+        (33 pts.) Translation Invariance: For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m>, then <m>X+Z &lt; Y+Z</m>.
       </p>
     </statement>
   </exercise>
@@ -65,7 +65,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Scaling:  For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Z &gt; 0</m>, then <m>XZ &lt; YZ</m>.
+        (34 pts.) Scaling:  For all <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Z &gt; 0</m>, then <m>XZ &lt; YZ</m>.
       </p>
     </statement>
   </exercise>

@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Prove that every infinite set contains a countably infinite subset.  Hint: Define the elements in your set recursively.
+        (50 pts.) Prove that every infinite set contains a countably infinite subset.  Hint: Define the elements in your set recursively.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>\{ b_n \}</m> be a sequence of nonnegative numbers that converges to <m>b</m>.  Prove that the sequence <m>\{ \sqrt{b_n} \}</m> converges to <m>\sqrt{b}</m>.  Hint: You will probably want to consider the cases <m>b=0</m> and <m>b \ne 0</m> separately.
+        (50 pts.) Let <m>\{ b_n \}</m> be a sequence of nonnegative numbers that converges to <m>b</m>.  Prove that the sequence <m>\{ \sqrt{b_n} \}</m> converges to <m>\sqrt{b}</m>.  Hint: You will probably want to consider the cases <m>b=0</m> and <m>b \ne 0</m> separately.
       </p>
     </statement>
   </exercise>
@@ -53,7 +53,7 @@
   <exercise>
     <statement>
       <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        (5 pts.) Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
         <ol>
           <li>
             <p>

@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>p_1,p_2,\ldots,p_r</m> be <em>distinct</em> prime numbers.  Prove that <m>\sqrt{p_1p_2 \cdots p_r}</m> is an irrational number.  Recall that Euclid's Lemma says that if the prime number <m>p</m> divides evenly into the number <m>n_1n_2 \cdots n_k</m>, then <m>p</m> divides evenly into one of the <m>n_i</m>.  You may use this fact if you find it useful.
+        (50 pts.) Let <m>p_1,p_2,\ldots,p_r</m> be <em>distinct</em> prime numbers.  Prove that <m>\sqrt{p_1p_2 \cdots p_r}</m> is an irrational number.  Recall that Euclid's Lemma says that if the prime number <m>p</m> divides evenly into the number <m>n_1n_2 \cdots n_k</m>, then <m>p</m> divides evenly into one of the <m>n_i</m>.  You may use this fact if you find it useful.
       </p>
     </statement>
   </exercise>
@@ -45,7 +45,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>F</m> be an ordered field with <m>x,y,z \in F</m>.  Prove each of the following.
+        (50 pts.) Let <m>F</m> be an ordered field with <m>x,y,z \in F</m>.  Prove each of the following.
         <ol>
           <li>
             <p>
@@ -70,7 +70,7 @@
   <exercise>
     <statement>
       <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        (5 pts.) Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
         <ol>
           <li>
             <p>

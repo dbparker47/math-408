@@ -45,7 +45,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>B_k \in \mathbb{Q}</m> such that <m>B_k</m> is an upper bound of <m>\{ x_n \}</m> and such that <m>B_k - \frac{1}{k}</m> is not an upper bound of <m>\{ x_n \}</m>.  Here is some advice you may want to consider.
+        (35 pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>B_k \in \mathbb{Q}</m> such that <m>B_k</m> is an upper bound of <m>\{ x_n \}</m> and such that <m>B_k - \frac{1}{k}</m> is not an upper bound of <m>\{ x_n \}</m>.  Here is some advice you may want to consider.
         <ul>
             <li>
                 <p>
@@ -75,7 +75,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>N_k \in \mathbb{N}</m> such that for all <m>m,n \in N_k</m>, we have <m>|x_m-x_n| &lt; \frac{1}{k}</m>.  Keep in mind the following.
+        (35 pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>N_k \in \mathbb{N}</m> such that for all <m>m,n \in N_k</m>, we have <m>|x_m-x_n| &lt; \frac{1}{k}</m>.  Keep in mind the following.
         <ul>
             <li>
                 <p>
@@ -95,7 +95,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Prove that <m>\{ x_n \}</m> is a Cauchy sequence.
+        (30 pts.) Prove that <m>\{ x_n \}</m> is a Cauchy sequence.
       </p>
     </statement>
   </exercise>
@@ -103,7 +103,7 @@
   <exercise>
     <statement>
       <p>
-        Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
+        (5 pts.) Work on one of the portfolio problems, and write a progress report on your work.  Your progress report will include one of the following.
         <ol>
           <li>
             <p>

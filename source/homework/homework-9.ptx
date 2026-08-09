@@ -37,7 +37,7 @@
   <exercise>
     <statement>
       <p>
-        ( pts.) Let <m>f: (a,b) \rightarrow \mathbb{R}</m> be an increasing function, and let <m>c \in (a,b)</m>.  Define <m>A = \{ f(x) : x &lt; c \}</m> and <m>B = \{ f(x) : x &gt; c \}</m>.  If <m>\sup(A) = \inf(B)</m>, prove that <m>f</m> is continuous at <m>x=c</m>.
+        (50 pts.) Let <m>f: (a,b) \rightarrow \mathbb{R}</m> be an increasing function, and let <m>c \in (a,b)</m>.  Define <m>A = \{ f(x) : x &lt; c \}</m> and <m>B = \{ f(x) : x &gt; c \}</m>.  If <m>\sup(A) = \inf(B)</m>, prove that <m>f</m> is continuous at <m>x=c</m>.
       </p>
     </statement>
   </exercise>

@@ -19,6 +19,7 @@
       <!-- Course syllabus -->
       <xi:include href="./documents/syllabus.ptx" />
       <xi:include href="./documents/objectives.ptx" />
+      <xi:include href="./documents/latex-resources.ptx" />
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
