@@ -2,8 +2,121 @@
 
 <section xml:id="order-reading" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Order Relation on the Real Numbers</title>
-  <p>
-    So far, here is where we are in our construction of the real numbers.  We have determined the elements of the set (i.e. equivalence classes of rational Cauchy sequences).  Also, we have defined addition and multiplication, which will make the real numbers a field (once you prove they satisfy the field axioms).  Our next step is to make the real numbers an ordered field.   Of course, that means that we have to define an order relation <m>&lt;</m> on the real numbers.  As before, we can assume that we have ordered the rational numbers to make them an ordered field.
-  </p>
+  <introduction>
+    <p>
+      So far, here is where we are in our construction of the real numbers.  We have determined the elements of the set (i.e. equivalence classes of rational Cauchy sequences).  Also, we have defined addition and multiplication, which will make the real numbers a field (once you prove they satisfy the field axioms).  Our next step is to make the real numbers an ordered field.   Of course, that means that we have to define an order relation <m>&lt;</m> on the real numbers.  As before, we can assume that we have ordered the rational numbers to make them an ordered field.
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-define-relation">
+    <title>Defining the Order Relation</title>
+    <p>
+      So consider two real numbers <m>[\{a_n\}]</m> and <m>[\{b_n\}]</m>, where <m>\{a_n\}</m> and <m>\{b_n\}</m> are rational Cauchy sequences.  How do we figure out which number comes first?  The first thing we might check is whether or not they are equal. That's easy; we just find the limit of <m>\{a_n-b_n\}</m> and see if we get 0.  Now we consider what happens when they are not equal.  Here we lean on our intuitive understanding of real numbers.  Recall that our original rationale of using Cauchy sequences was that they converge to the real number they represent.  So suppose <m>\{a_n\}</m> converges to <m>a</m> and <m>\{b_n\}</m> converges to <m>b</m>.  What would happen if <m>a &lt; b</m>?
+    </p>
+
+    <p>
+      We know that the <m>a_n</m> get close to <m>a</m> and <m>b_n</m> get close to <m>b</m>.  That means that if we let <m>n</m> get big enough, the <m>a_n</m> must be smaller than the <m>b_n</m>.  This inspires the following definition.
+    </p>
+
+    <definition xml:id="def-">
+      <statement>
+        <p>
+          Let <m>[\{a_n\}]</m> and <m>[\{b_n\}]</m> be real numbers.  We say that <m>[\{a_n\}] &lt; [\{b_n\}]</m> if both <m>[\{a_n\}] \ne [\{b_n\}]</m> and there exists <m>N \in \mathbb{N}</m> such that for all <m>n \ge N</m> we have <m>a_n &lt; b_n</m>.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      It is important to point out that proving that <m>a_n &lt; b_n</m> for all <m>n \ge N</m> is not enough by itself to prove that <m>[\{a_n\}] &lt; [\{b_n\}]</m>.
+    </p>
+
+    <example>
+      <statement>
+        <p>
+          Consider the real numbers <m>[\{1-\frac1n\}]</m> and <m>[\{1+\frac1n\}]</m>.  For every value of <m>n \ge 1</m>, we have <m>1-\frac1n &lt; 1+\frac1n</m>.  However, we do not have <m>[\{1-\frac1n\}] &lt; [\{1+\frac1n\}]</m>.  In fact, the two numbers are equal (you can check this using the definition or note that each of the representative Cauchy sequences has a limit of 1).
+        </p>
+      </statement>
+    </example>
+
+    <p>
+      The first issue we must address is whether or not the order relation is undefined.  As with the arithmetic operations, this requires us to imagine potential ambiguities or inconsistencies we can encounter that may make it impossible to determine which of two numbers comes first.  In other words, is it possible to have <m>X,Y \in \mathbb{R}</m> and find that <m>X &lt; Y</m> only to use a different (but legitimate) computation to find <m>X=Y</m> or <m>Y &lt; X</m>?
+    </p>
+
+    <p>
+      Let's take care of equality first.  Looking at the definition of the order relation, we could never find that <m>X &lt; Y</m> without first determining that <m>X \ne Y</m> (equality is the first thing we check).  Thus, the only possible inconsistency is finding that <m>X &lt; Y</m>, <m>Y &lt; X</m>, and <m>X \ne Y</m>.
+    </p>
+
+    <p>
+      How would we find such an inconsistency?  First, remember that <m>X</m> and <m>Y</m> are real numbers, which means that they are sets of Cauchy sequences.  The only way we can show <m>X &lt; Y</m> is by taking some Cauchy sequences <m>\{ x_n \} \in X</m> and <m>\{ y_n \} \in Y</m> and finding some <m>N_1 \in \mathbb{N}</m> such that <m>x_n &lt; y_n</m> for all <m>n \ge N_1</m>.  How would we show that also <m>Y &lt; X</m>?  We would have to find two new Cauchy sequences <m>\{ x_n' \} \in X</m> and <m>\{ y_n' \} \in Y</m> and finding some <m>N_2 \in \mathbb{N}</m> such that <m>y_n' &lt; x_n'</m> for all <m>n \ge N_2</m>.
+    </p>
+
+    <p>
+      Let's take an inventory of what we know to see what contradiction we might look for.
+      <ul>
+        <li>
+          <p>
+            As <m>n</m> gets large, we have <m>x_n &lt; y_n</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            As <m>n</m> gets large, we have that <m>x_n</m> gets close to <m>x_n'</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            As <m>n</m> gets large, we have <m>y_n' &lt; x_n'</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            As <m>n</m> gets large, we have that <m>y_n'</m> gets close to <m>y_n</m>.
+          </p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      Considering all those facts together, doesn't it look like <m>x_n</m> and <m>y_n</m> are being pushed closer together?  What does that say about the sequences <m>\{ x_n \}</m> and <m>\{ y_n \}</m>?  What does that say about the real numbers <m>[ \{ x_n \} ]</m> and <m>[ \{ y_n \} ]</m>?  These observations should help you figure out the contradiction you are trying to achieve.  For one of your portfolio problems, it will be your job to fill in the details to get to that contradiction.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-real-ordered-field">
+    <title>Proving the Real Numbers are an Ordered Field</title>
+    <p>
+      Now that we have defined the order relation, we must prove that this order makes the real numbers an ordered field.  Recall the properties for an ordered field.
+      <ul>
+        <li>
+          <p>
+            <term>Trichotomy</term>:  For any <m>X,Y \in \mathbb{R}</m>, precisely one of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> must be true.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Transitive</term>: If <m>X &lt; Y</m> and <m>Y &lt; Z</m>, then <m>X &lt; Z</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Translation Invariance</term>: For any <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m>, then <m>X+Z &lt; Y+Z</m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            <term>Scaling</term>: For any <m>X,Y,Z \in \mathbb{R}</m>, if <m>X &lt; Y</m> and <m>Z &gt; 0</m>, then <m>XZ &lt; YZ</m>.
+          </p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      We must prove these properties using the definition of the order relation.  We can also use the fact that the rational numbers are an ordered field (so they satisfy the above properties)  I will set up the transitive property here and leave the remaining properties for the homework and portfolio problems.
+    </p>
+
+    <p>
+      We assume <m>X &lt; Y</m> and <m>Y &lt; Z</m>.  That means <m>X \ne Y</m> and <m>Y \ne Z</m>.  Also, if <m>\{x_n\} \in X</m>, <m>\{y_n\} \in Y</m>, and <m>\{z_n\} \in Z</m>, then there exist <m>N_1,N_2 \in \mathbb{N}</m> such that for all <m>n &gt; N_1</m> we have <m>x_n &lt; y_n</m> and for all <m>n &gt; N_2</m>, we have <m>y_n &lt; z_n</m>.  Your goal is to determine some <m>N \in \mathbb{N}</m> such that for all <m>n &gt; N</m>, <m>x_n &lt; z_n</m>.  Additionally, you have to prove that <m>X \ne Z</m>.
+    </p>
+    
+  </subsection>
 
 </section>

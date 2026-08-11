@@ -6,4 +6,134 @@
     Now that we have proved that the real numbers are an ordered field, it remains to prove that they satisfy the Completeness Axiom.  So we assume <m>S \subseteq \mathbb{R}</m> is bounded above by some real number <m>r</m>.  We need to prove that there exists a least upper bound <m>x</m> of <m>S</m>.  To do this, we find a rational Cauchy sequence that represents <m>x</m>.  Before we tackle that, note that we can think of rational numbers in two ways.  We can think of it as an ordinary rational number, say <m>q \in \mathbb{Q}</m>.  But we can also think of it as a real number, which is an equivalence class of Cauchy sequences.  The easiest way to do this is to think of <m>q</m> as <m>[\{q,q,q,q, \ldots \}]</m>.  For our purposes, when we talk about making a rational number a term in a Cauchy sequence, we are thinking of it as an ordinary rational number.  But when we talk about a rational number as an upper bound for <m>S</m>, we are thinking of it as a real number.
   </p>
 
+  <p>
+    To construct our Cauchy sequence, we look to our intuitive understanding of the Cauchy sequences, namely that the Cauchy sequence represents the number it converges to.  So we want the rational numbers in the sequence to get closer to the least upper bound.  But we also want to choose numbers in the sequence that guarantee that the number we end up with is an upper bound.  It seems reasonable to choose rational numbers that are all upper bounds themselves.  Then we can slowly make them smaller to get closer to the least upper bound.  We can imagine the least upper bound <m>x</m> as a runway for an airplane, and the sequence gives us a path to land on the runway.  Note that this strategy also guarantees that our sequence is decreasing, which will help us prove it is Cauchy.
+  </p>
+
+  <p>
+    For <m>x_1</m>, we look for an appropriate integer.  We need two things out of this integer.  We want the integer to be an upper bound of <m>S</m>, and we want it to be as small as possible.  So how do we know that any integer is an upper bound of <m>S</m>? It turns out that we need a rational number form of the Archimedean Principle.
+  </p>
+
+  <theorem xml:id="thm-arch-rational">
+    <statement>
+      <p>
+        The following are true.
+        <ol>
+          <li xml:id="rationalarch">
+            <p>
+              The Archimedean Principle holds on the rational numbers without assuming the Completeness Axiom.
+            </p>
+          </li>
+          <li xml:id="unboundedint">
+            <p>
+              For every <m>r \in \mathbb{R}</m>, there exists <m>n \in \mathbb{N}</m> with <m>r \le n</m>.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+    <proof>
+      <p>
+        I will give an outline of the proof strategies for each of these and let you fill in the details. For <xref ref="rationalarch" />, we assume <m>a,b \in \mathbb{Q}</m> with <m>a,b &gt; 0</m> and show that there exists <m>n \in \mathbb{N}</m> with <m>na &gt; b</m>.  Since <m>a,b \in \mathbb{Q}</m>, we can write <m>a = \frac{p}{q}</m>, <m>b=\frac{r}{s}</m>, where <m>p,q,r,s \in \mathbb{Z}</m>.  Since <m>a,b &gt; 0</m>, we can assume <m>p,q,r,s &gt; 0</m>. Working backwards and doing some fun algebra (including clearing the denominators), the inequality <m>na &gt; b</m> is equivalent to <m>nsp &gt; rq</m>.  We can then set <m>n=rq+1</m>, which can be used (along with the order axioms) to prove the inequality.
+      </p>
+      <p>
+        For <xref ref="unboundedint" />, part <xref ref="rationalarch" /> implies <xref ref="unboundedint" /> in the case <m>r \in \mathbb{Q}</m> (just let <m>a=1</m> in <xref ref="rationalarch" />).  When <m>r = [\{ q_1, q_2, \ldots \}]</m> is irrational, for each <m>q_n</m>, there is an integer <m>z_n \in \mathbb{N}</m> with <m>q_n &lt; z_n</m> since <m>q_n</m> is rational.  Since <m>\{ q_1, q_2, \ldots \}</m> is Cauchy, there is some <m>N \in \mathbb{N}</m> with <m>|q_m-q_n| &lt; 1</m> for all <m>m,n &gt; N</m>.  Just let <m>z = \max \{ z_1, z_2, \ldots , z_N, z_{N+1}+1 \}</m> and prove that <m>r &lt; z</m>.
+      </p>
+    </proof>
+  </theorem>
+  
+  <p>
+    Since <m>S</m> has an upper bound, any integer greater than the upper bound (which exists by the above theorem) is also an upper bound of <m>S</m>.  Thus, the set <m>T</m> of all integers that are upper bounds of <m>S</m> is not empty.  Our set <m>T</m> is also bounded below by any number in <m>S</m>.  Thus, to find our <m>x_1</m> in the Cauchy sequence of our supremum of <m>S</m>, the following is helpful.
+  </p>
+
+  <axiom xml:id="axiom-well-order">
+    <statement>
+      <p>
+        (Well-Ordering Principle) Every nonempty set of integers that is bounded below has a smallest element.
+      </p>
+    </statement>
+  </axiom>
+
+  <p>
+    By the Well-Ordering Principle, there is a smallest integer that is an upper bound of <m>S</m>.  Let that integer be <m>x_1</m>.  This means <m>x_1</m> is an upper bound of <m>S</m> and <m>x_1-1</m> is not an upper bound of <m>S</m> (since <m>x_1</m> is the smallest integer upper bound).  We are already within 1 of the least upper bound. For <m>x_2</m>, consider <m>x_1-\frac{1}{2}</m>.  It is either an upper bound or it is not.  If it is an upper bound, we let <m>x_2=x_1-\frac{1}{2}</m>.  Otherwise, we let <m>x_2=x_1</m>.  In either case, we are now within <m>\frac{1}{2}</m> of the least upper bound, so we are getting closer.  Do you now see how to find <m>x_3</m>?  The in-class activities will lead you through the process, which will end with a recursive definition of <m>\{ x_n \}</m> that has the following properties.
+  </p>
+
+  <theorem xml:id="thm-cauchy-prop">
+    <statement>
+      <p>
+        Let <m>\{x_n\}</m> be defined as above.  Then
+        <ol>
+          <li xml:id="xnrational">
+            <p>
+              Each <m>x_n</m> is a rational number.
+            </p>
+          </li>
+          <li xml:id="decreasing">
+            <p>
+              <m>\{x_n\}</m> is a decreasing sequence.
+            </p>
+          </li>
+          <li xml:id="squeeze">
+            <p>
+              For each <m>n</m>, <m>x_n</m> is an upper bound of <m>S</m> and <m>x_n-\frac{1}{n}</m> is not an upper bound of <m>S</m>.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </theorem>
+
+  <p>
+    Now we are ready to determine the supremum of <m>S</m>.
+  </p>
+
+  <theorem xml:id="thm-x-sup">
+    <statement>
+      <p>
+        Let <m>x = [ \{ x_n \} ]</m>.  Then <m>x = \sup(S)</m>.
+      </p>
+    </statement>
+    <proof>
+      <p>
+        The theorem is a little statement, but we actually have to prove three big claims.
+        <ol>
+          <li xml:id="cauch">
+            <p>
+              $x \in \mathbb{R}$.
+            </p>
+          </li>
+          <li xml:id="ub">
+            <p>
+              $x$ is an upper bound of $S$.
+            </p>
+          </li>
+          <li xml:id="lub">
+            <p>
+              Any real number smaller than $x$ is not an upper bound of $S$.
+            </p>
+          </li>
+        </ol>
+      </p>
+      <p>
+        For (\ref{cauch}), we need to prove that $\{ x_n \}$ is Cauchy.  We already know that $\{ x_n \}$ is decreasing.  You proved in Homework \#6 that any bounded monotone sequence is Cauchy (actually, you proved it for increasing sequences, but a ``mirror-image'' proof works for decreasing sequences).  We thus only need to prove that $\{ x_n \}$ is bounded below.  If we take some $s \in S$, we have $s=[ \{ s_1, s_2, \ldots \} ]$, where $\{ s_m \}$ is Cauchy.  Since each $x_n$ is an upper bound of $S$, we have $x_n \ge s$ for all $n$.  So for each $n$, either $x_n=s$ or there exists some $N \in \mathbb{N}$ such that for all $m>N$, we have $x_n > s_m$.  Note that this is just applying the definition of $<$ and letting $\{ x_n, x_n, x_n, \ldots \}$ represent $x_n$.  In either case, each $x_n$ is bounded below by any lower bound of $\{ s_m \}$.  Note that $\{ s_m \}$ is bounded below since it is Cauchy. That means $\{ x_n \}$ is bounded below as well, so it is Cauchy and $x \in \mathbb{R}$.
+      </p>
+      <p>
+        For (\ref{ub}), we assume $s = [ \{ s_m \} ] \in S$ and show that $x \ge s$.  As before, we note that each $x_n$ is an upper bound of $S$, so $x_n \ge s$.  We will be a little more careful with notation, and note that this means, for each $n$, either $x_n=s$ or there exists $N_n \in \mathbb{N}$ such that for all $m > N_n$, we have $x_n > s_m$.
+      </p>
+      <p>
+        If we ever have <m>x_n = s</m>, recall that <m>\{ x_n \}</m> is a decreasing sequence, so for all <m>m &gt; n</m>, we have <m>x_n \ge x_m</m>.  But also recall that <m>x_m</m> is an upper bound for <m>S</m>, and so <m>x_m \ge s</m>.  We then have <m>s = x_n \ge x_m \ge s</m>.  This implies that <m>x_m=s</m>.  Thus, <m>x_m=s</m> for all <m>m \ge n</m>, and so the sequence converges to <m>s</m>.  It follows that <m>x=s</m>, and so <m>x \ge s</m>.
+      </p>
+      <p>
+        This leaves the case that for all <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that whenever <m>m &gt; N_n</m>, we have <m>x_n &gt; s_m</m>.  Now we do a little subsequence magic by defining </m>s_n' = s_{N_n+1}</m>.  We proved that subsequences are equivalent to the original sequences, so <m>s = \{ s_n' \}</m>.  By the way we derived <m>N_n</m>, we also have <m>x_n &gt; s_n'</m>.  By the definition of the order relation, this implies <m>x \ge s</m>, which proves that <m>x</m> is an upper bound for <m>S</m>.
+      </p>
+      <p>
+        Finally, we must prove that any real number less than <m>x</m> is not an upper bound for <m>S</m>.  Let <m>y = [ \{ y_m \} ] \in \mathbb{R}</m> with <m>y &lt; x</m>.  For contradiction, assume <m>y</m> is an upper bound for <m>S</m>.  Recall that each <m>x_n - \frac{1}{n}</m> is <em>not</em> an upper bound for <m>S</m>.  Since <m>y</m> is an upper bound, this implies <m>x_n - \frac{1}{n} < y</m>.  By the definition of the order relation, for each <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that for all <m>m &gt; N_n</m>, we have <m>x_n - \frac{1}{n} &lt; y_m</m>.  As in <xref ref="ub" />, we let <m>y_n' = y_{N_n+1}</m>, and it follows that <m>y = [ \{ y_n' \} ]</m>.  But by how we determined the <m>y_n'</m>, we have <m>x_n - \frac{1}{n} &lt; y_n'</m>.
+      </p>
+      <p>
+        We have <m>y &lt; x</m>, which means that there exists some <m>N \in \mathbb{N}</m> such that <m>y_n' &lt; x_n</m>.  Putting our inequalities together, we get <m>x_n - \frac{1}{n} &lt; y_n' &lt; x_n</m>, which implies <m>-\frac{1}{n} &lt; y_n' - x_n &lt; 0</m>.  By the Squeeze Theorem, we get <m>\{ y_n' - x_n \} \rightarrow 0</m>, which means that <m>y=x</m>.  This contradicts our assumption that <m>y &lt; x</m>, which completes the proof.
+      </p>
+    </proof>
+  </theorem>
+  
+
 </section>
