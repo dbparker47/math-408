@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="equiv-cauchy-reading" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Equivalence Relations to Define Real Numbers</title>
+  
+  <p>
+    As we saw in the last set of activities, each real number can be represented by many different rational Cauchy sequences.  This means that we cannot say the real numbers are literally the rational Cauchy sequences.  If we did, that would imply that we would have different Cauchy sequences that represent the same real number.  In other words, we would have many different real numbers that we would want to be equal.  This is contradictory.  So how do we get around this obstacle?
+  </p>
+
+  <p>
+    We actually have a very similar problem in defining fractions (i.e. the rational numbers).  For instance, we have <m>\frac{1}{2}</m> and <m>\frac{2}{4}</m> as different fractions representing the same number.  We resolve the issue of having different fractions representing the same number by distinguishing between the fractions and the numbers they represent.  Think about the language you used with fractions.  Nobody tried to tell you that <m>\frac12</m> and <m>\frac{2}{4}</m> are the same fractions.  That is ridiculous on its face, since you can plainly see that they are different.  You were taught that they are <em>equivalent</em> fractions.  If you connect this with what you were taught in Math 210 (and perhaps Math 315 or 350), this sounds a lot like some sort of <em>equivalence relation</em>.  Indeed, it is.  But before we continue with this part of the story, we  should step back and remind ourselves both what a relation is and specifically what an equivalence relation is.
+  </p>
+  <definition xml:id="def-relation">
+    <statement>
+      <p>
+        A relation on a set <m>A</m> is a rule that tells us when two elements of <m>A</m> are related.  If we let the symbol <m>\sim</m> represent this rule, and if we let <m>a,b \in A</m>, then the statement <m>a \sim b</m> means that <m>a</m> is related to <m>b</m> under the relation.
+      </p>
+    </statement>
+  </definition>
+
+  <p>
+    On the last problem of the last set of in-class activities, you actually found a rule for when two rational Cauchy sequences represent the same real number.  You figured out that two Cauchy sequences <m>\{ a_n \} = \{ a_1,a_2,a_3, \ldots \}</m> and <m>\{ b_n \} = \{ b_1,b_2,b_3, \ldots \}</m> represent the same real number when the sequence <m>\{  a_n - b_n \} = \{ a_1-b_1,a_2-b_2,a_3-b_3, \ldots \}</m> converges to 0.  This defines a relation. We say that <m>\{ a_n \} \sim \{ b_n \}</m> precisely when <m>\{  a_n - b_n \}</m> converges to 0.  The relation <m>\sim</m> is a mathematically precise expression of when two Cauchy sequences represent the same real number, just like a rule for determining when two fractions are equivalent is a mathematically precise expression of when two fractions represent the same rational number.
+  </p>
+
+  <p>
+    So is the relation <m>\sim</m> defined above an appropriate expression of what it means for two Cauchy sequences to represent the same real number?  Here are some very basic requirements that <m>\sim</m> should satisfy.
+    <ul>
+      <li>
+        <p>
+          Every Cauchy sequence represents the same number as itself.  In the language of the relation <m>\sim</m>, that means that if <m>\{ a_n \}</m> is a Cauchy sequence, then <m>\{ a_n \} \sim \{ a_n \}</m>.  This means that <m>\sim</m> had better have the <em>reflexive</em> property.
+        </p>
+      </li>
+      <li>
+        <p>
+          If you happen to have two Cauchy sequences <m>\{ a_n \}</m> and <m>\{ b_n \}</m> with <m>\{ a_n \} \sim \{ b_n \}</m>, that means that <m>\{ a_n \}</m> represents the same real number as <m>\{ b_n \}</m>.  Looked at from the opposite point of view, that says <m>\{ b_n \}</m> and <m>\{ a_n \}</m> represent the same real number.  That means that we must have <m>\{ b_n \} \sim \{ a_n \}</m>, which implies that we need <m>\sim</m> to have the <em>symmetric property</em>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Now imagine having three sequences <m>\{ a_n \}</m>, <m>\{ b_n \}</m>, and <m>\{ c_n \}</m> such that <m>\{ a_n \} \sim \{ b_n \}</m> and <m>\{ b_n \} \sim \{ c_n \}</m>.  That means <m>\{ a_n \}</m> and <m>\{ b_n \}</m> represent the same real number, and <m>\{ b_n \}</m> and <m>\{ c_n \}</m> represent the same real number.  Now <m>\{ b_n \}</m> can only represent one real number, so we must have <m>\{ a_n \}</m> and <m>\{ c_n \}</m> representing the same real number.  Thus, we must have <m>\{ a_n \} \sim \{ c_n \}</m>.  In other words, <m>\sim</m> must satisfy the <em>transitive property</em>.
+        </p>
+      </li>
+    </ul>
+  </p>
+
+  <p>
+    If we put all three of these properties together, we get what is called an <em>equivalence relation</em>.
+  </p>
+
+  <definition xml:id="def-equiv-rel">
+    <statement>
+      <p>
+        Let <m>A</m> be a set, and let <m>\sim</m> be a relation on <m>A</m>.  We say that <m>\sim</m> is an <em>equivalence relation</em> precisely when $\sim$ satisfies the following properties.
+        <ol>
+          <li>
+            <p>
+              <term>Reflexive Property</term>: For all <m>a \in A</m>, we have  <m>a \sim a</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <term>Symmetric Property</term>: Let <m>a,b \in A</m>.  If <m>a \sim b</m>, then <m>b \sim a</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <term>Transitive Property</term>: Let <m>a,b,c. \in A</m>.  If <m>a \sim b</m> and <m>b \sim c</m>, then <m>a \sim c</m>.
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </definition>
+
+  <p>
+    It is important to note that all of our analysis about the relation <m>\sim</m> on rational Cauchy sequences defined above does not prove that <m>\sim</m> is an equivalence relation.  It merely shows that if <m>\sim</m> is not an equivalence relation, then it is not an appropriate relation for defining when two rational Cauchy sequences represent the same real number.  Proving that <m>\sim</m> is an equivalence relation will be part of your job in the in-class activities.
+  </p>
+
+  <p>
+    Now let's pretend that we have proven that <m>\sim</m> is an equivalence relation.  Recall that once you have an equivalence relation on a set, that allows you to break up the set into <em>equivalence classes</em> as defined below.
+  </p>
+
+  <definition xml:id="def-equiv-class">
+    <statement>
+      <p>
+        Let <m>A</m> be a set, and let <m>\sim</m> be an equivalence relation on <m>A</m>.  For each <m>a \in A</m>, we define the equivalence class containing <m>a</m> as <m>[a] = \{ x \in A : x \sim a \}</m>.
+      </p>
+    </statement>
+  </definition>
+
+  <p>
+    What do you suppose each equivalence class of the Cauchy sequences of rational numbers represents?
+  </p>
+
+</section>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="complete-reading" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Completeness Axiom</title>
+  <p>
+    Now that we have proved that the real numbers are an ordered field, it remains to prove that they satisfy the Completeness Axiom.  So we assume <m>S \subseteq \mathbb{R}</m> is bounded above by some real number <m>r</m>.  We need to prove that there exists a least upper bound <m>x</m> of <m>S</m>.  To do this, we find a rational Cauchy sequence that represents <m>x</m>.  Before we tackle that, note that we can think of rational numbers in two ways.  We can think of it as an ordinary rational number, say <m>q \in \mathbb{Q}</m>.  But we can also think of it as a real number, which is an equivalence class of Cauchy sequences.  The easiest way to do this is to think of <m>q</m> as <m>[\{q,q,q,q, \ldots \}]</m>.  For our purposes, when we talk about making a rational number a term in a Cauchy sequence, we are thinking of it as an ordinary rational number.  But when we talk about a rational number as an upper bound for <m>S</m>, we are thinking of it as a real number.
+  </p>
+
+</section>

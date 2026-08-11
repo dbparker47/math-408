@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="order-reading" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Order Relation on the Real Numbers</title>
+  <p>
+    So far, here is where we are in our construction of the real numbers.  We have determined the elements of the set (i.e. equivalence classes of rational Cauchy sequences).  Also, we have defined addition and multiplication, which will make the real numbers a field (once you prove they satisfy the field axioms).  Our next step is to make the real numbers an ordered field.   Of course, that means that we have to define an order relation <m>&lt;</m> on the real numbers.  As before, we can assume that we have ordered the rational numbers to make them an ordered field.
+  </p>
+
+</section>

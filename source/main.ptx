@@ -81,6 +81,15 @@
       <xi:include href="./class-prep-materials/12-1-t.ptx" />
     </chapter>
 
+    <chapter xml:id="supp-read">
+      <title>Supplemental Readings</title>
+      <xi:include href="./readings/representing-reals.ptx" />
+      <xi:include href="./readings/equivalent-cauchy.ptx" />
+      <xi:include href="./readings/arithmetic.ptx" />
+      <xi:include href="./readings/order.ptx" />
+      <xi:include href="./readings/completeness.ptx" />
+    </chapter>
+
     <chapter xml:id="in-class-12">
       <title>In-Class Activities: Section 1.2</title>
       <xi:include href="./activities/section-12/1-irrational-numbers.ptx" />

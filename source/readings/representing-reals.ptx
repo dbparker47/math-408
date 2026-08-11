@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="rep-reals-reading" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representing Real Numbers with Cauchy Sequences</title>
+
+  <p>
+    Our next unit of study is on a construction of the real numbers.  As with any such construction, it is important to understand what we are allowed to assume.  The most important assumption is that we have already constructed the rational numbers.  That means that we can use rational numbers to construct real numbers, if that should prove useful.
+  </p>
+
+  <p>
+    Before we jump into the construction of the real numbers, let's recall the process we set up at the beginning of the course for constructing number systems in general.
+    <ol>
+      <li>
+        <p>
+          <term>Develop an intuitive understanding of what the numbers are like</term>:  This means engaging issues such as the following.
+          <ul>
+            <li>
+              <p>
+                How do the numbers in the number system relate to one another?
+              </p>
+            </li>
+            <li>
+              <p>
+                Are there any important operations we can do to the numbers in the number systems, particularly operations that are different than other number systems?
+              </p>
+            </li>
+            <li>
+              <p>
+                Can we develop any concrete models that help us understand the numbers?
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Make a list of axioms that your number system should satisfy</term>:  Axioms must be chosen carefully according to the following principles.
+          <ul>
+            <li>
+              <p>
+                Axiom list should be complete:  It should distinguish the number system from all other number systems.
+              </p>
+            </li>
+            <li>
+              <p>
+                Axiom list should not be redundant:  We should not be able to prove any of the axioms in the list from other axioms in the list.
+              </p>
+            </li>
+            <li>
+              <p>
+                Axioms should not contradict one another.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Construct a set and define any operations and/or relations on the set</term>: The construction must include all components necessary for a number system.
+          <ul>
+            <li>
+              <p>
+                We construct a valid set that tells us what the elements of the number system are.
+              </p>
+            </li>
+            <li>
+              <p>
+                We precisely define the operations and/or relations that give the number system structure.  These cannot merely be defined intuitively.
+              </p>
+            </li>
+            <li>
+              <p>
+                We make sure that our definition satisfies all the axioms.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Demonstrate Uniqueness of the Number System</term>:  Once we find one way of constructing the real numbers, we must show that all constructions that satisfy the axioms of the real numbers are essentially the same.
+          <ul>
+            <li>
+              <p>
+                We define what it means for two constructions to be equivalent.
+              </p>
+            </li>
+            <li>
+              <p>
+                We prove that all constructions of the real numbers are equivalent according to this definition.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+    </ol>
+  </p>
+
+  <p>
+    We have been working on this process for real numbers, and so far we have made our way through the first two steps.  For the first step, we leaned heavily on thinking of the real numbers as making up the points on a line (i.e. the number line).  The number line helps us understand what we mean by addition and multiplication of real numbers, as well as their order under <m>&lt;</m>.  Moreover, the fact that the line has no holes in it gives us some understanding of the connection between the real numbers and the completeness axiom.
+  </p>
+
+  <p>
+    Next, we developed a list of axioms that we believed define what it means to be a set of real numbers.  Specifically, we need the addition and multiplication operations to make the real numbers a <em>field</em>, and we need the ordering given by <m>&lt;</m> to make the real numbers an <em>ordered field</em>.    Finally, we need one more axiom to distinguish the real numbers from the rational numbers, namely the <em>completeness axiom</em>.
+  </p>
+
+  <p>
+    You may recall that once we had our axioms, it was quite difficult to imagine how we could find a way of constructing real numbers from the rational numbers.  That was why we had to spend so much time proving theorems based on the real number axioms.  We needed this to improve our understanding of real numbers to the point that we could construct them.  We now have those tools.  Here are two important observations that will get us there.
+    <ul>
+      <li>
+        <p>
+          <term>Between every two real numbers, there is a rational number.</term>:  This means that even though not every real number is a rational number, we can get as close as we want to any real number with a rational number.
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Convergent sequences can represent real numbers</term>:  If we think of a convergent sequence as representing the real number it converges to, this means that we can use a sequence of numbers close to a given real number to represent that real number.  Since we noted above that every real number is arbitrarily close to rational numbers, it follows that we should be able to use convergent sequences of rational numbers to represent real numbers.
+        </p>
+      </li>
+    </ul>
+  </p>
+
+  <p>
+    The only issue with our observations above is that if we restrict ourselves to the definition of convergent sequences, the only way we can show a sequence converges is to know the real number it converges to.  From the perspective of constructing the real numbers, this says that in order to know whether a sequence represents a real number, we need to know what the real number is in advance.  That is circular reasoning.  To get around this, we need a way of determining whether or not a sequence converges without knowing what it converges to.
+  </p>
+
+  <p>
+    Fortunately, we stumbled upon just such a way of doing that at the end of our study of the real number axioms.  We proved that a sequence is convergent if and only if it is a Cauchy sequence.  Since the definition of a Cauchy sequence does not require us to know what the sequence converges to, this empowers us to represent real numbers with Cauchy sequences of rational numbers.  Let's look at an example.
+  </p>
+  <example>
+    <statement>
+      <p>
+        Consider the sequence <m>\{ 1, \frac12, \frac13, \frac14, \ldots \} = \{ \frac{1}{n} \}</m>.  We know this sequence converges to 0, so this is a Cauchy sequence that represents the number 0.
+      </p>
+    </statement>
+  </example>
+
+  <p>
+    For the in-class activities, you will be dealing with some important issues.
+    <ol>
+      <li>
+        <p>
+          We made things easy for ourselves in the above example by having a sequence that represents 0, which is a rational number.  How do we represent irrational numbers?
+        </p>
+      </li>
+      <li>
+        <p>
+          It doesn't take too much imagination to see that there can be many different sequences that represent the same real number (can you come up with a different sequence than in the above example that represents 0?).  How can we tell when two sequences represent the same real number?  We can't merely say that the two sequences converge to the same number, since we may not know what the limits of the sequences are (remember that we only know that the sequences are Cauchy, not the real numbers they converge to).  We need a test that depends only on our understanding of sequences and rational numbers that doesn't depend on knowing the limits of the sequences in advance.
+        </p>
+      </li>
+    </ol>
+  </p>
+
+  <p>
+    Now go ahead and work on the in-class activities for <em>Representing Real Numbers</em>.
+  </p>
+
+</section>
