@@ -99,35 +99,35 @@
         <ol>
           <li xml:id="cauch">
             <p>
-              $x \in \mathbb{R}$.
+              <m>x \in \mathbb{R}</m>.
             </p>
           </li>
           <li xml:id="ub">
             <p>
-              $x$ is an upper bound of $S$.
+              <m>x</m> is an upper bound of <m>S</m>.
             </p>
           </li>
           <li xml:id="lub">
             <p>
-              Any real number smaller than $x$ is not an upper bound of $S$.
+              Any real number smaller than <m>x</m> is not an upper bound of <m>S</m>.
             </p>
           </li>
         </ol>
       </p>
       <p>
-        For (\ref{cauch}), we need to prove that $\{ x_n \}$ is Cauchy.  We already know that $\{ x_n \}$ is decreasing.  You proved in Homework \#6 that any bounded monotone sequence is Cauchy (actually, you proved it for increasing sequences, but a ``mirror-image'' proof works for decreasing sequences).  We thus only need to prove that $\{ x_n \}$ is bounded below.  If we take some $s \in S$, we have $s=[ \{ s_1, s_2, \ldots \} ]$, where $\{ s_m \}$ is Cauchy.  Since each $x_n$ is an upper bound of $S$, we have $x_n \ge s$ for all $n$.  So for each $n$, either $x_n=s$ or there exists some $N \in \mathbb{N}$ such that for all $m>N$, we have $x_n > s_m$.  Note that this is just applying the definition of $<$ and letting $\{ x_n, x_n, x_n, \ldots \}$ represent $x_n$.  In either case, each $x_n$ is bounded below by any lower bound of $\{ s_m \}$.  Note that $\{ s_m \}$ is bounded below since it is Cauchy. That means $\{ x_n \}$ is bounded below as well, so it is Cauchy and $x \in \mathbb{R}$.
+        For <xref ref="cauch" />, we need to prove that <m>\{ x_n \}</m> is Cauchy.  We already know that <m>\{ x_n \}</m> is decreasing.  You proved in Homework #6 that any bounded monotone sequence is Cauchy (actually, you proved it for increasing sequences, but a <q>mirror-image</q> proof works for decreasing sequences).  We thus only need to prove that <m>\{ x_n \}</m> is bounded below.  If we take some <m>s \in S</m>, we have <m>s=[ \{ s_1, s_2, \ldots \} ]</m>, where <m>\{ s_m \}</m> is Cauchy.  Since each <m>x_n</m> is an upper bound of <m>S</m>, we have <m>x_n \ge s</m> for all <m>n</m>.  So for each <m>n</m>, either <m>x_n=s</m> or there exists some <m>N \in \mathbb{N}</m> such that for all <m>m &gt; N</m>, we have <m>x_n &gt; s_m</m>.  Note that this is just applying the definition of <m>&gt;</m> and letting <m>\{ x_n, x_n, x_n, \ldots \}</m> represent <m>x_n</m>.  In either case, each <m>x_n</m> is bounded below by any lower bound of <m>\{ s_m \}</m>.  Note that <m>\{ s_m \}</m> is bounded below since it is Cauchy. That means <m>\{ x_n \}</m> is bounded below as well, so it is Cauchy and <m>x \in \mathbb{R}</m>.
       </p>
       <p>
-        For (\ref{ub}), we assume $s = [ \{ s_m \} ] \in S$ and show that $x \ge s$.  As before, we note that each $x_n$ is an upper bound of $S$, so $x_n \ge s$.  We will be a little more careful with notation, and note that this means, for each $n$, either $x_n=s$ or there exists $N_n \in \mathbb{N}$ such that for all $m > N_n$, we have $x_n > s_m$.
+        For <xref ref="ub" />, we assume <m>s = [ \{ s_m \} ] \in S</m> and show that <m>x \ge s</m>.  As before, we note that each <m>x_n</m> is an upper bound of <m>S</m>, so <m>x_n \ge s</m>.  We will be a little more careful with notation, and note that this means, for each <m>n</m>, either <m>x_n=s</m> or there exists <m>N_n \in \mathbb{N}</m> such that for all <m>m > N_n</m>, we have <m>x_n &gt; s_m</m>.
       </p>
       <p>
         If we ever have <m>x_n = s</m>, recall that <m>\{ x_n \}</m> is a decreasing sequence, so for all <m>m &gt; n</m>, we have <m>x_n \ge x_m</m>.  But also recall that <m>x_m</m> is an upper bound for <m>S</m>, and so <m>x_m \ge s</m>.  We then have <m>s = x_n \ge x_m \ge s</m>.  This implies that <m>x_m=s</m>.  Thus, <m>x_m=s</m> for all <m>m \ge n</m>, and so the sequence converges to <m>s</m>.  It follows that <m>x=s</m>, and so <m>x \ge s</m>.
       </p>
       <p>
-        This leaves the case that for all <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that whenever <m>m &gt; N_n</m>, we have <m>x_n &gt; s_m</m>.  Now we do a little subsequence magic by defining </m>s_n' = s_{N_n+1}</m>.  We proved that subsequences are equivalent to the original sequences, so <m>s = \{ s_n' \}</m>.  By the way we derived <m>N_n</m>, we also have <m>x_n &gt; s_n'</m>.  By the definition of the order relation, this implies <m>x \ge s</m>, which proves that <m>x</m> is an upper bound for <m>S</m>.
+        This leaves the case that for all <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that whenever <m>m &gt; N_n</m>, we have <m>x_n &gt; s_m</m>.  Now we do a little subsequence magic by defining <m>s_n' = s_{N_n+1}</m>.  We proved that subsequences are equivalent to the original sequences, so <m>s = \{ s_n' \}</m>.  By the way we derived <m>N_n</m>, we also have <m>x_n &gt; s_n'</m>.  By the definition of the order relation, this implies <m>x \ge s</m>, which proves that <m>x</m> is an upper bound for <m>S</m>.
       </p>
       <p>
-        Finally, we must prove that any real number less than <m>x</m> is not an upper bound for <m>S</m>.  Let <m>y = [ \{ y_m \} ] \in \mathbb{R}</m> with <m>y &lt; x</m>.  For contradiction, assume <m>y</m> is an upper bound for <m>S</m>.  Recall that each <m>x_n - \frac{1}{n}</m> is <em>not</em> an upper bound for <m>S</m>.  Since <m>y</m> is an upper bound, this implies <m>x_n - \frac{1}{n} < y</m>.  By the definition of the order relation, for each <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that for all <m>m &gt; N_n</m>, we have <m>x_n - \frac{1}{n} &lt; y_m</m>.  As in <xref ref="ub" />, we let <m>y_n' = y_{N_n+1}</m>, and it follows that <m>y = [ \{ y_n' \} ]</m>.  But by how we determined the <m>y_n'</m>, we have <m>x_n - \frac{1}{n} &lt; y_n'</m>.
+        Finally, we must prove that any real number less than <m>x</m> is not an upper bound for <m>S</m>.  Let <m>y = [ \{ y_m \} ] \in \mathbb{R}</m> with <m>y &lt; x</m>.  For contradiction, assume <m>y</m> is an upper bound for <m>S</m>.  Recall that each <m>x_n - \frac{1}{n}</m> is <em>not</em> an upper bound for <m>S</m>.  Since <m>y</m> is an upper bound, this implies <m>x_n - \frac{1}{n} &lt; y</m>.  By the definition of the order relation, for each <m>n \in \mathbb{N}</m>, there exists <m>N_n \in \mathbb{N}</m> such that for all <m>m &gt; N_n</m>, we have <m>x_n - \frac{1}{n} &lt; y_m</m>.  As in <xref ref="ub" />, we let <m>y_n' = y_{N_n+1}</m>, and it follows that <m>y = [ \{ y_n' \} ]</m>.  But by how we determined the <m>y_n'</m>, we have <m>x_n - \frac{1}{n} &lt; y_n'</m>.
       </p>
       <p>
         We have <m>y &lt; x</m>, which means that there exists some <m>N \in \mathbb{N}</m> such that <m>y_n' &lt; x_n</m>.  Putting our inequalities together, we get <m>x_n - \frac{1}{n} &lt; y_n' &lt; x_n</m>, which implies <m>-\frac{1}{n} &lt; y_n' - x_n &lt; 0</m>.  By the Squeeze Theorem, we get <m>\{ y_n' - x_n \} \rightarrow 0</m>, which means that <m>y=x</m>.  This contradicts our assumption that <m>y &lt; x</m>, which completes the proof.
@@ -135,5 +135,8 @@
     </proof>
   </theorem>
   
+  <p>
+    As a corollary, we get that <m>\mathbb{R}</m> satisfies the Completeness Axiom, which was the goal of this whole journey.
+  </p>
 
 </section>
