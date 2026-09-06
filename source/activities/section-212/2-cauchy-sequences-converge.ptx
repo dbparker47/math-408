@@ -79,7 +79,7 @@
         </li>
         <li>
           <p>
-            Let <m>m \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - b_n \right|  &lt; \epsilon</m>.
+            Let <m>n \in \mathbb{N}</m>. Prove there exists <m>m \ge n</m> such that <m>\left| x_m - b_n \right|  &lt; \epsilon</m>.
           </p>
         </li>
         <li>
