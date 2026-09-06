@@ -87,7 +87,7 @@
               </li>
               <li>
                 <p>
-                  Prove that <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.
+                  Prove that <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>. You may use the fact that <m>\{ \frac{1}{n} \}</m> and <m>\{ \frac{1}{n^2} \}</m> both converge to 0.
                 </p>
               </li>
             </ol>
