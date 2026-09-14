@@ -59,7 +59,7 @@
             </li>
             <li>
                 <p>
-                    When you define <m>B_{k+1}</m>, you will probably want it to be <m>B_k</m> or <m>B_k-\frac{1}{k}</m>, depending on whether or not <m>B_k-\frac{1}{k}</m> is an upper bound for <m>\{ x_n \}</m>.
+                    When you define <m>B_{k+1}</m>, you will probably want it to be <m>B_k</m> or <m>B_k-\frac{1}{k+1}</m>, depending on whether or not <m>B_k-\frac{1}{k+1}</m> is an upper bound for <m>\{ x_n \}</m>.
                 </p>
             </li>
             <li>
@@ -75,7 +75,7 @@
   <exercise>
     <statement>
       <p>
-        (35 pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>N_k \in \mathbb{N}</m> such that for all <m>m,n \in N_k</m>, we have <m>|x_m-x_n| &lt; \frac{1}{k}</m>.  Keep in mind the following.
+        (35 pts.) Prove that, for each <m>k \ge 1</m>, there exists <m>N_k \in \mathbb{N}</m> such that for all <m>m,n &gt; N_k</m>, we have <m>|x_m-x_n| &lt; \frac{1}{k}</m>.  Keep in mind the following.
         <ul>
             <li>
                 <p>
