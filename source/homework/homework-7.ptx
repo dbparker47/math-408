@@ -53,7 +53,7 @@
   <exercise>
     <statement>
       <p>
-        (12 pts.) Associative Property of Addition: For all <m>X,Y,Z \in \mathbb{R}</m>, we have <m>(X+Y)+Z=X+(Y+Z)</m>.
+        (12 pts.) Associative Property of Addition: For all <m>X,Y,W \in \mathbb{R}</m>, we have <m>(X+Y)+W=X+(Y+W)</m>.
       </p>
     </statement>
   </exercise>
@@ -61,7 +61,7 @@
   <exercise>
     <statement>
       <p>
-        (12 pts.) Associative Property of Multiplication: For all <m>X,Y,Z \in \mathbb{R}</m>, we have <m>(XY)Z=X(YZ)</m>.
+        (12 pts.) Associative Property of Multiplication: For all <m>X,Y,W \in \mathbb{R}</m>, we have <m>(XY)W=X(YW)</m>.
       </p>
     </statement>
   </exercise>
@@ -93,7 +93,7 @@
   <exercise>
     <statement>
       <p>
-        (13 pts.) Distributive Property: For every <m>X,Y,Z \in \mathbb{R}</m>, we have <m>X(Y+Z)=XY+XZ</m>.
+        (13 pts.) Distributive Property: For every <m>X,Y,W \in \mathbb{R}</m>, we have <m>X(Y+W)=XY+XW</m>.
       </p>
     </statement>
   </exercise>
