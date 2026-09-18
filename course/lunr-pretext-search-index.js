@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #6 - Math 408",
-  "body": " Homework Assignment #6 - Math 408    Due Sunday, 10\/25   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers. The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom). In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers. Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.   Well-Ordering Principle : Every nonempty bounded below set of integers has a minimum element.  For the entire assignment, assume that is a bounded increasing sequence.    (35 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.         (35 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .         (30 pts.) Prove that is a Cauchy sequence.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #6 - Math 408    Due Sunday, 10\/25   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   From now until we finish constructing the real numbers, we are assuming all numbers in sequences are rational numbers. The mathematical goal of this assignment is to prove that every bounded increasing sequence of rational numbers is a Cauchy sequence (without using the Completeness Axiom). In addition to being a good exercise in pretending irrational numbers do not yet exist, it will (hopefully) also help you understand how we prove the Completeness Axiom for our eventual construction of the real numbers. Note that even though we do not get to assume the existence of any irrational numbers, we do get to assume all axioms of the rational numbers, which includes this extremely important axiom, which I like to think of as the completeness axiom for integers.   Well-Ordering Principle : Every nonempty bounded below set of integers has a minimum element.  For the entire assignment, assume that is a bounded increasing sequence.    (65 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.         (24 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .         (11 pts.) Prove that is a Cauchy sequence.      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-6-408-4",
@@ -277,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (35 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.      "
+  "body": "  (65 pts.) Prove that, for each , there exists such that is an upper bound of and such that is not an upper bound of . Here is some advice you may want to consider.   I suggest determining recursively, so you will likely be proving this by induction.    The Well-Ordering Principle will be helpful for determining .    When you define , you will probably want it to be or , depending on whether or not is an upper bound for .    As I mentioned above, you will likely be proving this by induction, so make sure your induction hypothesis includes everything that you are both allowed to assume and will need to prove the inductive step.      "
 },
 {
   "id": "hw-6-408-7",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  (35 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .      "
+  "body": "  (24 pts.) Prove that, for each , there exists such that for all , we have . Keep in mind the following.   Remember that is increasing.    You will likely be playing around with inequalities involving and the .      "
 },
 {
   "id": "hw-6-408-8",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  (30 pts.) Prove that is a Cauchy sequence.   "
+  "body": "  (11 pts.) Prove that is a Cauchy sequence.   "
 },
 {
   "id": "hw-6-408-9",
@@ -313,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #7 - Math 408",
-  "body": " Homework Assignment #7 - Math 408    Due Sunday, 11\/8   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the field axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is a field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. However, you may use the fact that a convergent sequence is Cauchy. Also, any time you are proving a there exists theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy. Here are the properties you are proving for .    (12 pts.) Commutative Property of Addition: For all , we have .      (12 pts.) Commutative Property of Multiplication: For all , we have .      (12 pts.) Associative Property of Addition: For all , we have .      (12 pts.) Associative Property of Multiplication: For all , we have .      (13 pts.) Additive Identity: There exists such that for all , we have .      (13 pts.) Multiplicative Identity: There exists such that for all , we have .      (13 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .      (13 pts.) Distributive Property: For every , we have .      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #7 - Math 408    Due Sunday, 11\/8   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the field axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is a field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. However, you may use the fact that a convergent sequence is Cauchy. Also, any time you are proving a there exists theorem where you construct a real number to represent a number (e.g. additive and multiplicative identities), you must prove the sequence representing the real number is Cauchy. Here are the properties you are proving for .    (8 pts.) Commutative Property of Addition: For all , we have .      (8 pts.) Commutative Property of Multiplication: For all , we have .      (15 pts.) Associative Property of Addition: For all , we have .      (14 pts.) Associative Property of Multiplication: For all , we have .      (13 pts.) Additive Identity: There exists such that for all , we have .      (13 pts.) Multiplicative Identity: There exists such that for all , we have .      (14 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .      (15 pts.) Distributive Property: For every , we have .      (5 pts.) Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-7-408-4",
@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (12 pts.) Commutative Property of Addition: For all , we have .   "
+  "body": "  (8 pts.) Commutative Property of Addition: For all , we have .   "
 },
 {
   "id": "hw-7-408-5",
@@ -331,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  (12 pts.) Commutative Property of Multiplication: For all , we have .   "
+  "body": "  (8 pts.) Commutative Property of Multiplication: For all , we have .   "
 },
 {
   "id": "hw-7-408-6",
@@ -340,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  (12 pts.) Associative Property of Addition: For all , we have .   "
+  "body": "  (15 pts.) Associative Property of Addition: For all , we have .   "
 },
 {
   "id": "hw-7-408-7",
@@ -349,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  (12 pts.) Associative Property of Multiplication: For all , we have .   "
+  "body": "  (14 pts.) Associative Property of Multiplication: For all , we have .   "
 },
 {
   "id": "hw-7-408-8",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
-  "body": "  (13 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .   "
+  "body": "  (14 pts.) Additive Inverse: Let be the additive identity from #5. For every , there exists such that .   "
 },
 {
   "id": "hw-7-408-11",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "",
-  "body": "  (13 pts.) Distributive Property: For every , we have .   "
+  "body": "  (15 pts.) Distributive Property: For every , we have .   "
 },
 {
   "id": "hw-7-408-12",
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #8 - Math 408",
-  "body": " Homework Assignment #8 - Math 408    Due Sunday, 11\/15   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the order axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is an ordered field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.    Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .    Here are the properties you are proving for .    (33 pts.) Transitive Property: For all , if and , then .      (33 pts.) Translation Invariance: For all , if , then .      (34 pts.) Scaling: For all , if and , then .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #8 - Math 408    Due Sunday, 11\/15   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Your mission for this week is to prove most of the order axioms for our construction of the real numbers. There are a few more challenging axioms that you will be working on for your portfolio project. For all the problems below, you may assume that is an ordered field and that consists of all equivalence classes of Cauchy sequences of rational numbers under the relation we defined in class. You may not assume Cauchy sequences converge. Also, here is a theorem you proved on Homework Assignment #5 that may be helpful.    Let be a Cauchy sequence that does not converge to zero. Then there exists an and such that for all , we have .    Here are the properties you are proving for .    (36 pts.) Transitive Property: For all , if and , then .      (32 pts.) Translation Invariance: For all , if , then .      (32 pts.) Scaling: For all , if and , then .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "thm-old-hw",
@@ -421,7 +421,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (33 pts.) Transitive Property: For all , if and , then .   "
+  "body": "  (36 pts.) Transitive Property: For all , if and , then .   "
 },
 {
   "id": "hw-8-408-7",
@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  (33 pts.) Translation Invariance: For all , if , then .   "
+  "body": "  (32 pts.) Translation Invariance: For all , if , then .   "
 },
 {
   "id": "hw-8-408-8",
@@ -439,7 +439,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  (34 pts.) Scaling: For all , if and , then .   "
+  "body": "  (32 pts.) Scaling: For all , if and , then .   "
 },
 {
   "id": "hw-8-408-9",
@@ -457,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework Assignment #9 - Math 408",
-  "body": " Homework Assignment #9 - Math 408    Due Sunday, 11\/22   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   Here are the problems.    (50 pts.) Let be an increasing function, and let . Define and . Assume .   If , prove that . Hint: First prove that for all .    Prove that is continuous at .         Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
+  "body": " Homework Assignment #9 - Math 408    Due Sunday, 11\/22   For this assignment, you will solve the problems given below with the following requirements.   Each solution (with the possible exception of the portfolio report) consists of a clear statement of the theorem (or theorems) you are proving, followed by the proof of the theorem(s).    You must write your assignment according to the writing criteria included with this assignment. These should be consistent with what you learned in Math 210.    The last problem is a progress report for at least one of your portfolio problems. Follow the instructions given for that problem.   You may either submit a hard copy of your paper in class or submit your paper on Blackboard as a PDF file. If you submit your paper electronically, it must be as a PDF file .   For both of the problems below, let be an increasing function, and let . Define and . Assume .    (37 pts.) If , prove that . Hint: First prove that for all .      (63 pts.) Prove that is continuous at .      Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.    "
 },
 {
   "id": "hw-9-408-4",
@@ -466,7 +466,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (50 pts.) Let be an increasing function, and let . Define and . Assume .   If , prove that . Hint: First prove that for all .    Prove that is continuous at .      "
+  "body": "  (37 pts.) If , prove that . Hint: First prove that for all .   "
 },
 {
   "id": "hw-9-408-5",
@@ -474,6 +474,15 @@ var ptx_lunr_docs = [
   "url": "hw-9-408.html#hw-9-408-5",
   "type": "Worksheet Exercise",
   "number": "2",
+  "title": "",
+  "body": "  (63 pts.) Prove that is continuous at .   "
+},
+{
+  "id": "hw-9-408-6",
+  "level": "2",
+  "url": "hw-9-408.html#hw-9-408-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
   "title": "",
   "body": "  Work on one of the portfolio problems, and write a progress report on your work. Your progress report will include one of the following.   A statement of your theorem and a complete proof. I will give constructive comments on your proof.    A partial proof along with both a description of the strategies you employed and specific questions that you want me to consider. I will give constructive comments on your proof.    A description of the strategies you employed and specific questions that you want me to consider.   Make your report clear and organized. Take effort to carefully articulate any description of your strategies, and make your questions specific and carefully worded.   "
 },
