@@ -31,25 +31,21 @@
   </introduction>
 
   <p>
-    Here are the problems.
+    For both of the problems below, let <m>f: (a,b) \rightarrow \mathbb{R}</m> be an increasing function, and let <m>c \in (a,b)</m>.  Define <m>A = \{ f(x) : x &lt; c \}</m> and <m>B = \{ f(x) : x &gt; c \}</m>.  Assume <m>\sup(A) = \inf(B)</m>.
   </p>
 
   <exercise>
     <statement>
       <p>
-        (50 pts.) Let <m>f: (a,b) \rightarrow \mathbb{R}</m> be an increasing function, and let <m>c \in (a,b)</m>.  Define <m>A = \{ f(x) : x &lt; c \}</m> and <m>B = \{ f(x) : x &gt; c \}</m>.  Assume <m>\sup(A) = \inf(B)</m>.
-        <ol>
-          <li>
-            <p>
-              If <m>\alpha = \sup(A) = \inf(B)</m>, prove that <m>f(c)= \alpha</m>.  Hint: First prove that <m>|f(c)-\alpha| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.
-            </p>
-          </li>
-          <li>
-            <p>
-              Prove that <m>f</m> is continuous at <m>x=c</m>.
-            </p>
-          </li>
-        </ol>
+        (37 pts.) If <m>\alpha = \sup(A) = \inf(B)</m>, prove that <m>f(c)= \alpha</m>.  Hint: First prove that <m>|f(c)-\alpha| &lt; \epsilon</m> for all <m>\epsilon &gt; 0</m>.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        (63 pts.) Prove that <m>f</m> is continuous at <m>x=c</m>.
       </p>
     </statement>
   </exercise>
