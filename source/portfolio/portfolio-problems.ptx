@@ -43,7 +43,7 @@
   <exercise>
     <statement>
       <p>
-        Let <m>I</m> be an interval that is bounded above and bounded below. Prove that <m>I=[a,b]</m>, <m>[a,b)</m>, <m>(a,b]</m>, or <m>(a,b)</m> for some real numbers <m>a</m> and <m>b</m>.
+        Let <m>I</m> be an interval that is bounded above and bounded below. Prove that <m>I=[a,b]</m>, <m>[a,b)</m>, <m>(a,b]</m>, or <m>(a,b)</m> for some real numbers <m>a</m> and <m>b</m>.  For this problem only, you may use the fact that any set of real numbers that is bounded below has an infimum (which follows from the completeness axiom).
       </p>
     </statement>
   </exercise>
