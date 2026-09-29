@@ -51,7 +51,7 @@
   <exercise>
     <statement>
       <p>
-        Suppose that <m>S</m> is an infinite set (maybe countably infinite, maybe not), and let <m>T = \{ x_1,x_2, \ldots , x_n \}</m> (i.e. <m>T</m> is a finite set).  Prove that <m>S</m> and <m>S \cup T</m> have the same cardinality.  In other words, prove there is a function <m>f: S \rightarrow (S \cup T)</m> that is one-to-one and onto. Hint:  Warm up by solving the problem for the case that <m>S</m> is countably infinite, and then do the case where <m>S</m> is uncountable.
+        Suppose that <m>S</m> is an infinite set (maybe countably infinite, maybe not), and let <m>T = \{ x_1,x_2, \ldots , x_n \}</m> (i.e. <m>T</m> is a finite set) that is disjoint from <m>S</m>.  Prove that <m>S</m> and <m>S \cup T</m> have the same cardinality.  In other words, prove there is a function <m>f: S \rightarrow (S \cup T)</m> that is one-to-one and onto. Hint:  Warm up by solving the problem for the case that <m>S</m> is countably infinite, and then do the case where <m>S</m> is uncountable.
       </p>
     </statement>
   </exercise>
