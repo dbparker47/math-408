@@ -26,7 +26,7 @@
     <chapter xml:id="exam">
       <title>Exams</title>
       <p>Not yet available</p>
-      <!-- <xi:include href="./exams/exam-1.ptx"/> -->
+      <xi:include href="./exams/exam-1.ptx"/>
       <!-- <xi:include href="./exams/exam-2.ptx"/> -->
       <!-- <xi:include href="./exams/exam-3.ptx"/> -->
 
