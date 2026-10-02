@@ -55,13 +55,49 @@ var ptx_lunr_docs = [
   "body": " LaTeX Resources for Math 408  The following are resources for LaTeX that you may find helpful. The links are active, so you need only click on the link to navigate to the webpage or file.      Overleaf : A website where you can create, save, and download LaTeX documents. It is free as long as you don't need to many extra features.    YouTube: Former GVSU professor Robert Talbert made a series of LaTeX videos back in 2012. Despite their ancient origins, they are still excellent for today. Ignore the outdated references to ScribTeX.    What is LaTeX?      Your First LaTeX Document      Basic Mathematics in LaTeX      Intermediate Mathematics in LaTeX      Two LaTeX Case Studies      Formatting Text in LaTeX      Environments in LaTeX      The Equation Environment      The Align Environment      Lists in LaTeX      Tables in LaTeX         LaTeX in Wikibooks : This is an excellent reference for anything you want to learn about LaTeX. I have used it many times when I have forgotten or didn't know how to do something in LaTeX.     OEIS List of LaTeX Mathematical Symbols : This is a pretty complete list of the symbols (along with LaTeX commands) that you might use in writing mathematics.     Kirelabs : At this link, you can draw a picture of a symbol, and the website will find the command that will create the symbol. It is really helpful when you don't know the name of the symbol.    The following are websites where you can download LaTeX onto your own computer for free. I'm happy to help you with this if you need me. You don't have to do this if you like using Overleaf.    MikTeX : For Windows, Linux, and Mac users.     MacTeX : For Mac users.        Homework Template : You are welcome to format your homework assignments however you want, but here is a simple template if you don't want to bother with anything elaborate.     "
 },
 {
-  "id": "exam",
+  "id": "exam-1-408",
   "level": "1",
-  "url": "exam.html",
-  "type": "Chapter",
+  "url": "exam-1-408.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Exams",
-  "body": " Exams  Not yet available     "
+  "title": "Exam 1 - Math 408",
+  "body": " Exam 1 - Math 408    For this exam, you will solve the problems given below with the following requirements.   Each solution consists of a proof of the theorem implied by the problem.    You must write your proof according to the writing criteria required in the homework assignments.    All steps must be justified by definitions, your previously proven steps, or by facts we proved in class or in videos.         (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .  >       (25 pts.) Let be a real number, and assume that . Prove that .      (25 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , and\/or .    Find a formula for in terms of , and\/or .   Notice that I am only asking you to do the case. You do not need to do the case.      (25 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.    "
+},
+{
+  "id": "exam-1-408-3",
+  "level": "2",
+  "url": "exam-1-408.html#exam-1-408-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .  >    "
+},
+{
+  "id": "exam-1-408-4",
+  "level": "2",
+  "url": "exam-1-408.html#exam-1-408-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  (25 pts.) Let be a real number, and assume that . Prove that .   "
+},
+{
+  "id": "exam-1-408-5",
+  "level": "2",
+  "url": "exam-1-408.html#exam-1-408-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  (25 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , and\/or .    Find a formula for in terms of , and\/or .   Notice that I am only asking you to do the case. You do not need to do the case.   "
+},
+{
+  "id": "exam-1-408-6",
+  "level": "2",
+  "url": "exam-1-408.html#exam-1-408-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  (25 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.   "
 },
 {
   "id": "writing-criteria",
