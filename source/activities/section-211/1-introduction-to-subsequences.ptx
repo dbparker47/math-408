@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="subsequences">
   <title>Subsequences</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       For a sequence <m>\{ x_n \}</m>, let <m>S_n = \{ x_n, x_{n+1}, x_{n+2}, \ldots \}</m>, <m>a_n = \inf(S_n)</m>, and <m>b_n= \sup(S_n)</m>.
@@ -15,24 +13,24 @@
     <statement>
       <p>
         Find all possible limits of subsequences for the following.  This may include <m>\infty</m> or <m>-\infty</m>.
+        <ol>
+          <li>
+            <p>
+              <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\left\{ 2^{n(-1)^n} \right\}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>\left\{ 2^{n(-1)^n} \right\}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="irrational-numbers">
   <title>Irrational Numbers</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       
     </p>
   </introduction>
 
-  <!-- Exercises start here. -->
   <exercise>
     <statement>
       <p>
         Consider <m>\sqrt{3}</m>, <m>\sqrt{5}</m>, <m>\sqrt{6}</m>, and <m>\sqrt{15}</m>.
+        <ol>
+          <li>
+            <p>
+              Using our model of real numbers being displacements, show that all of these are real numbers. Hint: <m>\sqrt{2}</m> has already been established as a displacement.
+            </p>
+          </li>
+          <li>
+            <p>
+              Prove that each of the above numbers is an irrational number.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            Using our model of real numbers being displacements, show that all of these are real numbers. Hint: <m>\sqrt{2}</m> has already been established as a displacement.
-          </p>
-        </li>
-        <li>
-          <p>
-            Prove that each of the above numbers is an irrational number.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="increasing-decreasing">
   <title>Increasing &amp; Decreasing Functions</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Solve the following problems on increasing and decreasing functions.
@@ -31,29 +29,29 @@
     <statement>
       <p>
         For <m>f</m> a real-valued function, prove the following.
+        <ol>
+          <li>
+            <p>
+              <m>f</m> is increasing <m>\Rightarrow g=-f</m> is decreasing.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f</m> is decreasing <m>\Rightarrow g=-f</m> is increasing.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f</m> is increasing <m>\Rightarrow g(x)=f(-x)</m> is decreasing.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f</m> is decreasing <m>\Rightarrow g(x)=f(-x)</m> is increasing.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>f</m> is increasing <m>\Rightarrow g=-f</m> is decreasing.
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>f</m> is decreasing <m>\Rightarrow g=-f</m> is increasing.
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>f</m> is increasing <m>\Rightarrow g(x)=f(-x)</m> is decreasing.
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>f</m> is decreasing <m>\Rightarrow g(x)=f(-x)</m> is increasing.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

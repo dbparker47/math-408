@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="cardinality">
   <title>Cardinality</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Solve the following problems related to cardinality.
@@ -15,24 +13,24 @@
     <statement>
       <p>
         Which of the following is countable?  Prove your answer.
+        <ol>
+          <li>
+            <p>
+              <m>{\mathbb Z}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              Set of odd integers
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>{\mathbb Z} \cup \{ \sqrt{2} \}</m>
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>{\mathbb Z}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            Set of odd integers
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>{\mathbb Z} \cup \{ \sqrt{2} \}</m>
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 
@@ -40,24 +38,24 @@
     <statement>
       <p>
         Determine whether or not the following have the same cardinality, and prove your answer.
+        <ol>
+          <li>
+            <p>
+              <m>(2,7)</m> and <m>(4,10)</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>[3,9]</m> and <m>[5,8]</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              (Not on quiz) <m>(1,2)</m> and <m>(1,2]</m>.  Hint:  Use the set <m>\{ 1, \frac12, \frac13, \frac14, \ldots \}</m> to take care of 2 like in #1(c).  Then take care of the other numbers.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>(2,7)</m> and <m>(4,10)</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>[3,9]</m> and <m>[5,8]</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            (Not on quiz) <m>(1,2)</m> and <m>(1,2]</m>.  Hint:  Use the set <m>\{ 1, \frac12, \frac13, \frac14, \ldots \}</m> to take care of 2 like in #1(c).  Then take care of the other numbers.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

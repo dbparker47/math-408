@@ -86,29 +86,55 @@
           </li>
           <li>
             <p>
-              Multiplicative Inverse:  Let <m>Z</m> be the additive identity and <m>I</m> be the multiplicative identity of <m>\mathbb{R}</m>. Prove that for each <m>X \in \mathbb{R}</m> with <m>X \ne Z</m>, there exists some <m>Y \in \mathbb{R}</m> such that <m>X \cdot Y=I</m>.
+              Multiplicative Inverse:  Let <m>Z</m> be the additive identity and <m>I</m> be the multiplicative identity of <m>\mathbb{R}</m>. Prove that for each <m>X \in \mathbb{R}</m> with <m>X \ne Z</m>, there exists some <m>Y \in \mathbb{R}</m> such that <m>X \cdot Y=I</m>.  You do <alert>NOT</alert> need to do a full proof that your <m>Y</m> is a real number.  Just do enough computations and explanation to show why it is a real number.
             </p>
           </li>
           <li>
             <p>
-              The order relation <m>&lt;</m> is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, we will get the same determination of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> regardless of which sequences we choose from <m>X</m> and <m>Y</m>.
+              The order relation <m>&lt;</m> is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, we will get the same determination of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> regardless of which sequences we choose from <m>X</m> and <m>Y</m>. Hint: You are likely to prove this using proof by contradiction.  When you set up your contradiction, I suggest the following.
+              <ol>
+                <li>
+                  <p>
+                    Express your contradiction assumption as inequalities.  You will likely have four inequalities to play with.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Set up your inequalities so that they do not have any absolute value signs in them.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Play with your inequalities until you find your contradiction.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
           <li>
             <p>
-              Trichotomy: For all <m>X,Y \in \mathbb{R}</m>, either <m>X &lt; Y</m>, <m>X=Y</m>, or <m>Y &lt; X</m>.
+              Trichotomy: For all <m>X,Y \in \mathbb{R}</m>, either <m>X &lt; Y</m>, <m>X=Y</m>, or <m>Y &lt; X</m>. Hint: You want to eliminate the possibility that none of <m>X &lt; Y</m>, <m>Y &lt; X</m>, and <m>X=Y</m> are true.
+              <ol>
+                <li>
+                  <p>
+                    Use #2 on Homework #5 to get an <q><m>N</m></q> large enough to get a useful inequality between the terms of your representative sequences from <m>X</m> and <m>Y</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Choose your <q><m>N</m></q> to be large enough so that the terms of each of your sequences are close together.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If <m>N</m> is past all the above <q><m>N</m>'s</q>, you know that either <m>x_{N+1} \le y_{N+1}</m> or <m>y_{N+1} \le x_{N+1}</m>. Show that for all <m>n &gt; N</m>, <m>x_n</m> and <m>y_n</m> have to keep the same order relationship as <m>x_{N+1}</m> and <m>y_{N+1}</m>.
+                  </p>
+                </li>
+              </ol>
             </p>
           </li>
         </ol>
         Please remember that your Cauchy sequences can only contain rational numbers.  You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence <q>converges</q> to an irrational number.  You may assume that a Cauchy sequence is bounded.
-      </p>
-    </statement>
-  </exercise>
-
-  <exercise>
-    <statement>
-      <p>
-        For any <m>r \in \mathbb{R}</m>, let <m>\lfloor r \rfloor</m> be the greatest integer that is less than or equal to <m>r</m> (e.g. <m>\lfloor 3.5 \rfloor = 3</m> and <m>\lfloor -1.2 \rfloor = -2</m>).  Consider the function <m>f(x) = \lfloor x \rfloor + \lfloor -2x \rfloor</m>.  Determine all values of <m>x</m> at which <m>f</m> is continuous.  Prove your result.  Hint:  I would strongly suggest drawing a graph of the function to help you see the discontinuities and determine patterns.
       </p>
     </statement>
   </exercise>

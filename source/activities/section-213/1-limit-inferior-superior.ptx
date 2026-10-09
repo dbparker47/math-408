@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="lim-inf-sup">
   <title>Limits Inferior &amp; Superior</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       For a sequence <m>\{ x_n \}</m>, recall <m>S_n = \{ x_n,x_{n+1}, \ldots \}</m>, <m>a_n =</m> inf<m>(S_n)</m>,  <m>b_n =</m> sup<m>(S_n)</m>, <m>\displaystyle a_n \rightarrow \lim_{n \rightarrow \infty} \inf x_n</m>, and <m>\displaystyle b_n \rightarrow \lim_{n \rightarrow \infty} \sup x_n</m>.
@@ -15,24 +13,24 @@
     <statement>
       <p>
         Find the limit inferior and limit superior of the following sequences.
+        <ol>
+          <li>
+            <p>
+              <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\left\{ 2^{n(-1)^n} \right\}</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>\left\{ (-1)^n \left( 1-\frac{1}{n} \right) \right\}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>\left\{ 2^{n(-1)^n} \right\}</m>
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>\left\{ 2^{n(-1)^n}-3^{n(-1)^{n+1}} \right\}</m>
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

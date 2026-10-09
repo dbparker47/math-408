@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
-  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
     <title>Math 408</title>
 
     <subtitle>Fall 2026</subtitle>
 
-    <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
 
     <chapter xml:id="course-documents">
       <title>Course Documents</title>
 
-      <!-- Course syllabus -->
       <xi:include href="./documents/syllabus.ptx" />
       <xi:include href="./documents/objectives.ptx" />
       <xi:include href="./documents/latex-resources.ptx" />
-      <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
     <chapter xml:id="exam">
       <title>Exams</title>
       <p>Not yet available</p>
       <xi:include href="./exams/exam-1.ptx"/>
-      <!-- <xi:include href="./exams/exam-2.ptx"/> -->
-      <!-- <xi:include href="./exams/exam-3.ptx"/> -->
-
     </chapter>
-
 
     <chapter xml:id="homework">
       <title>Homework Assignments</title>
@@ -189,6 +179,7 @@
     <chapter xml:id="in-class-56">
       <title>In-Class Activities: Section 5.6</title>
       <xi:include href="./activities/section-56/1-uniform-continuity.ptx" />
+      <xi:include href="./activities/section-56/2-continuous-functions-on-closed-intervals.ptx" />
     </chapter>
 
     <chapter xml:id="in-class-57">

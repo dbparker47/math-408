@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="equiv-cauchy">
   <title>Equivalent Cauchy Sequences</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Let <m>A</m> be the set of all Cauchy sequences of rational numbers.  Let <m>\{ x_n \} = \{ x_1,x_2,x_3, \ldots \}</m> and <m>\{ y_n \} = \{ y_1,y_2,y_3, \ldots \}</m> be sequences in <m>A</m>. Define <m>\{ x_n \} \sim \{ y_n \}</m> precisely when the sequence <m>\{ x_n - y_n \} = \{x_1-y_1,x_2-y_2,x_3-y_3, \ldots \}</m> converges to <m>0</m>.
@@ -15,19 +13,19 @@
     <statement>
       <p>
         Consider the sequences <m>\left\{ \frac{n}{2n+3} \right\}</m> and <m>\left\{ \frac{2n}{4n-1} \right\}</m>.
+        <ol>
+          <li>
+            <p>
+              Give an intuitive reason why <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              Prove that <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.  You may use the fact that <m>\{ \frac{1}{n} \}</m> and <m>\{ \frac{1}{n^2} \}</m> both converge to 0.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            Give an intuitive reason why <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.
-          </p>
-        </li>
-        <li>
-          <p>
-            Prove that <m>\left\{ \frac{n}{2n+3} \right\} \sim \left\{ \frac{2n}{4n-1} \right\}</m>.  You may use the fact that <m>\{ \frac{1}{n} \}</m> and <m>\{ \frac{1}{n^2} \}</m> both converge to 0.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

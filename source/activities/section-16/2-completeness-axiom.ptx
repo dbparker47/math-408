@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="completeness-16">
   <title>Completeness Axiom</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Solve the following Completeness Axiom problems.
@@ -23,19 +21,19 @@
     <statement>
       <p>
         Let <m>S</m> be a set of real numbers that is bounded below.
+        <ol>
+          <li>
+            <p>
+              Prove that the set <m>T = \{ x \in \mathbb{R} : -x \in S \}</m> is bounded above.
+            </p>
+          </li>
+          <li>
+            <p>
+              Use the Completeness Axiom on <m>T</m> as well as your number smarts to prove that <m>S</m> has an infimum.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            Prove that the set <m>T = \{ x \in \mathbb{R} : -x \in S \}</m> is bounded above.
-          </p>
-        </li>
-        <li>
-          <p>
-            Use the Completeness Axiom on <m>T</m> as well as your number smarts to prove that <m>S</m> has an infimum.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

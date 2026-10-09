@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="act-temp">
+  <title>Continuous Functions on Closed Intervals</title>
+
+  <introduction>
+    <p>
+      Let <m>f: [a,b] \rightarrow \mathbb{R}</m> be a continuous function, and let <m>\epsilon &gt; 0</m>. Recall that for each <m>c \in [a,b]</m>, we say that <m>\delta &gt; 0</m> is <em>acceptable</em> if whenever <m>|x-c| &lt; \delta</m> we have <m>|f(x)-f(c)| &lt; \epsilon</m>.
+    </p>
+  </introduction>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that there exists some <m>\delta &gt; 0</m> that is acceptable for all <m>c \in [a,b]</m>. Prove that <m>f</m> is uniformly continuous.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose that there is no <m>\delta &gt; 0</m> that is acceptable for all <m>c \in [a,b]</m>.
+        <ol>
+            <li>
+                <p>
+                    For each <m>n \in \mathbb{N}</m>, we know that <m>\frac{1}{n}</m> cannot be acceptable for all <m>c \in [a,b]</m> (although it can be acceptable for some of them). State precisely what this means.
+                </p>
+            </li>
+            <li>
+                <p>
+                    For each <m>n \in \mathbb{N}</m>, let <m>c_{n}</m> be the <q><m>c</m></q> you found in (a), and let <m>x_{n}</m> be the <q><m>x</m></q> you found in (a). Prove that the sequence <m>\{ c_{n} \}</m> is bounded.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Prove that <m>\{ c_{n} \}</m> has a convergent subsequence <m>\{ c_{p_n}\}</m>, and prove that <m>\{ x_{p_n}\}</m> converges to the same number as <m>\{ c_{p_n}\}</m>. Hint: <m>x_{p_n}= (x_{p_n}- c_{p_n}) + c_{p_n}</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find the limit of <m>|f(x_{p_n}) - f(c_{p_n}|</m>. Can you find the contradiction?
+                </p>
+            </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="uniform-cont">
   <title>Uniformly Continuous Functions</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Use the definition of uniformly continuous functions to solve the following.
@@ -23,19 +21,19 @@
     <statement>
       <p>
         We now seek to prove that <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> given by <m>f(x)=x^2</m> is not uniformly continuous on <m>\mathbb{R}</m>.  Let <m>\epsilon &gt; 0</m>.
+        <ol>
+          <li>
+            <p>
+              Suppose you have a <m>\delta &gt; 0</m> such that for all <m>x,c \in \mathbb{R}</m>, if <m>|x-c| &lt;\delta</m>, then <m>|f(x)-f(c)| &lt; \epsilon</m>.  For each <m>c \in \mathbb{R}</m>, find an <m>x</m> that satisfies <m>|x-c| &lt; \delta</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              For the <m>x</m> you found above, how big must <m>c</m> be in order for <m>|f(x)-f(c)| \geq \epsilon</m>?  What can you conclude?
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            Suppose you have a <m>\delta &gt; 0</m> such that for all <m>x,c \in \mathbb{R}</m>, if <m>|x-c| &lt;\delta</m>, then <m>|f(x)-f(c)| &lt; \epsilon</m>.  For each <m>c \in \mathbb{R}</m>, find an <m>x</m> that satisfies <m>|x-c| &lt; \delta</m>.
-          </p>
-        </li>
-        <li>
-          <p>
-            For the <m>x</m> you found above, how big must <m>c</m> be in order for <m>|f(x)-f(c)| \geq \epsilon</m>?  What can you conclude?
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

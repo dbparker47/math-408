@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="bounded">
   <title>Bounded Functions</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Solve the following problems on bounded functions.
@@ -15,24 +13,24 @@
     <statement>
       <p>
         Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value.  You may use calculus reasoning to justify your answers.
+        <ol>
+          <li>
+            <p>
+              <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x) = \sin(x)</m>.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x)=x^2-6x+5</m>.  Hint:  Complete the square.
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>f: {\mathbb R} \rightarrow \mathbb{R}</m>, <m>f(x)=\frac{1}{x^2+1}</m>.
+            </p>
+          </li>
+        </ol>
       </p>
-      <ol>
-        <li>
-          <p>
-            <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x) = \sin(x)</m>.
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>f: \mathbb{R} \rightarrow \mathbb{R}</m>, <m>f(x)=x^2-6x+5</m>.  Hint:  Complete the square.
-          </p>
-        </li>
-        <li>
-          <p>
-            <m>f: {\mathbb R} \rightarrow \mathbb{R}</m>, <m>f(x)=\frac{1}{x^2+1}</m>.
-          </p>
-        </li>
-      </ol>
     </statement>
   </exercise>
 

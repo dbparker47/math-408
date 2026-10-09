@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="general-sequence">
   <title>General Sequence Theorems</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       Assume <m>\{a_n\}</m> converges to <m>a</m> and <m>\{ b_n \}</m> converges to <m>b</m>.  Determine what the following converge to and prove your result.
