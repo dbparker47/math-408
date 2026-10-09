@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Exam 1 - Math 408",
-  "body": " Exam 1 - Math 408    For this exam, you will solve the problems given below with the following requirements.   Each solution consists of a proof of the theorem implied by the problem.    You must write your proof according to the writing criteria required in the homework assignments.    All steps must be justified by definitions, your previously proven steps, or by facts we proved in class or in videos.         (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .  >       (25 pts.) Let be a real number, and assume that . Prove that .      (25 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , and\/or .    Find a formula for in terms of , and\/or .   Notice that I am only asking you to do the case. You do not need to do the case.      (25 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.    "
+  "body": " Exam 1 - Math 408    For this exam, you will solve the problems given below with the following requirements.   Each solution consists of a proof of the theorem implied by the problem.    You must write your proof according to the writing criteria required in the homework assignments.    All steps must be justified by definitions, your previously proven steps, or by facts we proved in class or in videos.         (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .         (25 pts.) Let be a real number, and assume that . Prove that .      (25 pts.) Let be a nonempty bounded set of real numbers, and let with . Define for some . Do ONE of the following problems.   Find a formula for in terms of , and\/or .    Find a formula for in terms of , and\/or .   Notice that I am only asking you to do the case. You do not need to do the case.      (25 pts.) Let with . Prove that there is an integer such that . Hint: Define an appropriate set, and use the Completeness axiom.    "
 },
 {
   "id": "exam-1-408-3",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .  >    "
+  "body": "  (25 pts.) Let be an ordered field with . Prove each of the following.    .    If and , then .    If and , then .      "
 },
 {
   "id": "exam-1-408-4",
@@ -547,7 +547,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Portfolio Project Problems - Math 408",
-  "body": " Portfolio Project Problems - Math 408        Our goal in this problem is to prove that it is impossible to order the set of complex numbers in such a way that is an ordered field. In order to do this, you will first need to prove some results for ordered fields. So for the following problems, assume that is an ordered field with at least two elements, that is the additive identity of , and that is the multiplicative identity in . Using only the axioms for ordered fields, prove the following.                  If , then .   After you prove the above, use them to prove that no matter how you order the elements of , it is impossible to make an ordered field. Use your intuition to give you insight into these problems, but do not use your intuition as justifications in your proof. You are to use only the ordered field axioms.      Let be an interval that is bounded above and bounded below. Prove that , , , or for some real numbers and . For this problem only, you may use the fact that any set of real numbers that is bounded below has an infimum (which follows from the completeness axiom).      Suppose that is an infinite set (maybe countably infinite, maybe not), and let (i.e. is a finite set) that is disjoint from . Prove that and have the same cardinality. In other words, prove there is a function that is one-to-one and onto. Hint: Warm up by solving the problem for the case that is countably infinite, and then do the case where is uncountable.      Let be a bounded sequence that does not converge. Prove that has at least two subsequences that converge to different limits. Note that both sequences need to converge.      For this problem, we are assuming that the real numbers are as we constructed in class. In other words, is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation: if and only if converges to 0. We are also using our definitions of addition, multiplication, and on that we determined in class. Prove the following.   Multiplication is well defined. In other words, if , prove that no matter how you choose and to compute , you always get the same product.     is closed under addition. In other words, for all , if , prove that .     is closed under multiplication. In other words, for all , if , prove that .    Multiplicative Inverse: Let be the additive identity and be the multiplicative identity of . Prove that for each with , there exists some such that .    The order relation is well defined. In other words, if , we will get the same determination of , , or regardless of which sequences we choose from and .    Trichotomy: For all , either , , or .   Please remember that your Cauchy sequences can only contain rational numbers. You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence converges to an irrational number. You may assume that a Cauchy sequence is bounded.      For any , let be the greatest integer that is less than or equal to (e.g. and ). Consider the function . Determine all values of at which is continuous. Prove your result. Hint: I would strongly suggest drawing a graph of the function to help you see the discontinuities and determine patterns.      Let be a constant, and let be a continuous function such that for all (such a function is called periodic). Prove that is uniformly continuous on . Hint: First consider on .    "
+  "body": " Portfolio Project Problems - Math 408        Our goal in this problem is to prove that it is impossible to order the set of complex numbers in such a way that is an ordered field. In order to do this, you will first need to prove some results for ordered fields. So for the following problems, assume that is an ordered field with at least two elements, that is the additive identity of , and that is the multiplicative identity in . Using only the axioms for ordered fields, prove the following.                  If , then .   After you prove the above, use them to prove that no matter how you order the elements of , it is impossible to make an ordered field. Use your intuition to give you insight into these problems, but do not use your intuition as justifications in your proof. You are to use only the ordered field axioms.      Let be an interval that is bounded above and bounded below. Prove that , , , or for some real numbers and . For this problem only, you may use the fact that any set of real numbers that is bounded below has an infimum (which follows from the completeness axiom).      Suppose that is an infinite set (maybe countably infinite, maybe not), and let (i.e. is a finite set) that is disjoint from . Prove that and have the same cardinality. In other words, prove there is a function that is one-to-one and onto. Hint: Warm up by solving the problem for the case that is countably infinite, and then do the case where is uncountable.      Let be a bounded sequence that does not converge. Prove that has at least two subsequences that converge to different limits. Note that both sequences need to converge.      For this problem, we are assuming that the real numbers are as we constructed in class. In other words, is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation: if and only if converges to 0. We are also using our definitions of addition, multiplication, and on that we determined in class. Prove the following.   Multiplication is well defined. In other words, if , prove that no matter how you choose and to compute , you always get the same product.     is closed under addition. In other words, for all , if , prove that .     is closed under multiplication. In other words, for all , if , prove that .    Multiplicative Inverse: Let be the additive identity and be the multiplicative identity of . Prove that for each with , there exists some such that . You do NOT need to do a full proof that your is a real number. Just do enough computations and explanation to show why it is a real number.    The order relation is well defined. In other words, if , we will get the same determination of , , or regardless of which sequences we choose from and . Hint: You are likely to prove this using proof by contradiction. When you set up your contradiction, I suggest the following.   Express your contradiction assumption as inequalities. You will likely have four inequalities to play with.    Set up your inequalities so that they do not have any absolute value signs in them.    Play with your inequalities until you find your contradiction.       Trichotomy: For all , either , , or . Hint: You want to eliminate the possibility that none of , , and are true.   Use #2 on Homework #5 to get an large enough to get a useful inequality between the terms of your representative sequences from and .    Choose your to be large enough so that the terms of each of your sequences are close together.    If is past all the above 's , you know that either or . Show that for all , and have to keep the same order relationship as and .      Please remember that your Cauchy sequences can only contain rational numbers. You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence converges to an irrational number. You may assume that a Cauchy sequence is bounded.      Let be a constant, and let be a continuous function such that for all (such a function is called periodic). Prove that is uniformly continuous on . Hint: First consider on .    "
 },
 {
   "id": "port-problems-408-3",
@@ -592,7 +592,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  For this problem, we are assuming that the real numbers are as we constructed in class. In other words, is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation: if and only if converges to 0. We are also using our definitions of addition, multiplication, and on that we determined in class. Prove the following.   Multiplication is well defined. In other words, if , prove that no matter how you choose and to compute , you always get the same product.     is closed under addition. In other words, for all , if , prove that .     is closed under multiplication. In other words, for all , if , prove that .    Multiplicative Inverse: Let be the additive identity and be the multiplicative identity of . Prove that for each with , there exists some such that .    The order relation is well defined. In other words, if , we will get the same determination of , , or regardless of which sequences we choose from and .    Trichotomy: For all , either , , or .   Please remember that your Cauchy sequences can only contain rational numbers. You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence converges to an irrational number. You may assume that a Cauchy sequence is bounded.   "
+  "body": "  For this problem, we are assuming that the real numbers are as we constructed in class. In other words, is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation: if and only if converges to 0. We are also using our definitions of addition, multiplication, and on that we determined in class. Prove the following.   Multiplication is well defined. In other words, if , prove that no matter how you choose and to compute , you always get the same product.     is closed under addition. In other words, for all , if , prove that .     is closed under multiplication. In other words, for all , if , prove that .    Multiplicative Inverse: Let be the additive identity and be the multiplicative identity of . Prove that for each with , there exists some such that . You do NOT need to do a full proof that your is a real number. Just do enough computations and explanation to show why it is a real number.    The order relation is well defined. In other words, if , we will get the same determination of , , or regardless of which sequences we choose from and . Hint: You are likely to prove this using proof by contradiction. When you set up your contradiction, I suggest the following.   Express your contradiction assumption as inequalities. You will likely have four inequalities to play with.    Set up your inequalities so that they do not have any absolute value signs in them.    Play with your inequalities until you find your contradiction.       Trichotomy: For all , either , , or . Hint: You want to eliminate the possibility that none of , , and are true.   Use #2 on Homework #5 to get an large enough to get a useful inequality between the terms of your representative sequences from and .    Choose your to be large enough so that the terms of each of your sequences are close together.    If is past all the above 's , you know that either or . Show that for all , and have to keep the same order relationship as and .      Please remember that your Cauchy sequences can only contain rational numbers. You may not assume that all Cauchy sequences converge, since that does not make sense if the sequence converges to an irrational number. You may assume that a Cauchy sequence is bounded.   "
 },
 {
   "id": "port-problems-408-8",
@@ -600,15 +600,6 @@ var ptx_lunr_docs = [
   "url": "port-problems-408.html#port-problems-408-8",
   "type": "Worksheet Exercise",
   "number": "6",
-  "title": "",
-  "body": "  For any , let be the greatest integer that is less than or equal to (e.g. and ). Consider the function . Determine all values of at which is continuous. Prove your result. Hint: I would strongly suggest drawing a graph of the function to help you see the discontinuities and determine patterns.   "
-},
-{
-  "id": "port-problems-408-9",
-  "level": "2",
-  "url": "port-problems-408.html#port-problems-408-9",
-  "type": "Worksheet Exercise",
-  "number": "7",
   "title": "",
   "body": "  Let be a constant, and let be a continuous function such that for all (such a function is called periodic). Prove that is uniformly continuous on . Hint: First consider on .   "
 },
@@ -1258,7 +1249,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Resources for 11\/17",
-  "body": " Resources for 11\/17    For the content of this class, you will be expected to be able to do the following:     Explain the definition of a uniformly continuous function .    Be aware that the definition of a uniformly continuous function can be understood as treating the c in the definition of continuous functions as a variable.    Be aware that because the c is treated as a variable, uniform continuity is a property of a function on an interval, not at a point.    Use the definition of a uniformly continuous function to prove a given function is uniformly continuous on a given interval.    Use the definition of a uniformly continuous function to prove that a given function is not uniformly continuous on a given interval.    Explain why any continuous function is always uniformly continuous on a closed interval.      Video & Activities for Uniform Continuity  Below is a YouTube video on uniformly continuous functions . It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Uniform Continuity  Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.    We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?       (Not on quiz) Let be given by . Prove that is uniformly continuous on .    (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .        Optional Reading  Section 5.6: pp. 321-324   "
+  "body": " Resources for 11\/17    For the content of this class, you will be expected to be able to do the following:     Explain the definition of a uniformly continuous function .    Be aware that the definition of a uniformly continuous function can be understood as treating the c in the definition of continuous functions as a variable.    Be aware that because the c is treated as a variable, uniform continuity is a property of a function on an interval, not at a point.    Use the definition of a uniformly continuous function to prove a given function is uniformly continuous on a given interval.    Use the definition of a uniformly continuous function to prove that a given function is not uniformly continuous on a given interval.    Explain why any continuous function is always uniformly continuous on a closed interval.      Video & Activities for Uniform Continuity  Below is a YouTube video on uniformly continuous functions . It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Uniform Continuity  Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.    We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?       (Not on quiz) Let be given by . Prove that is uniformly continuous on .    (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .        Video & Activities for Continuous Functions on Closed Intervals  Below is a YouTube video on the connection between continuous functions on closed intervals and uniformly continuous functions . It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Continuous Functions on Closed Intervals  Let be a continuous function, and let . Recall that for each , we say that is acceptable if whenever we have .     Suppose that there exists some that is acceptable for all . Prove that is uniformly continuous.    Suppose that there is no that is acceptable for all .   For each , we know that cannot be acceptable for all (although it can be acceptable for some of them). State precisely what this means.    For each , let be the you found in (a), and let be the you found in (a). Prove that the sequence is bounded.    Prove that has a convergent subsequence , and prove that converges to the same number as . Hint: .    Find the limit of . Can you find the contradiction?           Optional Reading  Section 5.6: pp. 321-324   "
 },
 {
   "id": "prep-11-17-2",
@@ -1277,6 +1268,15 @@ var ptx_lunr_docs = [
   "number": "36",
   "title": "Uniform Continuity.",
   "body": " Uniform Continuity  Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.    We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?       (Not on quiz) Let be given by . Prove that is uniformly continuous on .    (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .     "
+},
+{
+  "id": "video-activity-cont-closed-interval-4",
+  "level": "2",
+  "url": "prep-11-17.html#video-activity-cont-closed-interval-4",
+  "type": "In-Class Activities",
+  "number": "37",
+  "title": "Continuous Functions on Closed Intervals.",
+  "body": " Continuous Functions on Closed Intervals  Let be a continuous function, and let . Recall that for each , we say that is acceptable if whenever we have .     Suppose that there exists some that is acceptable for all . Prove that is uniformly continuous.    Suppose that there is no that is acceptable for all .   For each , we know that cannot be acceptable for all (although it can be acceptable for some of them). State precisely what this means.    For each , let be the you found in (a), and let be the you found in (a). Prove that the sequence is bounded.    Prove that has a convergent subsequence , and prove that converges to the same number as . Hint: .    Find the limit of . Can you find the contradiction?        "
 },
 {
   "id": "prep-11-19",
@@ -1301,7 +1301,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-19.html#video-activity-intro-evt-4",
   "type": "In-Class Activities",
-  "number": "37",
+  "number": "38",
   "title": "Introduction to Extreme Value Theorem.",
   "body": " Introduction to Extreme Value Theorem  Let be a continous function.     Let be a bounded set of real numbers, with and .   Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .       Assume that is unbounded from above.   Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?       Let be a continuous function, and let be the range of .   Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .        "
 },
@@ -1328,7 +1328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-11-24.html#video-activity-intro-ivt-4",
   "type": "In-Class Activities",
-  "number": "38",
+  "number": "39",
   "title": "Introduction to Intermediate Value Theorem.",
   "body": " Introduction to Intermediate Value Theorem     Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?       Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .        "
 },
@@ -1355,7 +1355,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-12-1.html#video-activity-ivt-2-4",
   "type": "In-Class Activities",
-  "number": "39",
+  "number": "40",
   "title": "Intermediate Value Theorem.",
   "body": " Intermediate Value Theorem     Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?       Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    To what do and converge?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .        "
 },
@@ -1364,7 +1364,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "prep-12-1.html#video-activity-differentiation-4",
   "type": "In-Class Activities",
-  "number": "40",
+  "number": "41",
   "title": "Derivative.",
   "body": " Derivative  This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.     Compute from the limit definition.    ,      ,        Suppose that exists. Prove that is continuous at . Hint: Prove that .    Suppose we know and . Find , where    , a constant.                 Let . Suppose you know and .   What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .       Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.     "
 },
@@ -1400,7 +1400,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "rep-reals-reading.html#rep-reals-reading-9",
   "type": "Example",
-  "number": "41",
+  "number": "42",
   "title": "",
   "body": "  Consider the sequence . We know this sequence converges to 0, so this is a Cauchy sequence that represents the number 0.   "
 },
@@ -1418,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "equiv-cauchy-reading.html#def-relation",
   "type": "Definition",
-  "number": "42",
+  "number": "43",
   "title": "",
   "body": "  A relation on a set is a rule that tells us when two elements of are related. If we let the symbol represent this rule, and if we let , then the statement means that is related to under the relation.   "
 },
@@ -1427,7 +1427,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "equiv-cauchy-reading.html#def-equiv-rel",
   "type": "Definition",
-  "number": "43",
+  "number": "44",
   "title": "",
   "body": "  Let be a set, and let be a relation on . We say that is an equivalence relation precisely when $\\sim$ satisfies the following properties.    Reflexive Property : For all , we have .     Symmetric Property : Let . If , then .     Transitive Property : Let . If and , then .      "
 },
@@ -1436,7 +1436,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "equiv-cauchy-reading.html#def-equiv-class",
   "type": "Definition",
-  "number": "44",
+  "number": "45",
   "title": "",
   "body": "  Let be a set, and let be an equivalence relation on . For each , we define the equivalence class containing as .   "
 },
@@ -1454,7 +1454,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "arith-reading.html#arith-reading-3",
   "type": "Example",
-  "number": "45",
+  "number": "46",
   "title": "",
   "body": "  Let us figure out what the real number is. Recall that has a decimal representation . This decimal representation is actually a Cauchy sequence in disguise. If we take the sequence , this is a sequence that converges to . In the way we defined our real numbers, the above Cauchy sequence represents the number . So what is ? It is the equivalence class that contains this representative Cauchy sequence. In symbols, . We can do the same thing for every real number.   "
 },
@@ -1472,7 +1472,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "order-reading.html#def-",
   "type": "Definition",
-  "number": "46",
+  "number": "47",
   "title": "",
   "body": "  Let and be real numbers. We say that if both and there exists such that for all we have .   "
 },
@@ -1481,7 +1481,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "order-reading.html#subsec-define-relation-6",
   "type": "Example",
-  "number": "47",
+  "number": "48",
   "title": "",
   "body": "  Consider the real numbers and . For every value of , we have . However, we do not have . In fact, the two numbers are equal (you can check this using the definition or note that each of the representative Cauchy sequences has a limit of 1).   "
 },
@@ -1508,7 +1508,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "complete-reading.html#thm-arch-rational",
   "type": "Theorem",
-  "number": "48",
+  "number": "49",
   "title": "",
   "body": "  The following are true.   The Archimedean Principle holds on the rational numbers without assuming the Completeness Axiom.    For every , there exists with .       I will give an outline of the proof strategies for each of these and let you fill in the details. For , we assume with and show that there exists with . Since , we can write , , where . Since , we can assume . Working backwards and doing some fun algebra (including clearing the denominators), the inequality is equivalent to . We can then set , which can be used (along with the order axioms) to prove the inequality.  For , part implies in the case (just let in ). When is irrational, for each , there is an integer with since is rational. Since is Cauchy, there is some with for all . Just let and prove that .   "
 },
@@ -1517,7 +1517,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "complete-reading.html#axiom-well-order",
   "type": "Axiom",
-  "number": "49",
+  "number": "50",
   "title": "",
   "body": "  (Well-Ordering Principle) Every nonempty set of integers that is bounded below has a smallest element.   "
 },
@@ -1526,7 +1526,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "complete-reading.html#thm-cauchy-prop",
   "type": "Theorem",
-  "number": "50",
+  "number": "51",
   "title": "",
   "body": "  Let be defined as above. Then   Each is a rational number.     is a decreasing sequence.    For each , is an upper bound of and is not an upper bound of .      "
 },
@@ -1535,7 +1535,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "complete-reading.html#thm-x-sup",
   "type": "Theorem",
-  "number": "51",
+  "number": "52",
   "title": "",
   "body": "  Let . Then .    The theorem is a little statement, but we actually have to prove three big claims.    .     is an upper bound of .    Any real number smaller than is not an upper bound of .     For , we need to prove that is Cauchy. We already know that is decreasing. You proved in Homework #6 that any bounded monotone sequence is Cauchy (actually, you proved it for increasing sequences, but a mirror-image proof works for decreasing sequences). We thus only need to prove that is bounded below. If we take some , we have , where is Cauchy. Since each is an upper bound of , we have for all . So for each , either or there exists some such that for all , we have . Note that this is just applying the definition of and letting represent . In either case, each is bounded below by any lower bound of . Note that is bounded below since it is Cauchy. That means is bounded below as well, so it is Cauchy and .  For , we assume and show that . As before, we note that each is an upper bound of , so . We will be a little more careful with notation, and note that this means, for each , either or there exists such that for all , we have .  If we ever have , recall that is a decreasing sequence, so for all , we have . But also recall that is an upper bound for , and so . We then have . This implies that . Thus, for all , and so the sequence converges to . It follows that , and so .  This leaves the case that for all , there exists such that whenever , we have . Now we do a little subsequence magic by defining . We proved that subsequences are equivalent to the original sequences, so . By the way we derived , we also have . By the definition of the order relation, this implies , which proves that is an upper bound for .  Finally, we must prove that any real number less than is not an upper bound for . Let with . For contradiction, assume is an upper bound for . Recall that each is not an upper bound for . Since is an upper bound, this implies . By the definition of the order relation, for each , there exists such that for all , we have . As in , we let , and it follows that . But by how we determined the , we have .  We have , which means that there exists some such that . Putting our inequalities together, we get , which implies . By the Squeeze Theorem, we get , which means that . This contradicts our assumption that , which completes the proof.   "
 },
@@ -1546,7 +1546,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Irrational Numbers",
-  "body": " Irrational Numbers          Consider , , , and .    Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.        Prove that if , then is a displacement. Hint: Induction.      (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.    "
+  "body": " Irrational Numbers        Consider , , , and .   Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.         Prove that if , then is a displacement. Hint: Induction.      (Not on quiz) Prove that is irrational. You can assume it is a real number. Hint: Think exponentially.    "
 },
 {
   "id": "irrational-numbers-3",
@@ -1555,7 +1555,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider , , , and .    Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.     "
+  "body": "  Consider , , , and .   Using our model of real numbers being displacements, show that all of these are real numbers. Hint: has already been established as a displacement.    Prove that each of the above numbers is an irrational number.      "
 },
 {
   "id": "irrational-numbers-4",
@@ -1582,7 +1582,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Ordered Fields",
-  "body": " Ordered Fields    Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .      Prove that .      Prove that if and only if .      Prove that if and only if .      If and , prove that .      (Not on quiz) Prove that .      (Not on quiz) If and , prove that .      (Not on quiz) If and , prove that .    "
+  "body": " Ordered Fields   Let be an ordered field with . For the following, use only the ordered field axioms.     Prove that .      Prove that .      Prove that if and only if .      Prove that if and only if .      If and , prove that .      (Not on quiz) Prove that .      (Not on quiz) If and , prove that .      (Not on quiz) If and , prove that .    "
 },
 {
   "id": "ordered-fields-3",
@@ -1663,7 +1663,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Inequalities",
-  "body": " Inequalities    Prove the following inequalities.     For all real numbers , .      Let , , , and be real numbers. Which of and is greater than or equal to the other? Hint: Subtract.    "
+  "body": " Inequalities   Prove the following inequalities.     For all real numbers , .      Let , , , and be real numbers. Which of and is greater than or equal to the other? Hint: Subtract.    "
 },
 {
   "id": "inequalities-3",
@@ -1690,7 +1690,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Absolute Value",
-  "body": " Absolute Value    Solve the following absolute value problems.     Prove the following.                    if and only if .        Suppose that and that for all . What can be? Prove it.      Under what circumstances is ? What is (in terms of and ) in the other cases?    "
+  "body": " Absolute Value   Solve the following absolute value problems.     Prove the following.                   if and only if .         Suppose that and that for all . What can be? Prove it.      Under what circumstances is ? What is (in terms of and ) in the other cases?    "
 },
 {
   "id": "absolute-value-3",
@@ -1699,7 +1699,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Prove the following.                    if and only if .     "
+  "body": "  Prove the following.                   if and only if .      "
 },
 {
   "id": "absolute-value-4",
@@ -1726,7 +1726,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Intervals",
-  "body": " Intervals    Solve the following interval problems.     Determine whether or not each of the following is an interval. Prove it.     and .     or         Let and be intervals.    Find and such that is not an interval.    If has at least two elements, prove that is an interval.      "
+  "body": " Intervals   Solve the following interval problems.     Determine whether or not each of the following is an interval. Prove it.    and .     or          Let and be intervals.   Find and such that is not an interval.    If has at least two elements, prove that is an interval.       "
 },
 {
   "id": "intervals-3",
@@ -1735,7 +1735,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Determine whether or not each of the following is an interval. Prove it.     and .     or      "
+  "body": "  Determine whether or not each of the following is an interval. Prove it.    and .     or       "
 },
 {
   "id": "intervals-4",
@@ -1744,7 +1744,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let and be intervals.    Find and such that is not an interval.    If has at least two elements, prove that is an interval.     "
+  "body": "  Let and be intervals.   Find and such that is not an interval.    If has at least two elements, prove that is an interval.      "
 },
 {
   "id": "bounds",
@@ -1753,7 +1753,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Upper &amp; Lower Bounds",
-  "body": " Upper & Lower Bounds    Solve these problems on upper and lower bounds.     Consider the set .    Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?        Suppose that a set .    Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.      "
+  "body": " Upper & Lower Bounds   Solve these problems on upper and lower bounds.     Consider the set .   Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?         Suppose that a set .   Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.       "
 },
 {
   "id": "bounds-3",
@@ -1762,7 +1762,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider the set .    Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?     "
+  "body": "  Consider the set .   Find three upper bounds of .    Find three lower bounds of .    How many upper bounds does have? How many lower bounds?      "
 },
 {
   "id": "bounds-4",
@@ -1771,7 +1771,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Suppose that a set .    Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.     "
+  "body": "  Suppose that a set .   Prove that if is bounded, then there exists such that for all . Hint: Consider the cases and separately.    Prove that if there exists such that for all , then is bounded.      "
 },
 {
   "id": "infimum-supremum",
@@ -1780,7 +1780,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Infima &amp; Suprema",
-  "body": " Infima & Suprema    Solve the following problems on infima and suprema of sets.     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some         Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and . Use the fact that if , then there are no integers between and .    "
+  "body": " Infima & Suprema   Solve the following problems on infima and suprema of sets.     Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .         for some          Let be a set of integers with a supremum . Prove that . Hint: Consider what must be true about both and . Use the fact that if , then there are no integers between and .    "
 },
 {
   "id": "infimum-supremum-3",
@@ -1789,7 +1789,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .          for some      "
+  "body": "  Find the supremum and infimum (if they exist) of each of the following sets, and prove your assertions. You may use the fact (which we will prove shortly) that for every real number , there exists some such that .         for some       "
 },
 {
   "id": "infimum-supremum-4",
@@ -1807,7 +1807,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Completeness Axiom",
-  "body": " Completeness Axiom    Solve the following Completeness Axiom problems.     Let . Prove that there exists an integer such that . Hint: Let . Can ?      Let be a set of real numbers that is bounded below.    Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.        If with , let . Use the completeness axiom to prove that there is some such that . Hint: If for all , what does that say about the set defined above?    "
+  "body": " Completeness Axiom   Solve the following Completeness Axiom problems.     Let . Prove that there exists an integer such that . Hint: Let . Can ?      Let be a set of real numbers that is bounded below.   Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.         If with , let . Use the completeness axiom to prove that there is some such that . Hint: If for all , what does that say about the set defined above?    "
 },
 {
   "id": "completeness-16-3",
@@ -1825,7 +1825,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let be a set of real numbers that is bounded below.    Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.     "
+  "body": "  Let be a set of real numbers that is bounded below.   Prove that the set is bounded above.    Use the Completeness Axiom on as well as your number smarts to prove that has an infimum.      "
 },
 {
   "id": "completeness-16-5",
@@ -1843,7 +1843,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Archimedean Property",
-  "body": " Archimedean Property    Use the Archimedean Property to prove each of the following.      is neither bounded above nor bounded below. In other words, for each real number , there is an integer that is greater than and another integer that is smaller than .      Let . Then there exists such that .      Let with , and . Prove there is an integer such that .    "
+  "body": " Archimedean Property   Use the Archimedean Property to prove each of the following.      is neither bounded above nor bounded below. In other words, for each real number , there is an integer that is greater than and another integer that is smaller than .      Let . Then there exists such that .      Let with , and . Prove there is an integer such that .    "
 },
 {
   "id": "archimedean-3",
@@ -1879,7 +1879,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Increasing &amp; Decreasing Functions",
-  "body": " Increasing & Decreasing Functions    Solve the following problems on increasing and decreasing functions.     Define by . Prove that is decreasing.      Define by . Prove that is increasing. Hint: When you compare and , you will want to consider what the signs of and are.      For a real-valued function, prove the following.     is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.      "
+  "body": " Increasing & Decreasing Functions   Solve the following problems on increasing and decreasing functions.     Define by . Prove that is decreasing.      Define by . Prove that is increasing. Hint: When you compare and , you will want to consider what the signs of and are.      For a real-valued function, prove the following.    is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.       "
 },
 {
   "id": "increasing-decreasing-3",
@@ -1906,7 +1906,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  For a real-valued function, prove the following.     is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.     "
+  "body": "  For a real-valued function, prove the following.    is increasing is decreasing.     is decreasing is increasing.     is increasing is decreasing.     is decreasing is increasing.      "
 },
 {
   "id": "bounded",
@@ -1915,7 +1915,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Bounded Functions",
-  "body": " Bounded Functions    Solve the following problems on bounded functions.     Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.     , .     , . Hint: Complete the square.     , .        Let be a function, and let be the range of . Prove that has a maximum value if and only if sup . What is the maximum value of in this case?    "
+  "body": " Bounded Functions   Solve the following problems on bounded functions.     Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.    , .     , . Hint: Complete the square.     , .         Let be a function, and let be the range of . Prove that has a maximum value if and only if sup . What is the maximum value of in this case?    "
 },
 {
   "id": "bounded-3",
@@ -1924,7 +1924,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.     , .     , . Hint: Complete the square.     , .     "
+  "body": "  Determine whether each of the following functions are bounded above, bounded below, has a maximum value, or has a minimum value. You may use calculus reasoning to justify your answers.    , .     , . Hint: Complete the square.     , .      "
 },
 {
   "id": "bounded-4",
@@ -1942,7 +1942,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Cardinality",
-  "body": " Cardinality    Solve the following problems related to cardinality.     Which of the following is countable? Prove your answer.         Set of odd integers             Determine whether or not the following have the same cardinality, and prove your answer.     and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.        (Not on quiz) Prove that and have the same cardinality. Hint: Define your function piecewise. Define separate formulas for for , , , and . Then there is one more value of that I might have forgotten.    "
+  "body": " Cardinality   Solve the following problems related to cardinality.     Which of the following is countable? Prove your answer.        Set of odd integers              Determine whether or not the following have the same cardinality, and prove your answer.    and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.         (Not on quiz) Prove that and have the same cardinality. Hint: Define your function piecewise. Define separate formulas for for , , , and . Then there is one more value of that I might have forgotten.    "
 },
 {
   "id": "cardinality-3",
@@ -1951,7 +1951,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Which of the following is countable? Prove your answer.         Set of odd integers          "
+  "body": "  Which of the following is countable? Prove your answer.        Set of odd integers           "
 },
 {
   "id": "cardinality-4",
@@ -1960,7 +1960,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Determine whether or not the following have the same cardinality, and prove your answer.     and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.     "
+  "body": "  Determine whether or not the following have the same cardinality, and prove your answer.    and      and     (Not on quiz) and . Hint: Use the set to take care of 2 like in #1(c). Then take care of the other numbers.      "
 },
 {
   "id": "cardinality-5",
@@ -1978,7 +1978,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Uncountability of the Real Numbers",
-  "body": " Uncountability of the Real Numbers    The following is an outline of the proof that the interval is uncountable. Fill in the details of the proof.     Consider the interval .    Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .        Suppose , , etc. In general for all .    Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?        Assume that is onto. Let .    Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.      "
+  "body": " Uncountability of the Real Numbers   The following is an outline of the proof that the interval is uncountable. Fill in the details of the proof.     Consider the interval .   Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .         Suppose , , etc. In general for all .   Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?         Assume that is onto. Let .   Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.       "
 },
 {
   "id": "uncountable-reals-3",
@@ -1987,7 +1987,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider the interval .    Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .     "
+  "body": "  Consider the interval .   Find a closed interval inside that does not contain .    Find a closed interval inside that doesn't contain .    Let . Prove there is a closed interval inside that does not contain .    Let , and let . Prove there is a closed interval inside that does not contain .      "
 },
 {
   "id": "uncountable-reals-4",
@@ -1996,7 +1996,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Suppose , , etc. In general for all .    Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?     "
+  "body": "  Suppose , , etc. In general for all .   Which is bigger: or ? or ?    Which is bigger: or ? or ?    Let and . Are and bounded?    Let , . Which is bigger?      "
 },
 {
   "id": "uncountable-reals-5",
@@ -2005,7 +2005,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Assume that is onto. Let .    Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.     "
+  "body": "  Assume that is onto. Let .   Is there a finite closed interval such that ?    Is there an interval such that ?    Continue defining for as above, and use them to prove a contradiction.      "
 },
 {
   "id": "intro-sequences",
@@ -2014,7 +2014,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Introduction to Sequences",
-  "body": " Introduction to Sequences    Solve the following problems on sequences.     Determine what the following converge to, if anything. Prove your result.                  Suppose that is a bounded increasing sequence. Must the sequence converge? If so, to what? What about bounded decreasing sequences?      Define the sequence by , and for all .    Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?      "
+  "body": " Introduction to Sequences   Solve the following problems on sequences.     Determine what the following converge to, if anything. Prove your result.                  Suppose that is a bounded increasing sequence. Must the sequence converge? If so, to what? What about bounded decreasing sequences?      Define the sequence by , and for all .   Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?       "
 },
 {
   "id": "intro-sequences-3",
@@ -2041,7 +2041,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Define the sequence by , and for all .    Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?     "
+  "body": "  Define the sequence by , and for all .   Prove that for all .    Prove that is monotone.    What can you conclude?    (Not on quiz) Can you find a sneaky way to find the limit of the sequence?      "
 },
 {
   "id": "general-sequence",
@@ -2050,7 +2050,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "General Sequence Theorems",
-  "body": " General Sequence Theorems    Assume converges to and converges to . Determine what the following converge to and prove your result.             , where .              , where each and .       , where each and . Hint: Don't use the definition. Use #3 and #4 above.    "
+  "body": " General Sequence Theorems   Assume converges to and converges to . Determine what the following converge to and prove your result.             , where .              , where each and .       , where each and . Hint: Don't use the definition. Use #3 and #4 above.    "
 },
 {
   "id": "general-sequence-3",
@@ -2104,7 +2104,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Squeeze Theorem",
-  "body": " Squeeze Theorem    Use the Squeeze Theorem to prove the following.     Prove that the sequence converges to zero. Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.      Let be a set of real numbers that is bounded above.    Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .        Let be a set of real numbers that is bounded below and has infimum . Prove that there is a sequence in that converges to .    "
+  "body": " Squeeze Theorem   Use the Squeeze Theorem to prove the following.     Prove that the sequence converges to zero. Hint: To find the upper bound, line up all the factors in the numerator with the factors in the denominator.      Let be a set of real numbers that is bounded above.   Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .         Let be a set of real numbers that is bounded below and has infimum . Prove that there is a sequence in that converges to .    "
 },
 {
   "id": "squeeze-sequence-3",
@@ -2122,7 +2122,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let be a set of real numbers that is bounded above.    Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .     "
+  "body": "  Let be a set of real numbers that is bounded above.   Explain why has a supremum .    For each , prove that there is a number that is bigger than .    Prove that converges to .      "
 },
 {
   "id": "squeeze-sequence-5",
@@ -2140,7 +2140,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Subsequences",
-  "body": " Subsequences    For a sequence , let , , and .     Find all possible limits of subsequences for the following. This may include or .                       If for all , what kind of sequence is ?      If for all , what kind of sequence is ?      If for all , describe how to construct a decreasing subsequence of . Hint: Start with , and convince yourself that is not a lower bound for . Keep going.      If for all , describe how to construct an increasing subsequence of .    "
+  "body": " Subsequences   For a sequence , let , , and .     Find all possible limits of subsequences for the following. This may include or .                       If for all , what kind of sequence is ?      If for all , what kind of sequence is ?      If for all , describe how to construct a decreasing subsequence of . Hint: Start with , and convince yourself that is not a lower bound for . Keep going.      If for all , describe how to construct an increasing subsequence of .    "
 },
 {
   "id": "subsequences-3",
@@ -2194,7 +2194,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Introduction to Cauchy Sequences",
-  "body": " Introduction to Cauchy Sequences    Solve the following Cauchy Sequence problems.     Prove that is a Cauchy sequence using the definition.      Suppose that and are Cauchy sequences. Prove that is a Cauchy sequence.      Suppose that converges to the limit . Prove that is a Cauchy sequence.      Suppose that is a Cauchy sequence. Prove that is bounded. Hint: When you apply the definition of Cauchy sequence to an of your choice and set up , fix and see where must lie.    "
+  "body": " Introduction to Cauchy Sequences   Solve the following Cauchy Sequence problems.     Prove that is a Cauchy sequence using the definition.      Suppose that and are Cauchy sequences. Prove that is a Cauchy sequence.      Suppose that converges to the limit . Prove that is a Cauchy sequence.      Suppose that is a Cauchy sequence. Prove that is bounded. Hint: When you apply the definition of Cauchy sequence to an of your choice and set up , fix and see where must lie.    "
 },
 {
   "id": "intro-cauchy-sequences-3",
@@ -2239,7 +2239,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Cauchy Sequences are Convergent Sequences (and Vice-Versa)",
-  "body": " Cauchy Sequences are Convergent Sequences (and Vice-Versa)    The following are some problems leading to the result that being convergent and being Cauchy are equivalent.     Let with .    If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.        Let be a bounded sequence, let . Define inf and sup .    Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.        Let be a Cauchy sequence, and let and be as in #2. Let .    Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.      "
+  "body": " Cauchy Sequences are Convergent Sequences (and Vice-Versa)   The following are some problems leading to the result that being convergent and being Cauchy are equivalent.     Let with .   If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.         Let be a bounded sequence, let . Define inf and sup .   Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.         Let be a Cauchy sequence, and let and be as in #2. Let .   Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.       "
 },
 {
   "id": "cauchy-converge-3",
@@ -2248,7 +2248,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let with .    If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.     "
+  "body": "  Let with .   If is bounded above, which is bigger, sup or sup ? Prove.    If is bounded below, which is bigger, inf or inf ? Prove.      "
 },
 {
   "id": "cauchy-converge-4",
@@ -2257,7 +2257,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let be a bounded sequence, let . Define inf and sup .    Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.     "
+  "body": "  Let be a bounded sequence, let . Define inf and sup .   Prove that is an increasing sequence.    Prove that is a decreasing sequence.    Prove that and are bounded.      "
 },
 {
   "id": "cauchy-converge-5",
@@ -2266,7 +2266,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Let be a Cauchy sequence, and let and be as in #2. Let .    Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.     "
+  "body": "  Let be a Cauchy sequence, and let and be as in #2. Let .   Prove that converges to some number .    Prove that converges to some number .    Let . Prove there exists such that .    Let . Prove there exists such that .    Prove that converges to or prove that converges to (your choice). Hint: Use the facts that is Cauchy; that either converges to or converges to ; either (c) or (d); and some triangle inequality magic.      "
 },
 {
   "id": "lim-inf-sup",
@@ -2275,7 +2275,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Limits Inferior &amp; Superior",
-  "body": " Limits Inferior & Superior    For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                       Prove that for each , .      Use the Squeeze Theorem to prove that if , then converges. What number does converge to?      If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.      If converges, prove it converges to .      If converges, what can you say about and ?    "
+  "body": " Limits Inferior & Superior   For a sequence , recall , inf , sup , , and .     Find the limit inferior and limit superior of the following sequences.                       Prove that for each , .      Use the Squeeze Theorem to prove that if , then converges. What number does converge to?      If converges, prove it converges to . Hint: Use the fact that is a Cauchy sequence.      If converges, prove it converges to .      If converges, what can you say about and ?    "
 },
 {
   "id": "lim-inf-sup-3",
@@ -2338,7 +2338,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Representing Real Numbers with Cauchy Sequences of Rational Numbers",
-  "body": " Representing Real Numbers with Cauchy Sequences of Rational Numbers    We say that a Cauchy sequence of rational numbers  represents the real number if converges to . For the following problems, do not worry about proofs. Use these exercises to develop your intuition. But be able to explain why you make the choices you make.     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.      If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .      For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .      For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .      Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).    "
+  "body": " Representing Real Numbers with Cauchy Sequences of Rational Numbers   We say that a Cauchy sequence of rational numbers  represents the real number if converges to . For the following problems, do not worry about proofs. Use these exercises to develop your intuition. But be able to explain why you make the choices you make.     For each of the real numbers and , find three Cauchy sequences of rational numbers that represent the number.      If is a sequence of rational numbers that represents the real number , find two other rational sequences that represent .      For each of and , use your calculator to find the first eight terms of a Cauchy sequence of rational numbers representing the given real number. Note: If you are willing to look back at your Calculus 2 experience, you may be able to find an entire sequence that represents .      For each real number , use your experience in #3 to describe how you could construct a Cauchy sequence of rational numbers representing .      Describe a test for whether or not the rational Cauchy sequences and represent the same real number. This test should be understandable to someone who doesn't know what irrational numbers are (but does know all about sequences).    "
 },
 {
   "id": "represent-real-3",
@@ -2392,7 +2392,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Equivalent Cauchy Sequences",
-  "body": " Equivalent Cauchy Sequences    Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . Define precisely when the sequence converges to .     Consider the sequences and .    Give an intuitive reason why .    Prove that . You may use the fact that and both converge to 0.        Let be a Cauchy sequence, and let be a subsequence. Prove that .      Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.      Prove that is an equivalence relation.    "
+  "body": " Equivalent Cauchy Sequences   Let be the set of all Cauchy sequences of rational numbers. Let and be sequences in . Define precisely when the sequence converges to .     Consider the sequences and .   Give an intuitive reason why .    Prove that . You may use the fact that and both converge to 0.         Let be a Cauchy sequence, and let be a subsequence. Prove that .      Recall that an equivalence relation is a relation that satisfies the reflexive property , the symmetric property , and the transitive property . For each of these properties, state what you must assume and what you must show to prove that is an equivalence relation.      Prove that is an equivalence relation.    "
 },
 {
   "id": "equiv-cauchy-3",
@@ -2401,7 +2401,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider the sequences and .    Give an intuitive reason why .    Prove that . You may use the fact that and both converge to 0.     "
+  "body": "  Consider the sequences and .   Give an intuitive reason why .    Prove that . You may use the fact that and both converge to 0.      "
 },
 {
   "id": "equiv-cauchy-4",
@@ -2437,7 +2437,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Real Number Arithmetic",
-  "body": " Real Number Arithmetic    Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Suppose that and are Cauchy sequences such that and .    What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).        Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.      (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.      (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.    "
+  "body": " Real Number Arithmetic   Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Let (so and are equivalence classes whose elements are Cauchy sequences of rational numbers). How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Let . How would you define ? Describe it as a process, and make sure that your answer is in as defined above.      Suppose that and are Cauchy sequences such that and .   What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).         Explain how the addition and multiplication defined in #1 and #2 could potentially be ambiguous.      (Not on quiz) Explain what you must assume and what you must prove in order for addition in to be well defined. Then try proving that addition is well defined.      (Not on quiz) Prove as many of the field axioms as you can for with addition and multiplication defined above. You may use the fact that is a field.    "
 },
 {
   "id": "arithmetic-real-3",
@@ -2464,7 +2464,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Suppose that and are Cauchy sequences such that and .    What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).     "
+  "body": "  Suppose that and are Cauchy sequences such that and .   What is your guess for ?    Suppose you use the sequences and as representatives of and . Prove that is the same as your guess in part (a).      "
 },
 {
   "id": "arithmetic-real-6",
@@ -2500,7 +2500,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Ordering the Real Numbers",
-  "body": " Ordering the Real Numbers    Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Consider the real numbers and . Determine whether , , or . Then prove it.      (Not on quiz) Explain what you must assume and what you must prove in order for to be well defined. Then try proving that is well defined.      (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for . You may use the fact that is an ordered field.    "
+  "body": " Ordering the Real Numbers   Let be the set of all Cauchy sequences of rational numbers. Let be the set of equivalence classes of under the equivalence relation we defined previously.     Consider the real numbers and . Determine whether , , or . Then prove it.      (Not on quiz) Explain what you must assume and what you must prove in order for to be well defined. Then try proving that is well defined.      (Not on quiz) Prove as many of the ordered field axioms that pertain to order as you can for . You may use the fact that is an ordered field.    "
 },
 {
   "id": "order-real-3",
@@ -2536,7 +2536,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Proving the Completeness Axiom",
-  "body": " Proving the Completeness Axiom    Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.        Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.      "
+  "body": " Proving the Completeness Axiom   Let be a set of real numbers that is bounded above by a real number .     Let's get familiar with how we construct the supremum of .   Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.         Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.   Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.       "
 },
 {
   "id": "completeness-real-3",
@@ -2545,7 +2545,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let's get familiar with how we construct the supremum of .    Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.     "
+  "body": "  Let's get familiar with how we construct the supremum of .   Use the Well-Ordering Principle to prove that there is a smallest integer that is an upper bound of .    Prove that is not an upper bound of .    When should we choose and when should be choose ?    Prove is not an upper bound of .    How should be choose from among and ? Prove that is not an upper bound of .    Do the same as above for and and, in general . You will probably define recursively.    Prove that is decreasing.    Try proving that is bounded. Hint: Let , and use the sequence to find a lower bound for all the 's.      "
 },
 {
   "id": "completeness-real-4",
@@ -2554,7 +2554,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.    Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.     "
+  "body": "  Here is a sliver of proving that every ordered field that contains and satisfies the Completeness Axiom is equivalent to the real numbers we constructed with Cauchy sequences. Let be our real numbers, and let be an ordered field that contains and satisfies the Completeness Axiom. We seek to find a function that takes each number in to the number in that plays the same role.   Let be in . Find a set of rational numbers that is the supremum of. Prove your result.    In the set you found above, can you find a sequence of rational numbers that converges to ? You will probably need to define it recursively.    Prove your sequence in (b) is Cauchy.    Determine what is based on your work in (a)--(c).    Prove is well defined.      "
 },
 {
   "id": "intro-limits",
@@ -2563,7 +2563,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Introduction to Limits",
-  "body": " Introduction to Limits    Solve the following problems on limits of real-valued functions.     For each of the following, guess , and for , determine inequalities involving for which .     , .     ,      arbitrary,      ,         Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .      Let and assume .    If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?        State precisely what it means for not to exist.    "
+  "body": " Introduction to Limits   Solve the following problems on limits of real-valued functions.     For each of the following, guess , and for , determine inequalities involving for which .    , .     ,      arbitrary,      ,          Use the definition of limits to prove your guesses for the limits in #1 are correct. Hint: For (b) and (d), start by demanding .      Let and assume .   If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?         State precisely what it means for not to exist.    "
 },
 {
   "id": "intro-limits-3",
@@ -2572,7 +2572,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  For each of the following, guess , and for , determine inequalities involving for which .     , .     ,      arbitrary,      ,      "
+  "body": "  For each of the following, guess , and for , determine inequalities involving for which .    , .     ,      arbitrary,      ,       "
 },
 {
   "id": "intro-limits-4",
@@ -2590,7 +2590,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Let and assume .    If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?     "
+  "body": "  Let and assume .   If , prove that there is some such that .    Use the above with to prove that . Hint: Use to solve for .    If , prove that there is some such that .    Use the above with to prove that .    What does this say about ?      "
 },
 {
   "id": "intro-limits-6",
@@ -2608,7 +2608,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Using Sequences to Determine Limits",
-  "body": " Using Sequences to Determine Limits    Use our result on using sequences to determine limits to solve the following.     Suppose and . Determine the following and prove your guess.                            Let Prove that does not exist without using the definition. Hint: Look at sequences approaching 1 from the left and from the right.      Let , , and be functions defined on an open interval , and let . Suppose also that , , and for all . Prove that .    "
+  "body": " Using Sequences to Determine Limits   Use our result on using sequences to determine limits to solve the following.     Suppose and . Determine the following and prove your guess.                            Let Prove that does not exist without using the definition. Hint: Look at sequences approaching 1 from the left and from the right.      Let , , and be functions defined on an open interval , and let . Suppose also that , , and for all . Prove that .    "
 },
 {
   "id": "limits-sequences-3",
@@ -2644,7 +2644,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Continuous Functions",
-  "body": " Continuous Functions    Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.     , where and are constants.             Assume that exists. Prove that is continuous at .      Let and be continuous at . Prove     is continuous at .     is continuous at .     is continuous at .      "
+  "body": " Continuous Functions   Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.              Assume that exists. Prove that is continuous at .      Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .       "
 },
 {
   "id": "continuous-3",
@@ -2653,7 +2653,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Prove that the following functions are continuous at , where is any real number.     , where and are constants.          "
+  "body": "  Prove that the following functions are continuous at , where is any real number.    , where and are constants.           "
 },
 {
   "id": "continuous-4",
@@ -2671,7 +2671,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Let and be continuous at . Prove     is continuous at .     is continuous at .     is continuous at .     "
+  "body": "  Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .      "
 },
 {
   "id": "uniform-cont",
@@ -2680,7 +2680,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Uniformly Continuous Functions",
-  "body": " Uniformly Continuous Functions    Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.      We now seek to prove that given by is not uniformly continuous on . Let .    Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?        (Not on quiz) Let be given by . Prove that is uniformly continuous on .      (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .    "
+  "body": " Uniformly Continuous Functions   Use the definition of uniformly continuous functions to solve the following.     Prove that given by is uniformly continuous on . Hint: The 2 and the 7 are important here.      We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?         (Not on quiz) Let be given by . Prove that is uniformly continuous on .      (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .    "
 },
 {
   "id": "uniform-cont-3",
@@ -2698,7 +2698,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  We now seek to prove that given by is not uniformly continuous on . Let .    Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?     "
+  "body": "  We now seek to prove that given by is not uniformly continuous on . Let .   Suppose you have a such that for all , if , then . For each , find an that satisfies .    For the you found above, how big must be in order for ? What can you conclude?      "
 },
 {
   "id": "uniform-cont-5",
@@ -2719,13 +2719,40 @@ var ptx_lunr_docs = [
   "body": "  (Not on quiz) Let , and suppose for all . Prove that is uniformly continuous on .   "
 },
 {
+  "id": "act-temp",
+  "level": "1",
+  "url": "act-temp.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Continuous Functions on Closed Intervals",
+  "body": " Continuous Functions on Closed Intervals   Let be a continuous function, and let . Recall that for each , we say that is acceptable if whenever we have .     Suppose that there exists some that is acceptable for all . Prove that is uniformly continuous.      Suppose that there is no that is acceptable for all .   For each , we know that cannot be acceptable for all (although it can be acceptable for some of them). State precisely what this means.    For each , let be the you found in (a), and let be the you found in (a). Prove that the sequence is bounded.    Prove that has a convergent subsequence , and prove that converges to the same number as . Hint: .    Find the limit of . Can you find the contradiction?       "
+},
+{
+  "id": "act-temp-3",
+  "level": "2",
+  "url": "act-temp.html#act-temp-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Suppose that there exists some that is acceptable for all . Prove that is uniformly continuous.   "
+},
+{
+  "id": "act-temp-4",
+  "level": "2",
+  "url": "act-temp.html#act-temp-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose that there is no that is acceptable for all .   For each , we know that cannot be acceptable for all (although it can be acceptable for some of them). State precisely what this means.    For each , let be the you found in (a), and let be the you found in (a). Prove that the sequence is bounded.    Prove that has a convergent subsequence , and prove that converges to the same number as . Hint: .    Find the limit of . Can you find the contradiction?      "
+},
+{
   "id": "extreme-value",
   "level": "1",
   "url": "extreme-value.html",
   "type": "Worksheet",
   "number": "",
   "title": "Extreme Value Theorem",
-  "body": " Extreme Value Theorem    Let be a continous function.     Let be a bounded set of real numbers, with and .    Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .        Assume that is unbounded from above.    Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?        Let be a continuous function, and let be the range of .    Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .      "
+  "body": " Extreme Value Theorem   Let be a continuous function.     Let be a bounded set of real numbers, with and .   Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .         Assume that is unbounded from above.   Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?         Let be a continuous function, and let be the range of .   Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .       "
 },
 {
   "id": "extreme-value-3",
@@ -2734,7 +2761,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let be a bounded set of real numbers, with and .    Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .     "
+  "body": "  Let be a bounded set of real numbers, with and .   Prove that there is a sequence with each that converges to . Hint: Look at .    Prove that there exists a sequence with each that converges to . Hint: Look at .      "
 },
 {
   "id": "extreme-value-4",
@@ -2743,7 +2770,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Assume that is unbounded from above.    Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?     "
+  "body": "  Assume that is unbounded from above.   Try to construct a sequence such that converges to . Hint: Try to choose to be large in such a way that keeps getting larger as gets larger.    Is bounded? Does it converge? Is there a subsequence that converges?    Let be the convergent subsequence you found in (b). What does  converge to? What does this tell you?    What do you do if is unbounded from below?      "
 },
 {
   "id": "extreme-value-5",
@@ -2752,7 +2779,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Let be a continuous function, and let be the range of .    Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .     "
+  "body": "  Let be a continuous function, and let be the range of .   Suppose . Prove that there is a sequence in that converges to .    Prove that there is a sequence such that converges to .    Prove there is a subsequence of (say ) that converges to some . What is ?    If exists, prove that .      "
 },
 {
   "id": "intermediate-value",
@@ -2761,7 +2788,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Intermediate Value Theorem",
-  "body": " Intermediate Value Theorem    The following is to help you understand and prove the Intermediate Value Theorem.     Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?        Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .      "
+  "body": " Intermediate Value Theorem   The following is to help you understand and prove the Intermediate Value Theorem.     Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?         Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .       "
 },
 {
   "id": "intermediate-value-3",
@@ -2770,7 +2797,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Let be a continuous function, and let with .    Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?     "
+  "body": "  Let be a continuous function, and let with .   Draw a picture of this situation, along with some possible graphs for .    Let be the first value of where and be the last value of where . What is true about on ? What about on ?    Define and . What is in your pictures? What is in your pictures?      "
 },
 {
   "id": "intermediate-value-4",
@@ -2779,7 +2806,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Let , , and be as above. Define , and .    Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .     "
+  "body": "  Let , , and be as above. Define , and .   Prove that and are bounded.    Prove that there are sequences and with each and each such that and .    What do and converge to?    What is the largest possible value of ?    What is the smallest possible value of ?    What is true about all elements of ? What about ?    Use what you found above to determine and .      "
 },
 {
   "id": "derivatives",
@@ -2788,7 +2815,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Derivatives",
-  "body": " Derivatives    This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.     Compute from the limit definition.     ,      ,         Suppose that exists. Prove that is continuous at . Hint: Prove that .      Suppose we know and . Find , where     , a constant.                  Let . Suppose you know and .    What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .        Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.    "
+  "body": " Derivatives   This section will not be assessed on a quiz or the final exam, but I wanted to let you know how our work contributes to differential calculus.     Compute from the limit definition.    ,      ,          Suppose that exists. Prove that is continuous at . Hint: Prove that .      Suppose we know and . Find , where    , a constant.                   Let . Suppose you know and .   What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .         Let , and suppose you know and . Compute . Hint: Use #3(c) and #4.    "
 },
 {
   "id": "derivatives-3",
@@ -2797,7 +2824,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Compute from the limit definition.     ,      ,      "
+  "body": "  Compute from the limit definition.    ,      ,       "
 },
 {
   "id": "derivatives-4",
@@ -2815,7 +2842,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Suppose we know and . Find , where     , a constant.               "
+  "body": "  Suppose we know and . Find , where    , a constant.                "
 },
 {
   "id": "derivatives-6",
@@ -2824,7 +2851,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Let . Suppose you know and .    What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .     "
+  "body": "  Let . Suppose you know and .   What are the dimensions of a rectangle with area ? What about ?    Carefully draw one of the above rectangles inside the other and find a formula for . Verify the formula algebraically.    Use your result in (b) to find .      "
 },
 {
   "id": "derivatives-7",

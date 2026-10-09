@@ -53,15 +53,15 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '8.3.2';
+eBookConfig.runestone_version = '8.3.4';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.6ad113829064d43a.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.02090e9f6a81e70e.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
-<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.347e2ecdeacfed99.css">
+<script src="_static/prefix-runtime.7e4cb14f24eb489b.bundle.js"></script><script src="_static/prefix-926.5c7038c8ef173faf.bundle.js"></script><script src="_static/prefix-runestone.54371ed119fe41be.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-926.229729d09512acc9.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.40d828091d93b733.css">
 <script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script>
 </head>
@@ -384,7 +384,8 @@ eBookConfig.enable_chatcodes =  false;
 <div class="toc-title-box"><a href="prep-11-17.html" class="internal"><span class="title">Resources for 11/17</span></a></div>
 <ul class="structural toc-item-list">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="prep-11-17.html#video-activity-uniform-cont" class="internal"><span class="title">Video &amp; Activities for Uniform Continuity</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="prep-11-17.html#prep-11-17-4" class="internal"><span class="title">Optional Reading</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="prep-11-17.html#video-activity-cont-closed-interval" class="internal"><span class="title">Video &amp; Activities for Continuous Functions on Closed Intervals</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="prep-11-17.html#prep-11-17-5" class="internal"><span class="title">Optional Reading</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-section">
@@ -526,7 +527,10 @@ eBookConfig.enable_chatcodes =  false;
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="in-class-56.html" class="internal"><span class="title">In-Class Activities: Section 5.6</span></a></div>
-<ul class="structural toc-item-list"><li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="uniform-cont.html" class="internal"><span class="title">Uniformly Continuous Functions</span></a></div></li></ul>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="uniform-cont.html" class="internal"><span class="title">Uniformly Continuous Functions</span></a></div></li>
+<li class="toc-item toc-worksheet"><div class="toc-title-box"><a href="act-temp.html" class="internal"><span class="title">Continuous Functions on Closed Intervals</span></a></div></li>
+</ul>
 </li>
 <li class="toc-item toc-chapter">
 <div class="toc-title-box"><a href="in-class-57.html" class="internal"><span class="title">In-Class Activities: Section 5.7</span></a></div>
@@ -642,17 +646,55 @@ eBookConfig.enable_chatcodes =  false;
 <div class="autopermalink" data-description="Item 5.c"><a href="#port-problems-408-7-1-1-6-3" title="Copy heading and permalink for Item 5.c" aria-label="Copy heading and permalink for Item 5.c">🔗</a></div>
 </li>
 <li id="port-problems-408-7-1-1-6-4">
-<div class="para" id="port-problems-408-7-1-1-6-4-1">Multiplicative Inverse:  Let <span class="process-math">\(Z\)</span> be the additive identity and <span class="process-math">\(I\)</span> be the multiplicative identity of <span class="process-math">\(\mathbb{R}\text{.}\)</span> Prove that for each <span class="process-math">\(X \in \mathbb{R}\)</span> with <span class="process-math">\(X \ne Z\text{,}\)</span> there exists some <span class="process-math">\(Y \in \mathbb{R}\)</span> such that <span class="process-math">\(X \cdot Y=I\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="port-problems-408-7-1-1-6-4-1">Multiplicative Inverse:  Let <span class="process-math">\(Z\)</span> be the additive identity and <span class="process-math">\(I\)</span> be the multiplicative identity of <span class="process-math">\(\mathbb{R}\text{.}\)</span> Prove that for each <span class="process-math">\(X \in \mathbb{R}\)</span> with <span class="process-math">\(X \ne Z\text{,}\)</span> there exists some <span class="process-math">\(Y \in \mathbb{R}\)</span> such that <span class="process-math">\(X \cdot Y=I\text{.}\)</span>  You do <em class="alert">NOT</em> need to do a full proof that your <span class="process-math">\(Y\)</span> is a real number.  Just do enough computations and explanation to show why it is a real number.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 5.d"><a href="#port-problems-408-7-1-1-6-4" title="Copy heading and permalink for Item 5.d" aria-label="Copy heading and permalink for Item 5.d">🔗</a></div>
 </li>
 <li id="port-problems-408-7-1-1-6-5">
-<div class="para" id="port-problems-408-7-1-1-6-5-1">The order relation <span class="process-math">\(&lt;\)</span> is well defined.  In other words, if <span class="process-math">\(X,Y \in \mathbb{R}\text{,}\)</span> we will get the same determination of <span class="process-math">\(X &lt; Y\text{,}\)</span> <span class="process-math">\(Y &lt; X\text{,}\)</span> or <span class="process-math">\(X=Y\)</span> regardless of which sequences we choose from <span class="process-math">\(X\)</span> and <span class="process-math">\(Y\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para logical" id="port-problems-408-7-1-1-6-5-1">
+<div class="para">The order relation <span class="process-math">\(&lt;\)</span> is well defined.  In other words, if <span class="process-math">\(X,Y \in \mathbb{R}\text{,}\)</span> we will get the same determination of <span class="process-math">\(X &lt; Y\text{,}\)</span> <span class="process-math">\(Y &lt; X\text{,}\)</span> or <span class="process-math">\(X=Y\)</span> regardless of which sequences we choose from <span class="process-math">\(X\)</span> and <span class="process-math">\(Y\text{.}\)</span> Hint: You are likely to prove this using proof by contradiction.  When you set up your contradiction, I suggest the following.</div>
+<ol class="lower-roman" id="port-problems-408-7-1-1-6-5-1-8">
+<li id="port-problems-408-7-1-1-6-5-1-8-1">
+<div class="para" id="port-problems-408-7-1-1-6-5-1-8-1-1">Express your contradiction assumption as inequalities.  You will likely have four inequalities to play with.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-5-1-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.e.i"><a href="#port-problems-408-7-1-1-6-5-1-8-1" title="Copy heading and permalink for Item 5.e.i" aria-label="Copy heading and permalink for Item 5.e.i">🔗</a></div>
+</li>
+<li id="port-problems-408-7-1-1-6-5-1-8-2">
+<div class="para" id="port-problems-408-7-1-1-6-5-1-8-2-1">Set up your inequalities so that they do not have any absolute value signs in them.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-5-1-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.e.ii"><a href="#port-problems-408-7-1-1-6-5-1-8-2" title="Copy heading and permalink for Item 5.e.ii" aria-label="Copy heading and permalink for Item 5.e.ii">🔗</a></div>
+</li>
+<li id="port-problems-408-7-1-1-6-5-1-8-3">
+<div class="para" id="port-problems-408-7-1-1-6-5-1-8-3-1">Play with your inequalities until you find your contradiction.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-5-1-8-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.e.iii"><a href="#port-problems-408-7-1-1-6-5-1-8-3" title="Copy heading and permalink for Item 5.e.iii" aria-label="Copy heading and permalink for Item 5.e.iii">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 5.e"><a href="#port-problems-408-7-1-1-6-5" title="Copy heading and permalink for Item 5.e" aria-label="Copy heading and permalink for Item 5.e">🔗</a></div>
 </li>
 <li id="port-problems-408-7-1-1-6-6">
-<div class="para" id="port-problems-408-7-1-1-6-6-1">Trichotomy: For all <span class="process-math">\(X,Y \in \mathbb{R}\text{,}\)</span> either <span class="process-math">\(X &lt; Y\text{,}\)</span> <span class="process-math">\(X=Y\text{,}\)</span> or <span class="process-math">\(Y &lt; X\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para logical" id="port-problems-408-7-1-1-6-6-1">
+<div class="para">Trichotomy: For all <span class="process-math">\(X,Y \in \mathbb{R}\text{,}\)</span> either <span class="process-math">\(X &lt; Y\text{,}\)</span> <span class="process-math">\(X=Y\text{,}\)</span> or <span class="process-math">\(Y &lt; X\text{.}\)</span> Hint: You want to eliminate the possibility that none of <span class="process-math">\(X &lt; Y\text{,}\)</span> <span class="process-math">\(Y &lt; X\text{,}\)</span> and <span class="process-math">\(X=Y\)</span> are true.</div>
+<ol class="lower-roman" id="port-problems-408-7-1-1-6-6-1-8">
+<li id="port-problems-408-7-1-1-6-6-1-8-1">
+<div class="para" id="port-problems-408-7-1-1-6-6-1-8-1-1">Use #2 on Homework #5 to get an “<span class="process-math">\(N\)</span>” large enough to get a useful inequality between the terms of your representative sequences from <span class="process-math">\(X\)</span> and <span class="process-math">\(Y\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-6-1-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.f.i"><a href="#port-problems-408-7-1-1-6-6-1-8-1" title="Copy heading and permalink for Item 5.f.i" aria-label="Copy heading and permalink for Item 5.f.i">🔗</a></div>
+</li>
+<li id="port-problems-408-7-1-1-6-6-1-8-2">
+<div class="para" id="port-problems-408-7-1-1-6-6-1-8-2-1">Choose your “<span class="process-math">\(N\)</span>” to be large enough so that the terms of each of your sequences are close together.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-6-1-8-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.f.ii"><a href="#port-problems-408-7-1-1-6-6-1-8-2" title="Copy heading and permalink for Item 5.f.ii" aria-label="Copy heading and permalink for Item 5.f.ii">🔗</a></div>
+</li>
+<li id="port-problems-408-7-1-1-6-6-1-8-3">
+<div class="para" id="port-problems-408-7-1-1-6-6-1-8-3-1">If <span class="process-math">\(N\)</span> is past all the above “<span class="process-math">\(N\)</span>’s”, you know that either <span class="process-math">\(x_{N+1} \le y_{N+1}\)</span> or <span class="process-math">\(y_{N+1} \le x_{N+1}\text{.}\)</span> Show that for all <span class="process-math">\(n &gt; N\text{,}\)</span> <span class="process-math">\(x_n\)</span> and <span class="process-math">\(y_n\)</span> have to keep the same order relationship as <span class="process-math">\(x_{N+1}\)</span> and <span class="process-math">\(y_{N+1}\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-6-1-8-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5.f.iii"><a href="#port-problems-408-7-1-1-6-6-1-8-3" title="Copy heading and permalink for Item 5.f.iii" aria-label="Copy heading and permalink for Item 5.f.iii">🔗</a></div>
+</li>
+</ol>
+<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-7-1-1-6-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 5.f"><a href="#port-problems-408-7-1-1-6-6" title="Copy heading and permalink for Item 5.f" aria-label="Copy heading and permalink for Item 5.f">🔗</a></div>
 </li>
@@ -663,14 +705,9 @@ eBookConfig.enable_chatcodes =  false;
 <div class="autopermalink" data-description="Worksheet Exercise 5"><a href="#port-problems-408-7" title="Copy heading and permalink for Worksheet Exercise 5" aria-label="Copy heading and permalink for Worksheet Exercise 5">🔗</a></div>
 </article>
 <article class="exercise exercise-like" id="port-problems-408-8"><h3 class="heading"><span class="codenumber">6<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="para" id="port-problems-408-8-1-1">For any <span class="process-math">\(r \in \mathbb{R}\text{,}\)</span> let <span class="process-math">\(\lfloor r \rfloor\)</span> be the greatest integer that is less than or equal to <span class="process-math">\(r\)</span> (e.g. <span class="process-math">\(\lfloor 3.5 \rfloor = 3\)</span> and <span class="process-math">\(\lfloor -1.2 \rfloor = -2\)</span>).  Consider the function <span class="process-math">\(f(x) = \lfloor x \rfloor + \lfloor -2x \rfloor\text{.}\)</span>  Determine all values of <span class="process-math">\(x\)</span> at which <span class="process-math">\(f\)</span> is continuous.  Prove your result.  Hint:  I would strongly suggest drawing a graph of the function to help you see the discontinuities and determine patterns.<div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="port-problems-408-8-1-1">Let <span class="process-math">\(p \in \mathbb{R}\)</span> be a constant, and let <span class="process-math">\(f: \mathbb{R} \rightarrow \mathbb{R}\)</span> be a continuous function such that <span class="process-math">\(f(x+p) = f(x)\)</span> for all <span class="process-math">\(x \in \mathbb{R}\)</span> (such a function is called periodic).  Prove that <span class="process-math">\(f\)</span> is uniformly continuous on <span class="process-math">\(\mathbb{R}\text{.}\)</span> Hint:  First consider <span class="process-math">\(f\)</span> on <span class="process-math">\([0,p]\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-8-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Worksheet Exercise 6"><a href="#port-problems-408-8" title="Copy heading and permalink for Worksheet Exercise 6" aria-label="Copy heading and permalink for Worksheet Exercise 6">🔗</a></div>
-</article>
-<article class="exercise exercise-like" id="port-problems-408-9"><h3 class="heading"><span class="codenumber">7<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="para" id="port-problems-408-9-1-1">Let <span class="process-math">\(p \in \mathbb{R}\)</span> be a constant, and let <span class="process-math">\(f: \mathbb{R} \rightarrow \mathbb{R}\)</span> be a continuous function such that <span class="process-math">\(f(x+p) = f(x)\)</span> for all <span class="process-math">\(x \in \mathbb{R}\)</span> (such a function is called periodic).  Prove that <span class="process-math">\(f\)</span> is uniformly continuous on <span class="process-math">\(\mathbb{R}\text{.}\)</span> Hint:  First consider <span class="process-math">\(f\)</span> on <span class="process-math">\([0,p]\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#port-problems-408-9-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Worksheet Exercise 7"><a href="#port-problems-408-9" title="Copy heading and permalink for Worksheet Exercise 7" aria-label="Copy heading and permalink for Worksheet Exercise 7">🔗</a></div>
 </article><div class="autopermalink" data-description="Worksheet: Portfolio Project Problems - Math 408"><a href="#port-problems-408" title="Copy heading and permalink for Worksheet: Portfolio Project Problems - Math 408" aria-label="Copy heading and permalink for Worksheet: Portfolio Project Problems - Math 408">🔗</a></div>
 </section>
 </div>
