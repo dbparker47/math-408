@@ -142,7 +142,7 @@
   <exercise>
     <statement>
       <p>
-        Let <m>p \in \mathbb{R}</m> be a constant, and let <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> be a continuous function such that <m>f(x+p) = f(x)</m> for all <m>x \in \mathbb{R}</m> (such a function is called periodic).  Prove that <m>f</m> is uniformly continuous on <m>\mathbb{R}</m>. Hint:  First consider <m>f</m> on <m>[0,p]</m>.
+        Let <m>p \in \mathbb{R}</m> be a constant, and let <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> be a continuous function such that <m>f(x+p) = f(x)</m> for all <m>x \in \mathbb{R}</m> (such a function is called periodic).  Prove that <m>f</m> is uniformly continuous on <m>\mathbb{R}</m>. Hint:  First consider <m>f</m> on <m>[0,2p]</m>.
       </p>
     </statement>
   </exercise>
