@@ -12,7 +12,7 @@
   <exercise>
     <statement>
       <p>
-        Our goal in this problem is to prove that it is impossible to order the set of complex numbers <m>\mathbb{C}</m> in such a way that <m>\mathbb{C}</m> is an ordered field.  In order to do this, you will first need to prove some results for ordered fields.  So for the following problems, assume that <m>A</m> is an ordered field with at least two elements, that <m>0 \in A</m> is the additive identity of <m>A</m>, and that <m>1 \in A</m> is the multiplicative identity in <m>A</m>.  Using only the axioms for ordered fields, prove the following.
+        (50 pts.) Our goal in this problem is to prove that it is impossible to order the set of complex numbers <m>\mathbb{C}</m> in such a way that <m>\mathbb{C}</m> is an ordered field.  In order to do this, you will first need to prove some results for ordered fields.  So for the following problems, assume that <m>A</m> is an ordered field with at least two elements, that <m>0 \in A</m> is the additive identity of <m>A</m>, and that <m>1 \in A</m> is the multiplicative identity in <m>A</m>.  Using only the axioms for ordered fields, prove the following.
         <ol>
           <li>
             <p>
@@ -43,7 +43,7 @@
   <exercise>
     <statement>
       <p>
-        Let <m>I</m> be an interval that is bounded above and bounded below. Prove that <m>I=[a,b]</m>, <m>[a,b)</m>, <m>(a,b]</m>, or <m>(a,b)</m> for some real numbers <m>a</m> and <m>b</m>.  For this problem only, you may use the fact that any set of real numbers that is bounded below has an infimum (which follows from the completeness axiom).
+        (50 pts.) Let <m>I</m> be an interval that is bounded above and bounded below. Prove that <m>I=[a,b]</m>, <m>[a,b)</m>, <m>(a,b]</m>, or <m>(a,b)</m> for some real numbers <m>a</m> and <m>b</m>.  For this problem only, you may use the fact that any set of real numbers that is bounded below has an infimum (which follows from the completeness axiom).
       </p>
     </statement>
   </exercise>
@@ -51,7 +51,7 @@
   <exercise>
     <statement>
       <p>
-        Suppose that <m>S</m> is an infinite set (maybe countably infinite, maybe not), and let <m>T = \{ x_1,x_2, \ldots , x_n \}</m> (i.e. <m>T</m> is a finite set) that is disjoint from <m>S</m>.  Prove that <m>S</m> and <m>S \cup T</m> have the same cardinality.  In other words, prove there is a function <m>f: S \rightarrow (S \cup T)</m> that is one-to-one and onto. Hint:  Warm up by solving the problem for the case that <m>S</m> is countably infinite, and then do the case where <m>S</m> is uncountable.
+        (50 pts.) Suppose that <m>S</m> is an infinite set (maybe countably infinite, maybe not), and let <m>T = \{ x_1,x_2, \ldots , x_n \}</m> (i.e. <m>T</m> is a finite set) that is disjoint from <m>S</m>.  Prove that <m>S</m> and <m>S \cup T</m> have the same cardinality.  In other words, prove there is a function <m>f: S \rightarrow (S \cup T)</m> that is one-to-one and onto. Hint:  Warm up by solving the problem for the case that <m>S</m> is countably infinite, and then do the case where <m>S</m> is uncountable.
       </p>
     </statement>
   </exercise>
@@ -59,7 +59,7 @@
   <exercise>
     <statement>
       <p>
-        Let <m>\{ x_n \}</m> be a bounded sequence that does not converge.  Prove that <m>\{ x_n \}</m> has at least two subsequences that converge to different limits.   Note that both sequences need to converge.
+        (50 pts.) Let <m>\{ x_n \}</m> be a bounded sequence that does not converge.  Prove that <m>\{ x_n \}</m> has at least two subsequences that converge to different limits.   Note that both sequences need to converge.
       </p>
     </statement>
   </exercise>
@@ -67,31 +67,31 @@
   <exercise>
     <statement>
       <p>
-        For this problem, we are assuming that the real numbers are as we constructed in class.  In other words, <m>\mathbb{R}</m> is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation:  <m>\{ x_n \} \sim \{ y_n \}</m> if and only if <m>\{ x_n - y_n \}</m> converges to 0.  We are also using our definitions of addition, multiplication, and <m>&lt;</m> on <m>\mathbb{R}</m> that we determined in class.  Prove the following.
+        (165 pts.) For this problem, we are assuming that the real numbers are as we constructed in class.  In other words, <m>\mathbb{R}</m> is the set of equivalence classes of Cauchy sequences of rational numbers that are derived from the following relation:  <m>\{ x_n \} \sim \{ y_n \}</m> if and only if <m>\{ x_n - y_n \}</m> converges to 0.  We are also using our definitions of addition, multiplication, and <m>&lt;</m> on <m>\mathbb{R}</m> that we determined in class.  Prove the following.
         <ol>
           <li>
             <p>
-              Multiplication is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, prove that no matter how you choose <m>\{ x_n \} \in X</m> and <m>\{ y_n \} \in Y</m> to compute <m>X \cdot Y</m>, you always get the same product.
+              (30 pts.) Multiplication is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, prove that no matter how you choose <m>\{ x_n \} \in X</m> and <m>\{ y_n \} \in Y</m> to compute <m>X \cdot Y</m>, you always get the same product.
             </p>
           </li>
           <li>
             <p>
-              <m>\mathbb{R}</m> is closed under addition.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X+Y \in \mathbb{R}</m>.
+              (10 pts.) <m>\mathbb{R}</m> is closed under addition.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X+Y \in \mathbb{R}</m>.
             </p>
           </li>
           <li>
             <p>
-              <m>\mathbb{R}</m> is closed under multiplication.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X \cdot Y \in \mathbb{R}</m>.
+              (20 pts.) <m>\mathbb{R}</m> is closed under multiplication.  In other words, for all <m>X,Y \in \mathbb{R}</m>, if <m>X,Y \in \mathbb{R}</m>, prove that <m>X \cdot Y \in \mathbb{R}</m>.
             </p>
           </li>
           <li>
             <p>
-              Multiplicative Inverse:  Let <m>Z</m> be the additive identity and <m>I</m> be the multiplicative identity of <m>\mathbb{R}</m>. Prove that for each <m>X \in \mathbb{R}</m> with <m>X \ne Z</m>, there exists some <m>Y \in \mathbb{R}</m> such that <m>X \cdot Y=I</m>.  You do <alert>NOT</alert> need to do a full proof that your <m>Y</m> is a real number.  Just do enough computations and explanation to show why it is a real number.
+              (30 pts.) Multiplicative Inverse:  Let <m>Z</m> be the additive identity and <m>I</m> be the multiplicative identity of <m>\mathbb{R}</m>. Prove that for each <m>X \in \mathbb{R}</m> with <m>X \ne Z</m>, there exists some <m>Y \in \mathbb{R}</m> such that <m>X \cdot Y=I</m>.  You do <alert>NOT</alert> need to do a full proof that your <m>Y</m> is a real number.  Just do enough computations and explanation to show why it is a real number.
             </p>
           </li>
           <li>
             <p>
-              The order relation <m>&lt;</m> is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, we will get the same determination of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> regardless of which sequences we choose from <m>X</m> and <m>Y</m>. Hint: You are likely to prove this using proof by contradiction.  When you set up your contradiction, I suggest the following.
+              (35 pts.) The order relation <m>&lt;</m> is well defined.  In other words, if <m>X,Y \in \mathbb{R}</m>, we will get the same determination of <m>X &lt; Y</m>, <m>Y &lt; X</m>, or <m>X=Y</m> regardless of which sequences we choose from <m>X</m> and <m>Y</m>. Hint: You are likely to prove this using proof by contradiction.  When you set up your contradiction, I suggest the following.
               <ol>
                 <li>
                   <p>
@@ -113,7 +113,7 @@
           </li>
           <li>
             <p>
-              Trichotomy: For all <m>X,Y \in \mathbb{R}</m>, either <m>X &lt; Y</m>, <m>X=Y</m>, or <m>Y &lt; X</m>. Hint: You want to eliminate the possibility that none of <m>X &lt; Y</m>, <m>Y &lt; X</m>, and <m>X=Y</m> are true.
+              (40 pts.) Trichotomy: For all <m>X,Y \in \mathbb{R}</m>, either <m>X &lt; Y</m>, <m>X=Y</m>, or <m>Y &lt; X</m>. Hint: You want to eliminate the possibility that none of <m>X &lt; Y</m>, <m>Y &lt; X</m>, and <m>X=Y</m> are true.
               <ol>
                 <li>
                   <p>
@@ -142,7 +142,7 @@
   <exercise>
     <statement>
       <p>
-        Let <m>p \in \mathbb{R}</m> be a constant, and let <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> be a continuous function such that <m>f(x+p) = f(x)</m> for all <m>x \in \mathbb{R}</m> (such a function is called periodic).  Prove that <m>f</m> is uniformly continuous on <m>\mathbb{R}</m>. Hint:  First consider <m>f</m> on <m>[0,2p]</m>.
+        (45 pts.) Let <m>p \in \mathbb{R}</m> be a constant, and let <m>f: \mathbb{R} \rightarrow \mathbb{R}</m> be a continuous function such that <m>f(x+p) = f(x)</m> for all <m>x \in \mathbb{R}</m> (such a function is called periodic).  Prove that <m>f</m> is uniformly continuous on <m>\mathbb{R}</m>. Hint:  First consider <m>f</m> on <m>[0,2p]</m>.
       </p>
     </statement>
   </exercise>
