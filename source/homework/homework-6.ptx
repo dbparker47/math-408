@@ -39,6 +39,10 @@
   </p>
 
   <p>
+    Recall that the Completeness Axiom was used to prove the Archimedean Principle, so you may not use it (unless you prove it for rational numbers without using the Completeness Axiom).  However, I will allow you to use the fact that the integers are not bounded above and not bounded below.
+  </p>
+
+  <p>
     For the entire assignment, assume that <m>\{ x_n \}</m> is a bounded increasing sequence.
   </p>
 
