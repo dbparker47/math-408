@@ -52,12 +52,15 @@
               <m>h(x) = f(x)g(x)</m> is continuous at <m>x=a</m>.
             </p>
           </li>
-          <li>
-            <p>
-              <m>h(x)=f(g(x))</m> is continuous at <m>x=a</m>.
-            </p>
-          </li>
         </ol>
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>
+        Suppose <m>g(x)</m> is continuous at <m>x=a</m> and <m>f(x)</m> is continuous at <m>x=g(a)</m>.  Then <m>h(x)=f(g(x))</m> is continuous at <m>x=a</m>.
       </p>
     </statement>
   </exercise>
