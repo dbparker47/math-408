@@ -1222,7 +1222,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Resources for 11\/12",
-  "body": " Resources for 11\/12    For the content of this class, you will be expected to be able to do the following:     State the definition of a continuous function .    Have an intuitive understanding of what a continuous function is.    Use the definition of a continuous function to prove that a function is continuous.    Use theorems proved in class to prove a function is continuous.    Use theorems proved in class to prove a function is not continuous.      Video & Activities for Continuous Functions  Below is a YouTube video on continuous functions . It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Continuous Functions  Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.            Assume that exists. Prove that is continuous at .    Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .           Optional Reading  Section 5.4: pp. 305-318  Section 5.5: pp. 320-321   "
+  "body": " Resources for 11\/12    For the content of this class, you will be expected to be able to do the following:     State the definition of a continuous function .    Have an intuitive understanding of what a continuous function is.    Use the definition of a continuous function to prove that a function is continuous.    Use theorems proved in class to prove a function is continuous.    Use theorems proved in class to prove a function is not continuous.      Video & Activities for Continuous Functions  Below is a YouTube video on continuous functions . It is followed by a link to a set of activities that we will be working on in class. Please watch the video and do as many of the activities as you can before class.    Continuous Functions  Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.            Assume that exists. Prove that is continuous at .    Let and be continuous at . Prove    is continuous at .     is continuous at .       Suppose is continuous at and is continuous at . Then is continuous at .        Optional Reading  Section 5.4: pp. 305-318  Section 5.5: pp. 320-321   "
 },
 {
   "id": "prep-11-12-2",
@@ -1240,7 +1240,7 @@ var ptx_lunr_docs = [
   "type": "In-Class Activities",
   "number": "35",
   "title": "Continuous Functions.",
-  "body": " Continuous Functions  Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.            Assume that exists. Prove that is continuous at .    Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .        "
+  "body": " Continuous Functions  Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.            Assume that exists. Prove that is continuous at .    Let and be continuous at . Prove    is continuous at .     is continuous at .       Suppose is continuous at and is continuous at . Then is continuous at .     "
 },
 {
   "id": "prep-11-17",
@@ -2644,7 +2644,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Continuous Functions",
-  "body": " Continuous Functions   Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.              Assume that exists. Prove that is continuous at .      Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .       "
+  "body": " Continuous Functions   Use the definition of continuous functions to solve the following.     Prove that the following functions are continuous at , where is any real number.    , where and are constants.              Assume that exists. Prove that is continuous at .      Let and be continuous at . Prove    is continuous at .     is continuous at .         Suppose is continuous at and is continuous at . Then is continuous at .    "
 },
 {
   "id": "continuous-3",
@@ -2671,7 +2671,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Let and be continuous at . Prove    is continuous at .     is continuous at .     is continuous at .      "
+  "body": "  Let and be continuous at . Prove    is continuous at .     is continuous at .      "
+},
+{
+  "id": "continuous-6",
+  "level": "2",
+  "url": "continuous.html#continuous-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Suppose is continuous at and is continuous at . Then is continuous at .   "
 },
 {
   "id": "uniform-cont",
